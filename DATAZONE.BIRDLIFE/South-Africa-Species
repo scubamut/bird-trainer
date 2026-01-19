@@ -1,0 +1,765 @@
+CommonName,ScientificName,FamilyName,IUCNRedListCategory,BreedingEndemic
+Common Ostrich,Struthio camelus,Ostriches,Least Concern,False
+Helmeted Guineafowl,Numida meleagris,Guineafowl,Least Concern,False
+Southern Crested Guineafowl,Guttera edouardi,Guineafowl,Least Concern,False
+Common Quail,Coturnix coturnix,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Harlequin Quail,Coturnix delegorguei,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+African Blue Quail,Synoicus adansonii,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Red-billed Spurfowl,Pternistis adspersus,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Cape Spurfowl,Pternistis capensis,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Natal Spurfowl,Pternistis natalensis,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Red-necked Spurfowl,Pternistis afer,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Swainson's Spurfowl,Pternistis swainsonii,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Crested Francolin,Ortygornis sephaena,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Coqui Francolin,Campocolinus coqui,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Red-winged Francolin,Scleroptila levaillantii,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Grey-winged Francolin,Scleroptila afra,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Shelley's Francolin,Scleroptila shelleyi,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+Orange River Francolin,Scleroptila gutturalis,"Pheasants, Partridges, Turkeys, Grouse",Least Concern,False
+White-faced Whistling-duck,Dendrocygna viduata,"Ducks, Geese, Swans",Least Concern,False
+Fulvous Whistling-duck,Dendrocygna bicolor,"Ducks, Geese, Swans",Least Concern,False
+White-backed Duck,Thalassornis leuconotus,"Ducks, Geese, Swans",Least Concern,False
+Maccoa Duck,Oxyura maccoa,"Ducks, Geese, Swans",Endangered,False
+Egyptian Goose,Alopochen aegyptiaca,"Ducks, Geese, Swans",Least Concern,False
+South African Shelduck,Tadorna cana,"Ducks, Geese, Swans",Least Concern,False
+Spur-winged Goose,Plectropterus gambensis,"Ducks, Geese, Swans",Least Concern,False
+Knob-billed Duck,Sarkidiornis melanotos,"Ducks, Geese, Swans",Least Concern,False
+African Pygmy-goose,Nettapus auritus,"Ducks, Geese, Swans",Least Concern,False
+Southern Pochard,Netta erythrophthalma,"Ducks, Geese, Swans",Least Concern,False
+Garganey,Spatula querquedula,"Ducks, Geese, Swans",Least Concern,False
+Blue-billed Teal,Spatula hottentota,"Ducks, Geese, Swans",Least Concern,False
+Cape Shoveler,Spatula smithii,"Ducks, Geese, Swans",Least Concern,False
+African Black Duck,Anas sparsa,"Ducks, Geese, Swans",Least Concern,False
+Yellow-billed Duck,Anas undulata,"Ducks, Geese, Swans",Least Concern,False
+Cape Teal,Anas capensis,"Ducks, Geese, Swans",Least Concern,False
+Red-billed Teal,Anas erythrorhyncha,"Ducks, Geese, Swans",Least Concern,False
+Northern Pintail,Anas acuta,"Ducks, Geese, Swans",Least Concern,False
+Little Grebe,Tachybaptus ruficollis,Grebes,Least Concern,False
+Great Crested Grebe,Podiceps cristatus,Grebes,Least Concern,False
+Black-necked Grebe,Podiceps nigricollis,Grebes,Least Concern,False
+Greater Flamingo,Phoenicopterus roseus,Flamingos,Least Concern,False
+Lesser Flamingo,Phoeniconaias minor,Flamingos,Near Threatened,False
+Red-tailed Tropicbird,Phaethon rubricauda,Tropicbirds,Least Concern,False
+White-tailed Tropicbird,Phaethon lepturus,Tropicbirds,Least Concern,False
+Speckled Pigeon,Columba guinea,"Pigeons, Doves",Least Concern,False
+African Olive-pigeon,Columba arquatrix,"Pigeons, Doves",Least Concern,False
+Eastern Bronze-naped Pigeon,Columba delegorguei,"Pigeons, Doves",Least Concern,False
+Lemon Dove,Aplopelia larvata,"Pigeons, Doves",Least Concern,False
+Mourning Collared-dove,Streptopelia decipiens,"Pigeons, Doves",Least Concern,False
+Red-eyed Dove,Streptopelia semitorquata,"Pigeons, Doves",Least Concern,False
+Ring-necked Dove,Streptopelia capicola,"Pigeons, Doves",Least Concern,False
+Laughing Dove,Spilopelia senegalensis,"Pigeons, Doves",Least Concern,False
+Emerald-spotted Wood-dove,Turtur chalcospilos,"Pigeons, Doves",Least Concern,False
+Blue-spotted Wood-dove,Turtur afer,"Pigeons, Doves",Least Concern,False
+Tambourine Dove,Turtur tympanistria,"Pigeons, Doves",Least Concern,False
+Namaqua Dove,Oena capensis,"Pigeons, Doves",Least Concern,False
+Grey-breasted Green-pigeon,Treron delalandii,"Pigeons, Doves",Least Concern,False
+Namaqua Sandgrouse,Pterocles namaqua,Sandgrouse,Least Concern,False
+Yellow-throated Sandgrouse,Pterocles gutturalis,Sandgrouse,Least Concern,False
+Burchell's Sandgrouse,Pterocles burchelli,Sandgrouse,Least Concern,False
+Double-banded Sandgrouse,Pterocles bicinctus,Sandgrouse,Least Concern,False
+European Nightjar,Caprimulgus europaeus,Nightjars,Least Concern,False
+Rufous-cheeked Nightjar,Caprimulgus rufigena,Nightjars,Least Concern,False
+Fiery-necked Nightjar,Caprimulgus pectoralis,Nightjars,Least Concern,False
+Swamp Nightjar,Caprimulgus natalensis,Nightjars,Least Concern,False
+Freckled Nightjar,Caprimulgus tristigma,Nightjars,Least Concern,False
+Mozambique Nightjar,Caprimulgus fossii,Nightjars,Least Concern,False
+Pennant-winged Nightjar,Caprimulgus vexillarius,Nightjars,Least Concern,False
+Mottled Spinetail,Telacanthura ussheri,Swifts,Least Concern,False
+Böhm's Spinetail,Neafrapus boehmi,Swifts,Least Concern,False
+African Palm Swift,Cypsiurus parvus,Swifts,Least Concern,False
+Alpine Swift,Tachymarptis melba,Swifts,Least Concern,False
+White-rumped Swift,Apus caffer,Swifts,Least Concern,False
+Horus Swift,Apus horus,Swifts,Least Concern,False
+Little Swift,Apus affinis,Swifts,Least Concern,False
+Bradfield's Swift,Apus bradfieldi,Swifts,Least Concern,False
+African Swift,Apus barbatus,Swifts,Least Concern,False
+Common Swift,Apus apus,Swifts,Least Concern,False
+Senegal Coucal,Centropus senegalensis,Cuckoos,Least Concern,False
+White-browed Coucal,Centropus superciliosus,Cuckoos,Least Concern,False
+Black Coucal,Centropus grillii,Cuckoos,Least Concern,False
+Whistling Yellowbill,Ceuthmochares australis,Cuckoos,Least Concern,False
+Jacobin Cuckoo,Clamator jacobinus,Cuckoos,Least Concern,False
+Levaillant's Cuckoo,Clamator levaillantii,Cuckoos,Least Concern,False
+Great Spotted Cuckoo,Clamator glandarius,Cuckoos,Least Concern,False
+Thick-billed Cuckoo,Pachycoccyx audeberti,Cuckoos,Least Concern,False
+Klaas's Cuckoo,Chrysococcyx klaas,Cuckoos,Least Concern,False
+African Emerald Cuckoo,Chrysococcyx cupreus,Cuckoos,Least Concern,False
+Diederik Cuckoo,Chrysococcyx caprius,Cuckoos,Least Concern,False
+Red-chested Cuckoo,Cuculus solitarius,Cuckoos,Least Concern,False
+Black Cuckoo,Cuculus clamosus,Cuckoos,Least Concern,False
+Common Cuckoo,Cuculus canorus,Cuckoos,Least Concern,False
+African Cuckoo,Cuculus gularis,Cuckoos,Least Concern,False
+African Finfoot,Podica senegalensis,Finfoots,Least Concern,False
+Buff-spotted Flufftail,Sarothrura elegans,"Rails, Gallinules, Coots",Least Concern,False
+Red-chested Flufftail,Sarothrura rufa,"Rails, Gallinules, Coots",Least Concern,False
+Striped Flufftail,Sarothrura affinis,"Rails, Gallinules, Coots",Least Concern,False
+White-winged Flufftail,Sarothrura ayresi,"Rails, Gallinules, Coots",Critically Endangered,False
+African Rail,Rallus caerulescens,"Rails, Gallinules, Coots",Least Concern,False
+African Crake,Crex egregia,"Rails, Gallinules, Coots",Least Concern,False
+Corncrake,Crex crex,"Rails, Gallinules, Coots",Least Concern,False
+Spotted Crake,Porzana porzana,"Rails, Gallinules, Coots",Least Concern,False
+Black Crake,Zapornia flavirostra,"Rails, Gallinules, Coots",Least Concern,False
+Baillon's Crake,Zapornia pusilla,"Rails, Gallinules, Coots",Least Concern,False
+Striped Crake,Amaurornis marginalis,"Rails, Gallinules, Coots",Least Concern,False
+Purple Swamphen,Porphyrio porphyrio,"Rails, Gallinules, Coots",Least Concern,False
+Allen's Gallinule,Porphyrio alleni,"Rails, Gallinules, Coots",Least Concern,False
+Common Moorhen,Gallinula chloropus,"Rails, Gallinules, Coots",Least Concern,False
+Lesser Moorhen,Paragallinula angulata,"Rails, Gallinules, Coots",Least Concern,False
+Red-knobbed Coot,Fulica cristata,"Rails, Gallinules, Coots",Least Concern,False
+Grey Crowned Crane,Balearica regulorum,Cranes,Endangered,False
+Wattled Crane,Bugeranus carunculatus,Cranes,Vulnerable,False
+Blue Crane,Anthropoides paradiseus,Cranes,Vulnerable,False
+Black-bellied Bustard,Lissotis melanogaster,Bustards,Least Concern,False
+Ludwig's Bustard,Neotis ludwigii,Bustards,Endangered,False
+Denham's Bustard,Neotis denhami,Bustards,Near Threatened,False
+Kori Bustard,Ardeotis kori,Bustards,Near Threatened,False
+Red-crested Bustard,Lophotis ruficrista,Bustards,Least Concern,False
+Karoo Bustard,Heterotetrax vigorsii,Bustards,Least Concern,False
+Southern Black Bustard,Afrotis afra,Bustards,Vulnerable,True
+Northern Black Bustard,Afrotis afraoides,Bustards,Least Concern,False
+White-bellied Bustard,Eupodotis senegalensis,Bustards,Least Concern,False
+Blue Bustard,Eupodotis caerulescens,Bustards,Near Threatened,False
+Grey Go-away-bird,Corythaixoides concolor,Turacos,Least Concern,False
+Purple-crested Turaco,Gallirex porphyreolophus,Turacos,Least Concern,False
+Livingstone's Turaco,Tauraco livingstonii,Turacos,Least Concern,False
+Knysna Turaco,Tauraco corythaix,Turacos,Least Concern,False
+King Penguin,Aptenodytes patagonicus,Penguins,Least Concern,False
+Gentoo Penguin,Pygoscelis papua,Penguins,Least Concern,False
+Macaroni Penguin,Eudyptes chrysolophus,Penguins,Vulnerable,False
+Southern Rockhopper Penguin,Eudyptes chrysocome,Penguins,Vulnerable,False
+African Penguin,Spheniscus demersus,Penguins,Critically Endangered,False
+Wilson's Storm-petrel,Oceanites oceanicus,Southern Storm-petrels,Least Concern,False
+White-bellied Storm-petrel,Fregetta grallaria,Southern Storm-petrels,Least Concern,False
+Black-bellied Storm-petrel,Fregetta tropica,Southern Storm-petrels,Least Concern,False
+Leach's Storm-petrel,Hydrobates leucorhous,Northern Storm-petrels,Vulnerable,False
+Northern Royal Albatross,Diomedea sanfordi,Albatrosses,Endangered,False
+Southern Royal Albatross,Diomedea epomophora,Albatrosses,Vulnerable,False
+Snowy Albatross,Diomedea exulans,Albatrosses,Vulnerable,False
+Tristan Albatross,Diomedea dabbenena,Albatrosses,Critically Endangered,False
+Sooty Albatross,Phoebetria fusca,Albatrosses,Endangered,False
+Light-mantled Albatross,Phoebetria palpebrata,Albatrosses,Near Threatened,False
+Atlantic Yellow-nosed Albatross,Thalassarche chlororhynchos,Albatrosses,Endangered,False
+Indian Yellow-nosed Albatross,Thalassarche carteri,Albatrosses,Endangered,False
+Grey-headed Albatross,Thalassarche chrysostoma,Albatrosses,Endangered,False
+Black-browed Albatross,Thalassarche melanophris,Albatrosses,Least Concern,False
+Shy Albatross,Thalassarche cauta,Albatrosses,Near Threatened,False
+White-capped Albatross,Thalassarche steadi,Albatrosses,Near Threatened,False
+Salvin's Albatross,Thalassarche salvini,Albatrosses,Vulnerable,False
+Northern Giant Petrel,Macronectes halli,"Petrels, Shearwaters",Least Concern,False
+Southern Giant Petrel,Macronectes giganteus,"Petrels, Shearwaters",Least Concern,False
+Southern Fulmar,Fulmarus glacialoides,"Petrels, Shearwaters",Least Concern,False
+Cape Petrel,Daption capense,"Petrels, Shearwaters",Least Concern,False
+Blue Petrel,Halobaena caerulea,"Petrels, Shearwaters",Least Concern,False
+Broad-billed Prion,Pachyptila vittata,"Petrels, Shearwaters",Least Concern,False
+Salvin's Prion,Pachyptila salvini,"Petrels, Shearwaters",Least Concern,False
+Antarctic Prion,Pachyptila desolata,"Petrels, Shearwaters",Least Concern,False
+Slender-billed Prion,Pachyptila belcheri,"Petrels, Shearwaters",Least Concern,False
+Fairy Prion,Pachyptila turtur,"Petrels, Shearwaters",Least Concern,False
+Kerguelen Petrel,Aphrodroma brevirostris,"Petrels, Shearwaters",Least Concern,False
+Barau's Petrel,Pterodroma baraui,"Petrels, Shearwaters",Endangered,False
+Soft-plumaged Petrel,Pterodroma mollis,"Petrels, Shearwaters",Least Concern,False
+Atlantic Petrel,Pterodroma incerta,"Petrels, Shearwaters",Endangered,False
+White-headed Petrel,Pterodroma lessonii,"Petrels, Shearwaters",Least Concern,False
+Great-winged Petrel,Pterodroma macroptera,"Petrels, Shearwaters",Least Concern,False
+Grey Petrel,Procellaria cinerea,"Petrels, Shearwaters",Near Threatened,False
+White-chinned Petrel,Procellaria aequinoctialis,"Petrels, Shearwaters",Vulnerable,False
+Spectacled Petrel,Procellaria conspicillata,"Petrels, Shearwaters",Vulnerable,False
+Flesh-footed Shearwater,Ardenna carneipes,"Petrels, Shearwaters",Near Threatened,False
+Scopoli's Shearwater,Calonectris diomedea,"Petrels, Shearwaters",Least Concern,False
+Cory's Shearwater,Calonectris borealis,"Petrels, Shearwaters",Least Concern,False
+Manx Shearwater,Puffinus puffinus,"Petrels, Shearwaters",Least Concern,False
+Subantarctic Shearwater,Puffinus elegans,"Petrels, Shearwaters",Least Concern,False
+South Georgia Diving-petrel,Pelecanoides georgicus,"Petrels, Shearwaters",Least Concern,False
+Common Diving-petrel,Pelecanoides urinatrix,"Petrels, Shearwaters",Least Concern,False
+Marabou Stork,Leptoptilos crumenifer,Storks,Least Concern,False
+Yellow-billed Stork,Mycteria ibis,Storks,Least Concern,False
+African Openbill,Anastomus lamelligerus,Storks,Least Concern,False
+Black Stork,Ciconia nigra,Storks,Least Concern,False
+Abdim's Stork,Ciconia abdimii,Storks,Least Concern,False
+African Woollyneck,Ciconia microscelis,Storks,Least Concern,False
+White Stork,Ciconia ciconia,Storks,Least Concern,False
+Saddle-billed Stork,Ephippiorhynchus senegalensis,Storks,Near Threatened,False
+African Spoonbill,Platalea alba,"Ibises, Spoonbills",Least Concern,False
+African Sacred Ibis,Threskiornis aethiopicus,"Ibises, Spoonbills",Least Concern,False
+Southern Bald Ibis,Geronticus calvus,"Ibises, Spoonbills",Near Threatened,False
+Hadada Ibis,Bostrychia hagedash,"Ibises, Spoonbills",Least Concern,False
+Glossy Ibis,Plegadis falcinellus,"Ibises, Spoonbills",Least Concern,False
+Eurasian Bittern,Botaurus stellaris,Herons,Least Concern,False
+Common Little Bittern,Ixobrychus minutus,Herons,Least Concern,False
+Dwarf Bittern,Ixobrychus sturmii,Herons,Least Concern,False
+White-backed Night Heron,Calherodius leuconotus,Herons,Least Concern,False
+Black-crowned Night Heron,Nycticorax nycticorax,Herons,Least Concern,False
+Green-backed Heron,Butorides striata,Herons,Least Concern,False
+Squacco Heron,Ardeola ralloides,Herons,Least Concern,False
+Rufous-bellied Heron,Ardeola rufiventris,Herons,Least Concern,False
+Cattle Egret,Bubulcus ibis,Herons,Least Concern,False
+Grey Heron,Ardea cinerea,Herons,Least Concern,False
+Black-headed Heron,Ardea melanocephala,Herons,Least Concern,False
+Goliath Heron,Ardea goliath,Herons,Least Concern,False
+Purple Heron,Ardea purpurea,Herons,Least Concern,False
+Great White Egret,Ardea alba,Herons,Least Concern,False
+Yellow-billed Egret,Ardea brachyrhyncha,Herons,Least Concern,False
+Black Heron,Egretta ardesiaca,Herons,Least Concern,False
+Slaty Egret,Egretta vinaceigula,Herons,Vulnerable,False
+Little Egret,Egretta garzetta,Herons,Least Concern,False
+Hamerkop,Scopus umbretta,Hamerkop,Least Concern,False
+Pink-backed Pelican,Pelecanus rufescens,Pelicans,Least Concern,False
+Great White Pelican,Pelecanus onocrotalus,Pelicans,Least Concern,False
+Great Frigatebird,Fregata minor,Frigatebirds,Least Concern,False
+Cape Gannet,Morus capensis,"Gannets, Boobies",Endangered,False
+Crowned Cormorant,Microcarbo coronatus,Cormorants,Least Concern,False
+Long-tailed Cormorant,Microcarbo africanus,Cormorants,Least Concern,False
+Imperial Shag,Leucocarbo atriceps,Cormorants,Least Concern,False
+Great Cormorant,Phalacrocorax carbo,Cormorants,Least Concern,False
+Cape Cormorant,Phalacrocorax capensis,Cormorants,Endangered,False
+Bank Cormorant,Phalacrocorax neglectus,Cormorants,Endangered,False
+African Darter,Anhinga rufa,Darters,Least Concern,False
+Water Thick-knee,Burhinus vermiculatus,Thick-knees,Least Concern,False
+Spotted Thick-knee,Burhinus capensis,Thick-knees,Least Concern,False
+Black-faced Sheathbill,Chionis minor,Sheathbills,Least Concern,False
+African Oystercatcher,Haematopus moquini,Oystercatchers,Least Concern,False
+Pied Avocet,Recurvirostra avosetta,"Avocets, Stilts",Least Concern,False
+Black-winged Stilt,Himantopus himantopus,"Avocets, Stilts",Least Concern,False
+Grey Plover,Pluvialis squatarola,Plovers,Vulnerable,False
+Common Ringed Plover,Charadrius hiaticula,Plovers,Least Concern,False
+Kittlitz's Plover,Charadrius pecuarius,Plovers,Least Concern,False
+African Three-banded Plover,Charadrius tricollaris,Plovers,Least Concern,False
+White-fronted Plover,Charadrius marginatus,Plovers,Least Concern,False
+Chestnut-banded Plover,Charadrius pallidus,Plovers,Least Concern,False
+Tibetan Sandplover,Charadrius atrifrons,Plovers,Least Concern,False
+Greater Sandplover,Charadrius leschenaultii,Plovers,Least Concern,False
+Caspian Plover,Charadrius asiaticus,Plovers,Least Concern,False
+Long-toed Lapwing,Vanellus crassirostris,Plovers,Least Concern,False
+Blacksmith Lapwing,Vanellus armatus,Plovers,Least Concern,False
+White-crowned Lapwing,Vanellus albiceps,Plovers,Least Concern,False
+Senegal Lapwing,Vanellus lugubris,Plovers,Least Concern,False
+Black-winged Lapwing,Vanellus melanopterus,Plovers,Least Concern,False
+Crowned Lapwing,Vanellus coronatus,Plovers,Least Concern,False
+Wattled Lapwing,Vanellus senegallus,Plovers,Least Concern,False
+Greater Painted-snipe,Rostratula benghalensis,Painted-snipes,Least Concern,False
+African Jacana,Actophilornis africanus,Jacanas,Least Concern,False
+Lesser Jacana,Microparra capensis,Jacanas,Least Concern,False
+Whimbrel,Numenius phaeopus,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Eurasian Curlew,Numenius arquata,"Sandpipers, Snipes, Phalaropes",Near Threatened,False
+Bar-tailed Godwit,Limosa lapponica,"Sandpipers, Snipes, Phalaropes",Near Threatened,False
+Ruddy Turnstone,Arenaria interpres,"Sandpipers, Snipes, Phalaropes",Near Threatened,False
+Red Knot,Calidris canutus,"Sandpipers, Snipes, Phalaropes",Near Threatened,False
+Ruff,Calidris pugnax,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Curlew Sandpiper,Calidris ferruginea,"Sandpipers, Snipes, Phalaropes",Vulnerable,False
+Temminck's Stint,Calidris temminckii,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Sanderling,Calidris alba,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Little Stint,Calidris minuta,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+African Snipe,Gallinago nigripennis,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Great Snipe,Gallinago media,"Sandpipers, Snipes, Phalaropes",Near Threatened,False
+Red Phalarope,Phalaropus fulicarius,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Terek Sandpiper,Xenus cinereus,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Common Sandpiper,Actitis hypoleucos,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Green Sandpiper,Tringa ochropus,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Common Greenshank,Tringa nebularia,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Common Redshank,Tringa totanus,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Wood Sandpiper,Tringa glareola,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Marsh Sandpiper,Tringa stagnatilis,"Sandpipers, Snipes, Phalaropes",Least Concern,False
+Common Buttonquail,Turnix sylvaticus,Buttonquails,Least Concern,False
+Black-rumped Buttonquail,Turnix nanus,Buttonquails,Least Concern,False
+Fynbos Buttonquail,Turnix hottentottus,Buttonquails,Least Concern,True
+Crab-plover,Dromas ardeola,Crab-plover,Least Concern,False
+Double-banded Courser,Smutsornis africanus,"Coursers, Pratincoles",Least Concern,False
+Three-banded Courser,Rhinoptilus cinctus,"Coursers, Pratincoles",Least Concern,False
+Bronze-winged Courser,Rhinoptilus chalcopterus,"Coursers, Pratincoles",Least Concern,False
+Burchell's Courser,Cursorius rufus,"Coursers, Pratincoles",Least Concern,False
+Temminck's Courser,Cursorius temminckii,"Coursers, Pratincoles",Least Concern,False
+Collared Pratincole,Glareola pratincola,"Coursers, Pratincoles",Least Concern,False
+Black-winged Pratincole,Glareola nordmanni,"Coursers, Pratincoles",Near Threatened,False
+Brown Noddy,Anous stolidus,"Gulls, Terns, Skimmers",Least Concern,False
+Sabine's Gull,Xema sabini,"Gulls, Terns, Skimmers",Least Concern,False
+Hartlaub's Gull,Larus hartlaubii,"Gulls, Terns, Skimmers",Least Concern,False
+Grey-headed Gull,Larus cirrocephalus,"Gulls, Terns, Skimmers",Least Concern,False
+Kelp Gull,Larus dominicanus,"Gulls, Terns, Skimmers",Least Concern,False
+Lesser Black-backed Gull,Larus fuscus,"Gulls, Terns, Skimmers",Least Concern,False
+Sooty Tern,Onychoprion fuscatus,"Gulls, Terns, Skimmers",Least Concern,False
+Bridled Tern,Onychoprion anaethetus,"Gulls, Terns, Skimmers",Least Concern,False
+Little Tern,Sternula albifrons,"Gulls, Terns, Skimmers",Least Concern,False
+Damara Tern,Sternula balaenarum,"Gulls, Terns, Skimmers",Least Concern,False
+Caspian Tern,Hydroprogne caspia,"Gulls, Terns, Skimmers",Least Concern,False
+Whiskered Tern,Chlidonias hybrida,"Gulls, Terns, Skimmers",Least Concern,False
+White-winged Tern,Chlidonias leucopterus,"Gulls, Terns, Skimmers",Least Concern,False
+Black Tern,Chlidonias niger,"Gulls, Terns, Skimmers",Least Concern,False
+Roseate Tern,Sterna dougallii,"Gulls, Terns, Skimmers",Least Concern,False
+Common Tern,Sterna hirundo,"Gulls, Terns, Skimmers",Least Concern,False
+Arctic Tern,Sterna paradisaea,"Gulls, Terns, Skimmers",Least Concern,False
+Antarctic Tern,Sterna vittata,"Gulls, Terns, Skimmers",Least Concern,False
+Kerguelen Tern,Sterna virgata,"Gulls, Terns, Skimmers",Near Threatened,False
+Lesser Crested Tern,Thalasseus bengalensis,"Gulls, Terns, Skimmers",Least Concern,False
+Sandwich Tern,Thalasseus sandvicensis,"Gulls, Terns, Skimmers",Least Concern,False
+Greater Crested Tern,Thalasseus bergii,"Gulls, Terns, Skimmers",Least Concern,False
+Arctic Jaeger,Stercorarius parasiticus,Skuas,Least Concern,False
+Pomarine Jaeger,Stercorarius pomarinus,Skuas,Least Concern,False
+South Polar Skua,Catharacta maccormicki,Skuas,Least Concern,False
+Brown Skua,Catharacta antarctica,Skuas,Least Concern,False
+African Grass-owl,Tyto capensis,Barn-owls,Least Concern,False
+Common Barn-owl,Tyto alba,Barn-owls,Least Concern,False
+Pearl-spotted Owlet,Glaucidium perlatum,Typical Owls,Least Concern,False
+African Barred Owlet,Glaucidium capense,Typical Owls,Least Concern,False
+African Scops-owl,Otus senegalensis,Typical Owls,Least Concern,False
+Southern White-faced Owl,Ptilopsis granti,Typical Owls,Least Concern,False
+Marsh Owl,Asio capensis,Typical Owls,Least Concern,False
+African Wood-owl,Strix woodfordii,Typical Owls,Least Concern,False
+Cape Eagle-owl,Bubo capensis,Typical Owls,Least Concern,False
+Spotted Eagle-owl,Bubo africanus,Typical Owls,Least Concern,False
+Verreaux's Eagle-owl,Bubo lacteus,Typical Owls,Least Concern,False
+Pel's Fishing-owl,Scotopelia peli,Typical Owls,Least Concern,False
+Secretarybird,Sagittarius serpentarius,Secretarybird,Endangered,False
+Osprey,Pandion haliaetus,Osprey,Least Concern,False
+Black-winged Kite,Elanus caeruleus,Kites,Least Concern,False
+European Honey-buzzard,Pernis apivorus,"Hawks, Eagles",Least Concern,False
+African Cuckoo-hawk,Aviceda cuculoides,"Hawks, Eagles",Least Concern,False
+African Harrier-hawk,Polyboroides typus,"Hawks, Eagles",Least Concern,False
+Palm-nut Vulture,Gypohierax angolensis,"Hawks, Eagles",Least Concern,False
+Bearded Vulture,Gypaetus barbatus,"Hawks, Eagles",Near Threatened,False
+Egyptian Vulture,Neophron percnopterus,"Hawks, Eagles",Endangered,False
+Bateleur,Terathopius ecaudatus,"Hawks, Eagles",Endangered,False
+Black-chested Snake-eagle,Circaetus pectoralis,"Hawks, Eagles",Least Concern,False
+Brown Snake-eagle,Circaetus cinereus,"Hawks, Eagles",Least Concern,False
+Southern Banded Snake-eagle,Circaetus fasciolatus,"Hawks, Eagles",Near Threatened,False
+White-headed Vulture,Trigonoceps occipitalis,"Hawks, Eagles",Critically Endangered,False
+Hooded Vulture,Necrosyrtes monachus,"Hawks, Eagles",Critically Endangered,False
+White-backed Vulture,Gyps africanus,"Hawks, Eagles",Critically Endangered,False
+Cape Vulture,Gyps coprotheres,"Hawks, Eagles",Vulnerable,False
+Lappet-faced Vulture,Torgos tracheliotos,"Hawks, Eagles",Endangered,False
+Bat Hawk,Macheiramphus alcinus,"Hawks, Eagles",Least Concern,False
+Crowned Eagle,Stephanoaetus coronatus,"Hawks, Eagles",Near Threatened,False
+Martial Eagle,Polemaetus bellicosus,"Hawks, Eagles",Endangered,False
+Long-crested Eagle,Lophaetus occipitalis,"Hawks, Eagles",Least Concern,False
+Lesser Spotted Eagle,Clanga pomarina,"Hawks, Eagles",Least Concern,False
+Tawny Eagle,Aquila rapax,"Hawks, Eagles",Vulnerable,False
+Steppe Eagle,Aquila nipalensis,"Hawks, Eagles",Endangered,False
+Verreaux's Eagle,Aquila verreauxii,"Hawks, Eagles",Least Concern,False
+African Hawk-eagle,Aquila spilogaster,"Hawks, Eagles",Least Concern,False
+Wahlberg's Eagle,Hieraaetus wahlbergi,"Hawks, Eagles",Least Concern,False
+Booted Eagle,Hieraaetus pennatus,"Hawks, Eagles",Least Concern,False
+Ayres's Hawk-eagle,Hieraaetus ayresii,"Hawks, Eagles",Least Concern,False
+Lizard Buzzard,Kaupifalco monogrammicus,"Hawks, Eagles",Least Concern,False
+Dark Chanting-goshawk,Melierax metabates,"Hawks, Eagles",Least Concern,False
+Pale Chanting-goshawk,Melierax canorus,"Hawks, Eagles",Least Concern,False
+Gabar Goshawk,Micronisus gabar,"Hawks, Eagles",Least Concern,False
+Western Marsh-harrier,Circus aeruginosus,"Hawks, Eagles",Least Concern,False
+African Marsh-harrier,Circus ranivorus,"Hawks, Eagles",Least Concern,False
+Black Harrier,Circus maurus,"Hawks, Eagles",Endangered,False
+Pallid Harrier,Circus macrourus,"Hawks, Eagles",Near Threatened,False
+Montagu's Harrier,Circus pygargus,"Hawks, Eagles",Least Concern,False
+African Goshawk,Accipiter tachiro,"Hawks, Eagles",Least Concern,False
+Shikra,Accipiter badius,"Hawks, Eagles",Least Concern,False
+Little Sparrowhawk,Accipiter minullus,"Hawks, Eagles",Least Concern,False
+Ovambo Sparrowhawk,Accipiter ovampensis,"Hawks, Eagles",Least Concern,False
+Rufous-breasted Sparrowhawk,Accipiter rufiventris,"Hawks, Eagles",Least Concern,False
+Black Sparrowhawk,Accipiter melanoleucus,"Hawks, Eagles",Least Concern,False
+African Fish-eagle,Haliaeetus vocifer,"Hawks, Eagles",Least Concern,False
+Black Kite,Milvus migrans,"Hawks, Eagles",Least Concern,False
+Yellow-billed Kite,Milvus aegyptius,"Hawks, Eagles",Least Concern,False
+Augur Buzzard,Buteo augur,"Hawks, Eagles",Least Concern,False
+Jackal Buzzard,Buteo rufofuscus,"Hawks, Eagles",Least Concern,False
+Eurasian Buzzard,Buteo buteo,"Hawks, Eagles",Least Concern,False
+Forest Buzzard,Buteo trizonatus,"Hawks, Eagles",Near Threatened,True
+Speckled Mousebird,Colius striatus,Mousebirds,Least Concern,False
+White-backed Mousebird,Colius colius,Mousebirds,Least Concern,False
+Red-faced Mousebird,Urocolius indicus,Mousebirds,Least Concern,False
+Narina Trogon,Apaloderma narina,Trogons,Least Concern,False
+Southern Ground-hornbill,Bucorvus leadbeateri,Hornbills,Vulnerable,False
+African Grey Hornbill,Lophoceros nasutus,Hornbills,Least Concern,False
+Crowned Hornbill,Lophoceros alboterminatus,Hornbills,Least Concern,False
+Southern Yellow-billed Hornbill,Tockus leucomelas,Hornbills,Least Concern,False
+Red-billed Hornbill,Tockus erythrorhynchus,Hornbills,Least Concern,False
+Silvery-cheeked Hornbill,Bycanistes brevis,Hornbills,Least Concern,False
+Trumpeter Hornbill,Bycanistes bucinator,Hornbills,Least Concern,False
+Common Hoopoe,Upupa epops,Hoopoes,Least Concern,False
+Green Woodhoopoe,Phoeniculus purpureus,Woodhoopoes,Least Concern,False
+Common Scimitarbill,Rhinopomastus cyanomelas,Woodhoopoes,Least Concern,False
+White-fronted Bee-eater,Merops bullockoides,Bee-eaters,Least Concern,False
+Southern Carmine Bee-eater,Merops nubicoides,Bee-eaters,Least Concern,False
+Blue-cheeked Bee-eater,Merops persicus,Bee-eaters,Least Concern,False
+European Bee-eater,Merops apiaster,Bee-eaters,Least Concern,False
+Swallow-tailed Bee-eater,Merops hirundineus,Bee-eaters,Least Concern,False
+Little Bee-eater,Merops pusillus,Bee-eaters,Least Concern,False
+Purple Roller,Coracias naevius,Rollers,Least Concern,False
+Racquet-tailed Roller,Coracias spatulatus,Rollers,Least Concern,False
+Lilac-breasted Roller,Coracias caudatus,Rollers,Least Concern,False
+European Roller,Coracias garrulus,Rollers,Least Concern,False
+Broad-billed Roller,Eurystomus glaucurus,Rollers,Least Concern,False
+African Pygmy-kingfisher,Ispidina picta,Kingfishers,Least Concern,False
+Malachite Kingfisher,Corythornis cristatus,Kingfishers,Least Concern,False
+Half-collared Kingfisher,Alcedo semitorquata,Kingfishers,Least Concern,False
+Giant Kingfisher,Megaceryle maxima,Kingfishers,Least Concern,False
+Pied Kingfisher,Ceryle rudis,Kingfishers,Least Concern,False
+Grey-headed Kingfisher,Halcyon leucocephala,Kingfishers,Least Concern,False
+Brown-hooded Kingfisher,Halcyon albiventris,Kingfishers,Least Concern,False
+Striped Kingfisher,Halcyon chelicuti,Kingfishers,Least Concern,False
+Woodland Kingfisher,Halcyon senegalensis,Kingfishers,Least Concern,False
+Mangrove Kingfisher,Halcyon senegaloides,Kingfishers,Least Concern,False
+Crested Barbet,Trachyphonus vaillantii,African barbets,Least Concern,False
+Green Barbet,Cryptolybia olivacea,African barbets,Least Concern,False
+White-eared Barbet,Stactolaema leucotis,African barbets,Least Concern,False
+Yellow-rumped Tinkerbird,Pogoniulus bilineatus,African barbets,Least Concern,False
+Red-fronted Tinkerbird,Pogoniulus pusillus,African barbets,Least Concern,False
+Yellow-fronted Tinkerbird,Pogoniulus chrysoconus,African barbets,Least Concern,False
+Acacia Pied Barbet,Tricholaema leucomelas,African barbets,Least Concern,False
+Black-collared Barbet,Lybius torquatus,African barbets,Least Concern,False
+Brown-backed Honeybird,Prodotiscus regulus,Honeyguides,Least Concern,False
+Lesser Honeyguide,Indicator minor,Honeyguides,Least Concern,False
+Scaly-throated Honeyguide,Indicator variegatus,Honeyguides,Least Concern,False
+Greater Honeyguide,Indicator indicator,Honeyguides,Least Concern,False
+Rufous-necked Wryneck,Jynx ruficollis,Woodpeckers,Least Concern,False
+Ground Woodpecker,Geocolaptes olivaceus,Woodpeckers,Near Threatened,False
+Bennett's Woodpecker,Campethera bennettii,Woodpeckers,Least Concern,False
+Golden-tailed Woodpecker,Campethera abingoni,Woodpeckers,Least Concern,False
+Knysna Woodpecker,Campethera notata,Woodpeckers,Near Threatened,True
+Cardinal Woodpecker,Dendropicos fuscescens,Woodpeckers,Least Concern,False
+Bearded Woodpecker,Dendropicos namaquus,Woodpeckers,Least Concern,False
+Olive Woodpecker,Dendropicos griseocephalus,Woodpeckers,Least Concern,False
+African Pygmy-falcon,Polihierax semitorquatus,"Falcons, Caracaras",Least Concern,False
+Lesser Kestrel,Falco naumanni,"Falcons, Caracaras",Least Concern,False
+Common Kestrel,Falco tinnunculus,"Falcons, Caracaras",Least Concern,False
+Greater Kestrel,Falco rupicoloides,"Falcons, Caracaras",Least Concern,False
+Dickinson's Kestrel,Falco dickinsoni,"Falcons, Caracaras",Least Concern,False
+Red-necked Falcon,Falco ruficollis,"Falcons, Caracaras",Least Concern,False
+Red-footed Falcon,Falco vespertinus,"Falcons, Caracaras",Vulnerable,False
+Amur Falcon,Falco amurensis,"Falcons, Caracaras",Least Concern,False
+Sooty Falcon,Falco concolor,"Falcons, Caracaras",Vulnerable,False
+Eurasian Hobby,Falco subbuteo,"Falcons, Caracaras",Least Concern,False
+African Hobby,Falco cuvierii,"Falcons, Caracaras",Least Concern,False
+Lanner Falcon,Falco biarmicus,"Falcons, Caracaras",Least Concern,False
+Peregrine Falcon,Falco peregrinus,"Falcons, Caracaras",Least Concern,False
+Taita Falcon,Falco fasciinucha,"Falcons, Caracaras",Vulnerable,False
+Cape Parrot,Poicephalus robustus,Parrots,Vulnerable,True
+Brown-necked Parrot,Poicephalus fuscicollis,Parrots,Least Concern,False
+Brown Parrot,Poicephalus meyeri,Parrots,Least Concern,False
+Brown-headed Parrot,Poicephalus cryptoxanthus,Parrots,Least Concern,False
+Rosy-faced Lovebird,Agapornis roseicollis,Parrots,Least Concern,False
+African Broadbill,Smithornis capensis,African and green broadbills,Least Concern,False
+Eastern Black-headed Oriole,Oriolus larvatus,Old World Orioles,Least Concern,False
+Eurasian Golden Oriole,Oriolus oriolus,Old World Orioles,Least Concern,False
+African Golden Oriole,Oriolus auratus,Old World Orioles,Least Concern,False
+White-breasted Cuckooshrike,Ceblepyris pectoralis,Cuckooshrikes,Least Concern,False
+Grey Cuckooshrike,Ceblepyris caesius,Cuckooshrikes,Least Concern,False
+Black Cuckooshrike,Campephaga flava,Cuckooshrikes,Least Concern,False
+White-crested Helmetshrike,Prionops plumatus,Vangas and allies,Least Concern,False
+Retz's Helmetshrike,Prionops retzii,Vangas and allies,Least Concern,False
+Cape Batis,Batis capensis,Batises and Wattle-eyes,Least Concern,False
+Woodwards' Batis,Batis fratrum,Batises and Wattle-eyes,Least Concern,False
+Chinspot Batis,Batis molitor,Batises and Wattle-eyes,Least Concern,False
+Pririt Batis,Batis pririt,Batises and Wattle-eyes,Least Concern,False
+Black-throated Wattle-eye,Platysteira peltata,Batises and Wattle-eyes,Least Concern,False
+Grey-headed Bushshrike,Malaconotus blanchoti,Bush-shrikes,Least Concern,False
+Black-backed Puffback,Dryoscopus cubla,Bush-shrikes,Least Concern,False
+Brown-crowned Tchagra,Tchagra australis,Bush-shrikes,Least Concern,False
+Southern Tchagra,Tchagra tchagra,Bush-shrikes,Least Concern,False
+Black-crowned Tchagra,Tchagra senegalus,Bush-shrikes,Least Concern,False
+Brubru,Nilaus afer,Bush-shrikes,Least Concern,False
+Black-fronted Bushshrike,Chlorophoneus nigrifrons,Bush-shrikes,Least Concern,False
+Olive Bushshrike,Chlorophoneus olivaceus,Bush-shrikes,Least Concern,False
+Orange-breasted Bushshrike,Chlorophoneus sulfureopectus,Bush-shrikes,Least Concern,False
+Tropical Boubou,Laniarius aethiopicus,Bush-shrikes,Least Concern,False
+Southern Boubou,Laniarius ferrugineus,Bush-shrikes,Least Concern,False
+Crimson-breasted Gonolek,Laniarius atrococcineus,Bush-shrikes,Least Concern,False
+Bokmakierie,Telophorus zeylonus,Bush-shrikes,Least Concern,False
+Gorgeous Bushshrike,Telophorus viridis,Bush-shrikes,Least Concern,False
+Square-tailed Drongo,Dicrurus ludwigii,Drongos,Least Concern,False
+Fork-tailed Drongo,Dicrurus adsimilis,Drongos,Least Concern,False
+Eastern Crested-flycatcher,Trochocercus bivittatus,Monarch-flycatchers,Least Concern,False
+Southern Crested-flycatcher,Trochocercus cyanomelas,Monarch-flycatchers,Least Concern,True
+African Paradise-flycatcher,Terpsiphone viridis,Monarch-flycatchers,Least Concern,False
+Southern White-crowned Shrike,Eurocephalus anguitimens,Shrikes,Least Concern,False
+Red-backed Shrike,Lanius collurio,Shrikes,Least Concern,False
+Lesser Grey Shrike,Lanius minor,Shrikes,Least Concern,False
+Magpie Shrike,Lanius melanoleucus,Shrikes,Least Concern,False
+Common Fiscal,Lanius collaris,Shrikes,Least Concern,False
+Cape Crow,Corvus capensis,Crows and jays,Least Concern,False
+White-necked Raven,Corvus albicollis,Crows and jays,Least Concern,False
+Pied Crow,Corvus albus,Crows and jays,Least Concern,False
+Cape Rockjumper,Chaetops frenatus,Rockjumpers,Near Threatened,True
+Drakensberg Rockjumper,Chaetops aurantius,Rockjumpers,Near Threatened,False
+Southern Hyliota,Hyliota australis,Hyliotas,Least Concern,False
+Fairy Flycatcher,Stenostira scita,Fairy Flycatcher and allies,Least Concern,False
+Southern Black Tit,Melaniparus niger,Tits and chickadees,Least Concern,False
+Grey Tit,Melaniparus afer,Tits and chickadees,Least Concern,False
+Ashy Tit,Melaniparus cinerascens,Tits and chickadees,Least Concern,False
+Grey Penduline-tit,Anthoscopus caroli,Penduline-tits,Least Concern,False
+Cape Penduline-tit,Anthoscopus minutus,Penduline-tits,Least Concern,False
+Spike-heeled Lark,Chersomanes albofasciata,Larks,Least Concern,False
+Short-clawed Lark,Certhilauda chuana,Larks,Least Concern,False
+Karoo Long-billed Lark,Certhilauda subcoronata,Larks,Least Concern,False
+Cape Long-billed Lark,Certhilauda curvirostris,Larks,Least Concern,False
+Eastern Long-billed Lark,Certhilauda semitorquata,Larks,Least Concern,False
+Dusky Lark,Pinarocorys nigricans,Larks,Least Concern,False
+Black-eared Sparrow-lark,Eremopterix australis,Larks,Least Concern,False
+Chestnut-backed Sparrow-lark,Eremopterix leucotis,Larks,Least Concern,False
+Grey-backed Sparrow-lark,Eremopterix verticalis,Larks,Least Concern,False
+Sabota Lark,Calendulauda sabota,Larks,Least Concern,False
+Fawn-coloured Lark,Calendulauda africanoides,Larks,Least Concern,False
+Karoo Lark,Calendulauda albescens,Larks,Least Concern,True
+Red Lark,Calendulauda burra,Larks,Vulnerable,True
+Rudd's Lark,Heteromirafra ruddi,Larks,Endangered,True
+Cape Clapper Lark,Mirafra apiata,Larks,Least Concern,False
+Eastern Clapper Lark,Mirafra fasciolata,Larks,Least Concern,False
+Rufous-naped Lark,Mirafra africana,Larks,Least Concern,False
+Flappet Lark,Mirafra rufocinnamomea,Larks,Least Concern,False
+Monotonous Lark,Mirafra passerina,Larks,Least Concern,False
+Melodious Lark,Mirafra cheniana,Larks,Least Concern,False
+Red-capped Lark,Calandrella cinerea,Larks,Least Concern,False
+Sclater's Lark,Spizocorys sclateri,Larks,Near Threatened,False
+Stark's Lark,Spizocorys starki,Larks,Least Concern,False
+Botha's Lark,Spizocorys fringillaris,Larks,Endangered,True
+Pink-billed Lark,Spizocorys conirostris,Larks,Least Concern,False
+Large-billed Lark,Galerida magnirostris,Larks,Least Concern,False
+Eastern Nicator,Nicator gularis,Nicators,Least Concern,False
+Long-billed Crombec,Sylvietta rufescens,Crombecs and allies,Least Concern,False
+Victorin's Warbler,Cryptillas victorini,Crombecs and allies,Least Concern,True
+Cape Grassbird,Sphenoeacus afer,Crombecs and allies,Least Concern,False
+Yellow-bellied Eremomela,Eremomela icteropygialis,Cisticolas and allies,Least Concern,False
+Green-capped Eremomela,Eremomela scotops,Cisticolas and allies,Least Concern,False
+Karoo Eremomela,Eremomela gregalis,Cisticolas and allies,Least Concern,False
+Burnt-necked Eremomela,Eremomela usticollis,Cisticolas and allies,Least Concern,False
+Namaqua Warbler,Phragmacia substriata,Cisticolas and allies,Least Concern,False
+Bar-throated Apalis,Apalis thoracica,Cisticolas and allies,Least Concern,False
+Rudd's Apalis,Apalis ruddi,Cisticolas and allies,Least Concern,False
+Yellow-breasted Apalis,Apalis flavida,Cisticolas and allies,Least Concern,False
+Stierling's Wren-warbler,Calamonastes stierlingi,Cisticolas and allies,Least Concern,False
+Barred Wren-warbler,Calamonastes fasciolatus,Cisticolas and allies,Least Concern,False
+Bleating Camaroptera,Camaroptera brachyura,Cisticolas and allies,Least Concern,False
+Cinnamon-breasted Warbler,Euryptila subcinnamomea,Cisticolas and allies,Least Concern,False
+Rufous-eared Warbler,Malcorus pectoralis,Cisticolas and allies,Least Concern,False
+Red-faced Cisticola,Cisticola erythrops,Cisticolas and allies,Least Concern,False
+Lazy Cisticola,Cisticola aberrans,Cisticolas and allies,Least Concern,False
+Rattling Cisticola,Cisticola chiniana,Cisticolas and allies,Least Concern,False
+Tinkling Cisticola,Cisticola rufilatus,Cisticolas and allies,Least Concern,False
+Grey-backed Cisticola,Cisticola subruficapilla,Cisticolas and allies,Least Concern,False
+Wailing Cisticola,Cisticola lais,Cisticolas and allies,Least Concern,False
+Rufous-winged Cisticola,Cisticola galactotes,Cisticolas and allies,Least Concern,False
+Levaillant's Cisticola,Cisticola tinniens,Cisticolas and allies,Least Concern,False
+Croaking Cisticola,Cisticola natalensis,Cisticolas and allies,Least Concern,False
+Neddicky,Cisticola fulvicapilla,Cisticolas and allies,Least Concern,False
+Zitting Cisticola,Cisticola juncidis,Cisticolas and allies,Least Concern,False
+Desert Cisticola,Cisticola aridulus,Cisticolas and allies,Least Concern,False
+Cloud Cisticola,Cisticola textrix,Cisticolas and allies,Least Concern,False
+Pale-crowned Cisticola,Cisticola cinnamomeus,Cisticolas and allies,Least Concern,False
+Wing-snapping Cisticola,Cisticola ayresii,Cisticolas and allies,Least Concern,False
+Tawny-flanked Prinia,Prinia subflava,Cisticolas and allies,Least Concern,False
+Black-chested Prinia,Prinia flavicans,Cisticolas and allies,Least Concern,False
+Karoo Prinia,Prinia maculosa,Cisticolas and allies,Least Concern,False
+Drakensberg Prinia,Prinia hypoxantha,Cisticolas and allies,Least Concern,False
+African Yellow Warbler,Iduna natalensis,Reed-warblers,Least Concern,False
+Olive-tree Warbler,Hippolais olivetorum,Reed-warblers,Least Concern,False
+Icterine Warbler,Hippolais icterina,Reed-warblers,Least Concern,False
+Sedge Warbler,Acrocephalus schoenobaenus,Reed-warblers,Least Concern,False
+Marsh Warbler,Acrocephalus palustris,Reed-warblers,Least Concern,False
+Common Reed-warbler,Acrocephalus scirpaceus,Reed-warblers,Least Concern,False
+Lesser Swamp-warbler,Acrocephalus gracilirostris,Reed-warblers,Least Concern,False
+Great Reed-warbler,Acrocephalus arundinaceus,Reed-warblers,Least Concern,False
+River Warbler,Locustella fluviatilis,Grasshopper-warblers and grassbirds,Least Concern,False
+Fan-tailed Grassbird,Catriscus brevirostris,Grasshopper-warblers and grassbirds,Least Concern,False
+Knysna Warbler,Bradypterus sylvaticus,Grasshopper-warblers and grassbirds,Near Threatened,True
+Little Rush-warbler,Bradypterus baboecala,Grasshopper-warblers and grassbirds,Least Concern,False
+Barratt's Warbler,Bradypterus barratti,Grasshopper-warblers and grassbirds,Least Concern,False
+Grey-rumped Swallow,Pseudhirundo griseopyga,Swallows and martins,Least Concern,False
+Black Saw-wing,Psalidoprocne pristoptera,Swallows and martins,Least Concern,False
+Northern House Martin,Delichon urbicum,Swallows and martins,Least Concern,False
+South African Swallow,Petrochelidon spilodera,Swallows and martins,Least Concern,False
+Lesser Striped Swallow,Cecropis abyssinica,Swallows and martins,Least Concern,False
+Rufous-chested Swallow,Cecropis semirufa,Swallows and martins,Least Concern,False
+Mosque Swallow,Cecropis senegalensis,Swallows and martins,Least Concern,False
+Greater Striped Swallow,Cecropis cucullata,Swallows and martins,Least Concern,False
+Blue Swallow,Hirundo atrocaerulea,Swallows and martins,Endangered,False
+White-throated Swallow,Hirundo albigularis,Swallows and martins,Least Concern,False
+Wire-tailed Swallow,Hirundo smithii,Swallows and martins,Least Concern,False
+Barn Swallow,Hirundo rustica,Swallows and martins,Least Concern,False
+Pearl-breasted Swallow,Hirundo dimidiata,Swallows and martins,Least Concern,False
+Large Rock Martin,Ptyonoprogne fuligula,Swallows and martins,Least Concern,False
+Banded Martin,Neophedina cincta,Swallows and martins,Least Concern,False
+African Plain Martin,Riparia paludicola,Swallows and martins,Least Concern,False
+Collared Sand Martin,Riparia riparia,Swallows and martins,Least Concern,False
+Sombre Greenbul,Andropadus importunus,Bulbuls,Least Concern,False
+Yellow-bellied Greenbul,Chlorocichla flaviventris,Bulbuls,Least Concern,False
+Terrestrial Brownbul,Phyllastrephus terrestris,Bulbuls,Least Concern,False
+Yellow-streaked Greenbul,Phyllastrephus flavostriatus,Bulbuls,Least Concern,False
+Black-fronted Bulbul,Pycnonotus nigricans,Bulbuls,Least Concern,False
+Cape Bulbul,Pycnonotus capensis,Bulbuls,Least Concern,True
+Common Bulbul,Pycnonotus barbatus,Bulbuls,Least Concern,False
+Willow Warbler,Phylloscopus trochilus,Leaf-warblers,Least Concern,False
+Yellow-throated Woodland-warbler,Phylloscopus ruficapilla,Leaf-warblers,Least Concern,False
+Garden Warbler,Sylvia borin,Old World Warblers,Least Concern,False
+Bush Blackcap,Sylvia nigricapillus,Old World Warblers,Vulnerable,False
+Layard's Warbler,Curruca layardi,Old World Warblers,Least Concern,False
+Chestnut-vented Warbler,Curruca subcoerulea,Old World Warblers,Least Concern,False
+Common Whitethroat,Curruca communis,Old World Warblers,Least Concern,False
+African Yellow White-eye,Zosterops senegalensis,White-eyes and Yuhinas,Least Concern,False
+Cape White-eye,Zosterops virens,White-eyes and Yuhinas,Least Concern,False
+Orange River White-eye,Zosterops pallidus,White-eyes and Yuhinas,Least Concern,False
+Arrow-marked Babbler,Turdoides jardineii,Laughingthrushes and allies,Least Concern,False
+Southern Pied Babbler,Turdoides bicolor,Laughingthrushes and allies,Least Concern,False
+Red-billed Oxpecker,Buphagus erythrorynchus,Oxpeckers,Least Concern,False
+Yellow-billed Oxpecker,Buphagus africanus,Oxpeckers,Least Concern,False
+Wattled Starling,Creatophora cinerea,Starlings,Least Concern,False
+Pale-winged Starling,Onychognathus nabouroup,Starlings,Least Concern,False
+Red-winged Starling,Onychognathus morio,Starlings,Least Concern,False
+Burchell's Starling,Lamprotornis australis,Starlings,Least Concern,False
+Benguela Long-tailed Starling,Lamprotornis benguelensis,Starlings,Least Concern,False
+Meves's Long-tailed Starling,Lamprotornis mevesii,Starlings,Least Concern,False
+African Pied Starling,Lamprotornis bicolor,Starlings,Least Concern,False
+Lesser Blue-eared Starling,Lamprotornis chloropterus,Starlings,Least Concern,False
+Cape Starling,Lamprotornis nitens,Starlings,Least Concern,False
+Greater Blue-eared Starling,Lamprotornis chalybaeus,Starlings,Least Concern,False
+Violet-backed Starling,Cinnyricinclus leucogaster,Starlings,Least Concern,False
+Black-bellied Starling,Notopholia corusca,Starlings,Least Concern,False
+Spotted Ground-thrush,Geokichla guttata,Thrushes,Vulnerable,False
+Orange Ground-thrush,Geokichla gurneyi,Thrushes,Least Concern,False
+Groundscraper Thrush,Psophocichla litsitsirupa,Thrushes,Least Concern,False
+Kurrichane Thrush,Turdus libonyana,Thrushes,Least Concern,False
+Olive Thrush,Turdus olivaceus,Thrushes,Least Concern,False
+Karoo Thrush,Turdus smithi,Thrushes,Least Concern,False
+Karoo Scrub-robin,Tychaedon coryphoeus,Old World Flycatchers and Chats,Least Concern,False
+Brown Scrub-robin,Tychaedon signata,Old World Flycatchers and Chats,Least Concern,False
+Bearded Scrub-robin,Tychaedon quadrivirgata,Old World Flycatchers and Chats,Least Concern,False
+Kalahari Scrub-robin,Cercotrichas paena,Old World Flycatchers and Chats,Least Concern,False
+White-browed Scrub-robin,Cercotrichas leucophrys,Old World Flycatchers and Chats,Least Concern,False
+African Dusky Flycatcher,Muscicapa adusta,Old World Flycatchers and Chats,Least Concern,False
+Spotted Flycatcher,Muscicapa striata,Old World Flycatchers and Chats,Least Concern,False
+Marico Flycatcher,Bradornis mariquensis,Old World Flycatchers and Chats,Least Concern,False
+Pale Flycatcher,Agricola pallidus,Old World Flycatchers and Chats,Least Concern,False
+Chat-flycatcher,Agricola infuscatus,Old World Flycatchers and Chats,Least Concern,False
+Grey Tit-flycatcher,Fraseria plumbea,Old World Flycatchers and Chats,Least Concern,False
+Ashy Flycatcher,Fraseria caerulescens,Old World Flycatchers and Chats,Least Concern,False
+Fiscal Flycatcher,Sigelus silens,Old World Flycatchers and Chats,Least Concern,False
+Southern Black-flycatcher,Melaenornis pammelaina,Old World Flycatchers and Chats,Least Concern,False
+Cape Robin-chat,Dessonornis caffer,Old World Flycatchers and Chats,Least Concern,False
+White-throated Robin-chat,Dessonornis humeralis,Old World Flycatchers and Chats,Least Concern,False
+White-starred Robin,Pogonocichla stellata,Old World Flycatchers and Chats,Least Concern,False
+White-browed Robin-chat,Cossypha heuglini,Old World Flycatchers and Chats,Least Concern,False
+Red-capped Robin-chat,Cossypha natalensis,Old World Flycatchers and Chats,Least Concern,False
+Chorister Robin-chat,Cossypha dichroa,Old World Flycatchers and Chats,Least Concern,False
+Collared Palm-thrush,Cichladusa arquata,Old World Flycatchers and Chats,Least Concern,False
+Thrush Nightingale,Luscinia luscinia,Old World Flycatchers and Chats,Least Concern,False
+Collared Flycatcher,Ficedula albicollis,Old World Flycatchers and Chats,Least Concern,False
+Short-toed Rock-thrush,Monticola brevipes,Old World Flycatchers and Chats,Least Concern,False
+Sentinel Rock-thrush,Monticola explorator,Old World Flycatchers and Chats,Near Threatened,False
+Cape Rock-thrush,Monticola rupestris,Old World Flycatchers and Chats,Least Concern,False
+Whinchat,Saxicola rubetra,Old World Flycatchers and Chats,Least Concern,False
+Common Stonechat,Saxicola torquatus,Old World Flycatchers and Chats,Least Concern,False
+Buff-streaked Chat,Campicoloides bifasciatus,Old World Flycatchers and Chats,Least Concern,False
+Karoo Chat,Emarginata schlegelii,Old World Flycatchers and Chats,Least Concern,False
+Sickle-winged Chat,Emarginata sinuata,Old World Flycatchers and Chats,Least Concern,False
+Tractrac Chat,Emarginata tractrac,Old World Flycatchers and Chats,Least Concern,False
+Mocking Cliff-chat,Thamnolaea cinnamomeiventris,Old World Flycatchers and Chats,Least Concern,False
+Southern Anteater Chat,Myrmecocichla formicivora,Old World Flycatchers and Chats,Least Concern,False
+Mountain Chat,Myrmecocichla monticola,Old World Flycatchers and Chats,Least Concern,False
+Arnot's Chat,Myrmecocichla arnotti,Old World Flycatchers and Chats,Least Concern,False
+Capped Wheatear,Oenanthe pileata,Old World Flycatchers and Chats,Least Concern,False
+Familiar Chat,Oenanthe familiaris,Old World Flycatchers and Chats,Least Concern,False
+Cape Sugarbird,Promerops cafer,Sugarbirds,Least Concern,True
+Gurney's Sugarbird,Promerops gurneyi,Sugarbirds,Near Threatened,False
+Plain-backed Sunbird,Anthreptes reichenowi,Sunbirds,Least Concern,False
+Collared Sunbird,Hedydipna collaris,Sunbirds,Least Concern,False
+Orange-breasted Sunbird,Anthobaphes violacea,Sunbirds,Least Concern,True
+Olive Sunbird,Cyanomitra olivacea,Sunbirds,Least Concern,False
+Mouse-coloured Sunbird,Cyanomitra verreauxii,Sunbirds,Least Concern,False
+Amethyst Sunbird,Chalcomitra amethystina,Sunbirds,Least Concern,False
+Scarlet-chested Sunbird,Chalcomitra senegalensis,Sunbirds,Least Concern,False
+Malachite Sunbird,Nectarinia famosa,Sunbirds,Least Concern,False
+Southern Double-collared Sunbird,Cinnyris chalybeus,Sunbirds,Least Concern,False
+Neergaard's Sunbird,Cinnyris neergaardi,Sunbirds,Near Threatened,False
+Greater Double-collared Sunbird,Cinnyris afer,Sunbirds,Least Concern,False
+Marico Sunbird,Cinnyris mariquensis,Sunbirds,Least Concern,False
+Purple-banded Sunbird,Cinnyris bifasciatus,Sunbirds,Least Concern,False
+White-breasted Sunbird,Cinnyris talatala,Sunbirds,Least Concern,False
+Dusky Sunbird,Cinnyris fuscus,Sunbirds,Least Concern,False
+Red-billed Buffalo-Weaver,Bubalornis niger,Weavers,Least Concern,False
+White-browed Sparrow-Weaver,Plocepasser mahali,Weavers,Least Concern,False
+Scaly-fronted Weaver,Sporopipes squamifrons,Weavers,Least Concern,False
+Sociable Weaver,Philetairus socius,Weavers,Least Concern,False
+Thick-billed Weaver,Amblyospiza albifrons,Weavers,Least Concern,False
+Red-headed Quelea,Quelea erythrops,Weavers,Least Concern,False
+Red-billed Quelea,Quelea quelea,Weavers,Least Concern,False
+Yellow-crowned Bishop,Euplectes afer,Weavers,Least Concern,False
+Southern Red Bishop,Euplectes orix,Weavers,Least Concern,False
+Red-collared Widowbird,Euplectes ardens,Weavers,Least Concern,False
+Yellow Bishop,Euplectes capensis,Weavers,Least Concern,False
+Fan-tailed Widowbird,Euplectes axillaris,Weavers,Least Concern,False
+White-winged Widowbird,Euplectes albonotatus,Weavers,Least Concern,False
+Long-tailed Widowbird,Euplectes progne,Weavers,Least Concern,False
+Spectacled Weaver,Ploceus ocularis,Weavers,Least Concern,False
+Cape Weaver,Ploceus capensis,Weavers,Least Concern,False
+African Golden Weaver,Ploceus subaureus,Weavers,Least Concern,False
+Holub's Golden Weaver,Ploceus xanthops,Weavers,Least Concern,False
+Southern Brown-throated Weaver,Ploceus xanthopterus,Weavers,Least Concern,False
+Lesser Masked Weaver,Ploceus intermedius,Weavers,Least Concern,False
+Southern Masked Weaver,Ploceus velatus,Weavers,Least Concern,False
+Village Weaver,Ploceus cucullatus,Weavers,Least Concern,False
+Dark-backed Weaver,Ploceus bicolor,Weavers,Least Concern,False
+Southern Red-headed Weaver,Anaplectes rubriceps,Weavers,Least Concern,False
+Red-billed Firefinch,Lagonosticta senegala,Waxbills,Least Concern,False
+Jameson's Firefinch,Lagonosticta rhodopareia,Waxbills,Least Concern,False
+African Firefinch,Lagonosticta rubricata,Waxbills,Least Concern,False
+Orange-winged Pytilia,Pytilia afra,Waxbills,Least Concern,False
+Green-winged Pytilia,Pytilia melba,Waxbills,Least Concern,False
+Pink-throated Twinspot,Hypargos margaritatus,Waxbills,Least Concern,False
+Red-throated Twinspot,Hypargos niveoguttatus,Waxbills,Least Concern,False
+Violet-eared Waxbill,Granatina granatina,Waxbills,Least Concern,False
+Blue-breasted Cordon-bleu,Uraeginthus angolensis,Waxbills,Least Concern,False
+Black-tailed Waxbill,Glaucestrilda perreini,Waxbills,Least Concern,False
+Common Waxbill,Estrilda astrild,Waxbills,Least Concern,False
+Black-faced Waxbill,Brunhilda erythronotos,Waxbills,Least Concern,False
+Green Twinspot,Mandingoa nitidula,Waxbills,Least Concern,False
+Swee Waxbill,Coccopygia melanotis,Waxbills,Least Concern,False
+Red-headed Finch,Amadina erythrocephala,Waxbills,Least Concern,False
+Cut-throat Finch,Amadina fasciata,Waxbills,Least Concern,False
+African Quailfinch,Ortygospiza atricollis,Waxbills,Least Concern,False
+Zebra Waxbill,Amandava subflava,Waxbills,Least Concern,False
+Bronze Mannikin,Spermestes cucullata,Waxbills,Least Concern,False
+Magpie Mannikin,Spermestes fringilloides,Waxbills,Least Concern,False
+Pin-tailed Whydah,Vidua macroura,Whydahs and Indigobirds,Least Concern,False
+Long-tailed Paradise-whydah,Vidua paradisaea,Whydahs and Indigobirds,Least Concern,False
+Shaft-tailed Whydah,Vidua regia,Whydahs and Indigobirds,Least Concern,False
+Dusky Indigobird,Vidua funerea,Whydahs and Indigobirds,Least Concern,False
+Village Indigobird,Vidua chalybeata,Whydahs and Indigobirds,Least Concern,False
+Purple Indigobird,Vidua purpurascens,Whydahs and Indigobirds,Least Concern,False
+Cuckoo-finch,Anomalospiza imberbis,Whydahs and Indigobirds,Least Concern,False
+Great Sparrow,Passer motitensis,Old World Sparrows,Least Concern,False
+Cape Sparrow,Passer melanurus,Old World Sparrows,Least Concern,False
+Southern Grey-headed Sparrow,Passer diffusus,Old World Sparrows,Least Concern,False
+Yellow-throated Bush-sparrow,Gymnoris superciliaris,Old World Sparrows,Least Concern,False
+Short-tailed Pipit,Anthus brachyurus,Pipits and Wagtails,Least Concern,False
+Bush Pipit,Anthus caffer,Pipits and Wagtails,Least Concern,False
+Tree Pipit,Anthus trivialis,Pipits and Wagtails,Least Concern,False
+Mountain Pipit,Anthus hoeschi,Pipits and Wagtails,Near Threatened,False
+Yellow-tufted Pipit,Anthus crenatus,Pipits and Wagtails,Near Threatened,False
+Striped Pipit,Anthus lineiventris,Pipits and Wagtails,Least Concern,False
+Richard's Pipit,Anthus richardi,Pipits and Wagtails,Least Concern,False
+Plain-backed Pipit,Anthus leucophrys,Pipits and Wagtails,Least Concern,False
+African Pipit,Anthus cinnamomeus,Pipits and Wagtails,Least Concern,False
+Buffy Pipit,Anthus vaalensis,Pipits and Wagtails,Least Concern,False
+Long-billed Pipit,Anthus similis,Pipits and Wagtails,Least Concern,False
+Cape Longclaw,Macronyx capensis,Pipits and Wagtails,Least Concern,False
+Yellow-throated Longclaw,Macronyx croceus,Pipits and Wagtails,Least Concern,False
+Rosy-throated Longclaw,Macronyx ameliae,Pipits and Wagtails,Least Concern,False
+Yellow-breasted Pipit,Hemimacronyx chloris,Pipits and Wagtails,Vulnerable,False
+Mountain Wagtail,Motacilla clara,Pipits and Wagtails,Least Concern,False
+Cape Wagtail,Motacilla capensis,Pipits and Wagtails,Least Concern,False
+Western Yellow Wagtail,Motacilla flava,Pipits and Wagtails,Least Concern,False
+African Pied Wagtail,Motacilla aguimp,Pipits and Wagtails,Least Concern,False
+Forest Canary,Crithagra scotops,Finches,Least Concern,False
+Black-throated Canary,Crithagra atrogularis,Finches,Least Concern,False
+Lemon-breasted Canary,Crithagra citrinipectus,Finches,Least Concern,False
+Yellow-fronted Canary,Crithagra mozambica,Finches,Least Concern,False
+Yellow Canary,Crithagra flaviventris,Finches,Least Concern,False
+Brimstone Canary,Crithagra sulphurata,Finches,Least Concern,False
+White-throated Canary,Crithagra albogularis,Finches,Least Concern,False
+Streaky-headed Seedeater,Crithagra gularis,Finches,Least Concern,False
+Black-eared Seedeater,Crithagra mennelli,Finches,Least Concern,False
+Protea Canary,Crithagra leucoptera,Finches,Near Threatened,True
+Cape Siskin,Crithagra totta,Finches,Least Concern,True
+Drakensberg Siskin,Crithagra symonsi,Finches,Least Concern,False
+Black-headed Canary,Serinus alario,Finches,Least Concern,False
+Cape Canary,Serinus canicollis,Finches,Least Concern,False
+Golden-breasted Bunting,Emberiza flaviventris,Old World Buntings,Least Concern,False
+Cape Bunting,Emberiza capensis,Old World Buntings,Least Concern,False
+Lark-like Bunting,Emberiza impetuani,Old World Buntings,Least Concern,False
+Cinnamon-breasted Bunting,Emberiza tahapisi,Old World Buntings,Least Concern,False
