@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Bird Trainer Pro</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+        body { font-family: 'Inter', sans-serif; }
+        
+        .perspective-1000 { perspective: 1000px; }
+        .transform-style-3d { transform-style: preserve-3d; }
+        .backface-hidden { backface-visibility: hidden; }
+        .rotate-y-180 { transform: rotateY(180deg); }
+        
+        .card-container {
+            transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-style: preserve-3d;
+        }
+        .card-flipped { transform: rotateY(180deg); }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #10b981; border-radius: 10px; }
+
+        .scale-in { animation: scaleIn 0.3s ease-out forwards; }
+        @keyframes scaleIn {
+            from { opacity: 0; transform: scale(0.95); }
+            to { opacity: 1; transform: scale(1); }
+        }
+    </style>
+</head>
+<body class="bg-stone-50 min-h-screen flex flex-col text-stone-900">
+
+    <!-- Start Overlay -->
+    <div id="start-overlay" class="fixed inset-0 bg-emerald-900 z-[200] flex items-center justify-center p-6 text-center">
+        <div class="max-w-md w-full bg-white rounded-3xl p-8 shadow-2xl scale-in">
+            <div class="bg-emerald-100 w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-6">
+                <i class="fas fa-dove text-4xl text-emerald-600"></i>
+            </div>
+            <h1 class="text-3xl font-black text-stone-800 mb-2">Bird Trainer</h1>
+            <p class="text-stone-500 mb-8">Ready to test your knowledge of the Bird Guide calls and images?</p>
+            <button onclick="startApp()" class="w-full py-4 bg-emerald-600 text-white font-black rounded-2xl hover:bg-emerald-700 shadow-lg shadow-emerald-200 transition transform hover:scale-105 active:scale-95">
+                Start Training <i class="fas fa-play ml-2"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="bg-emerald-800 text-white shadow-xl sticky top-0 z-50">
+        <div class="max-w-5xl mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <div class="bg-emerald-600 p-2 rounded-lg">
+                    <i class="fas fa-feather-alt text-xl"></i>
+                </div>
+                <div>
+                    <h1 class="font-bold text-lg leading-tight"> Bird Trainer</h1>
+                    <p class="text-xs text-emerald-200 opacity-80">Custom Database Edition</p>
+                </div>
+            </div>
+            <nav class="flex gap-1 bg-emerald-900/50 p-1 rounded-lg">
+                <button onclick="switchView('quiz')" id="nav-quiz" class="px-4 py-1.5 rounded-md text-sm font-medium transition bg-white text-emerald-900">Quiz</button>
+                <button onclick="switchView('database')" id="nav-database" class="px-4 py-1.5 rounded-md text-sm font-medium transition hover:bg-white/10">Database</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="flex-grow max-w-5xl mx-auto w-full p-4 md:p-8">
+        <!-- QUIZ VIEW -->
+        <div id="view-quiz" class="flex flex-col items-center animate-in fade-in duration-500">
+            <div class="w-full flex flex-col md:flex-row justify-between items-center mb-8 gap-4">
+                <div class="flex gap-2">
+                    <button onclick="setMode('audio')" id="mode-audio" class="px-4 py-2 rounded-full text-sm font-bold border-2 border-emerald-600 bg-emerald-600 text-white transition">
+                        <i class="fas fa-volume-up mr-2"></i>Audio Call
+                    </button>
+                    <button onclick="setMode('visual')" id="mode-visual" class="px-4 py-2 rounded-full text-sm font-bold border-2 border-emerald-600 text-emerald-600 hover:bg-emerald-50 transition">
+                        <i class="fas fa-eye mr-2"></i>Visual ID
+                    </button>
+                </div>
+                <div class="flex items-center gap-6 bg-white px-6 py-2 rounded-2xl shadow-sm border border-stone-200">
+                    <div class="text-center">
+                        <p class="text-[10px] uppercase tracking-wider text-stone-400 font-bold">Streak</p>
+                        <p id="stat-streak" class="text-xl font-black text-orange-500">0</p>
+                    </div>
+                    <div class="h-8 w-px bg-stone-200"></div>
+                    <div class="text-center">
+                        <p class="text-[10px] uppercase tracking-wider text-stone-400 font-bold">Accuracy</p>
+                        <p id="stat-accuracy" class="text-xl font-black text-emerald-600">0%</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Flashcard -->
+            <div class="w-full max-w-md perspective-1000 h-[480px] relative group" onclick="flipCard()">
+                <div id="flashcard" class="card-container relative w-full h-full cursor-pointer">
+                    
+                    <!-- Front -->
+                    <div class="absolute w-full h-full backface-hidden bg-white rounded-3xl shadow-xl border-2 border-stone-100 flex flex-col items-center justify-center p-8 overflow-hidden">
+                        <div id="quiz-front-audio" class="flex flex-col items-center">
+                            <div class="w-24 h-24 bg-emerald-100 text-emerald-600 rounded-full flex items-center justify-center mb-6 ring-8 ring-emerald-50">
+                                <i class="fas fa-music text-4xl"></i>
+                            </div>
+                            <h2 class="text-2xl font-bold text-stone-800">Identify this Call</h2>
+                            <p class="text-stone-400 mt-2">Tap card to reveal bird</p>
+                        </div>
+                        <div id="quiz-front-visual" class="hidden w-full h-full flex flex-col items-center justify-center">
+                            <div class="w-full h-full overflow-hidden rounded-2xl bg-stone-50 flex items-center justify-center">
+                                <img id="img-quiz" src="" class="max-w-full max-h-full object-contain" alt="Mystery Bird">
+                            </div>
+                            <div class="absolute bottom-4 left-0 right-0 text-center">
+                                <span class="bg-black/50 backdrop-blur-md text-white px-4 py-1 rounded-full text-xs">Tap to identify</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Back -->
+                    <div class="absolute w-full h-full backface-hidden rotate-y-180 bg-emerald-50 rounded-3xl shadow-xl border-2 border-emerald-100 flex flex-col items-center p-6">
+                        <div class="w-full h-40 rounded-2xl overflow-hidden shadow-inner bg-white mb-6 flex items-center justify-center">
+                            <img id="img-answer" src="" class="max-w-full max-h-full object-contain" alt="Answer">
+                        </div>
+                        <div class="text-center flex-grow flex flex-col justify-center">
+                            <h2 id="txt-name" class="text-3xl font-black text-emerald-900 leading-tight">Bird Name</h2>
+                            <p id="txt-scientific" class="text-emerald-700 italic font-medium mt-1">Scientific Name</p>
+                            <div id="audio-ui-back" class="mt-4 p-3 bg-white rounded-xl shadow-sm flex items-center gap-3" onclick="event.stopPropagation()">
+                                <button id="btn-play-pause" onclick="toggleAudio()" class="w-10 h-10 bg-emerald-600 text-white rounded-full hover:bg-emerald-700 transition flex items-center justify-center">
+                                    <i class="fas fa-play" id="icon-play-pause"></i>
+                                </button>
+                                <div class="flex-grow h-1.5 bg-stone-100 rounded-full overflow-hidden">
+                                    <div id="audio-progress" class="h-full bg-emerald-500 w-0 transition-all duration-300"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quiz Controls -->
+            <div id="quiz-controls" class="mt-8 flex gap-4 opacity-0 pointer-events-none transition-all transform translate-y-4">
+                <button onclick="logResult(false)" class="flex items-center gap-2 px-6 py-3 bg-white border-2 border-rose-200 text-rose-600 font-bold rounded-2xl hover:bg-rose-50 transition">
+                    <i class="fas fa-times"></i> Try Again
+                </button>
+                <button onclick="logResult(true)" class="flex items-center gap-2 px-10 py-3 bg-emerald-600 text-white font-black rounded-2xl hover:bg-emerald-700 shadow-lg shadow-emerald-200 transition">
+                    <i class="fas fa-check"></i> I Got It!
+                </button>
+            </div>
+            
+            <button id="btn-next-simple" onclick="nextCard()" class="mt-8 px-10 py-3 bg-stone-800 text-white font-bold rounded-2xl hover:bg-stone-700 transition flex items-center gap-3">
+                Next Random Bird <i class="fas fa-arrow-right"></i>
+            </button>
+        </div>
+
+        <!-- DATABASE VIEW -->
+        <div id="view-database" class="hidden flex-col animate-in slide-in-from-bottom-4 duration-500">
+            <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-6 gap-4">
+                <div>
+                    <h2 class="text-2xl font-black text-stone-800">Your Bird Collection</h2>
+                    <p class="text-stone-500 text-sm">Manage entries and audio paths here</p>
+                </div>
+                <div class="flex gap-2 w-full md:w-auto">
+                    <button onclick="toggleModal('modal-bulk')" class="flex-1 md:flex-none px-4 py-2 bg-stone-200 text-stone-700 font-bold rounded-lg text-sm hover:bg-stone-300 transition">
+                        <i class="fas fa-file-import mr-2"></i> Bulk Tools
+                    </button>
+                    <button onclick="toggleModal('modal-add')" class="flex-1 md:flex-none px-4 py-2 bg-emerald-600 text-white font-bold rounded-lg text-sm hover:bg-emerald-700 transition">
+                        <i class="fas fa-plus mr-2"></i> Add Bird
+                    </button>
+                </div>
+            </div>
+
+            <div class="relative mb-6">
+                <i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-stone-400"></i>
+                <input type="text" id="db-search" oninput="renderDatabase()" placeholder="Search by name or scientific name..." class="w-full pl-12 pr-4 py-3 bg-white border border-stone-200 rounded-xl focus:ring-2 focus:ring-emerald-500 outline-none">
+            </div>
+
+            <div class="bg-white rounded-2xl shadow-sm border border-stone-200 overflow-hidden">
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left">
+                        <thead class="bg-stone-50 border-b border-stone-100">
+                            <tr>
+                                <th class="px-6 py-4 text-xs font-black uppercase text-stone-400">Bird</th>
+                                <th class="px-6 py-4 text-xs font-black uppercase text-stone-400">Scientific Name</th>
+                                <th class="px-6 py-4 text-xs font-black uppercase text-stone-400 text-right">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="db-list" class="divide-y divide-stone-50"></tbody>
+                    </table>
+                </div>
+                <div id="db-empty" class="hidden py-20 text-center">
+                    <i class="fas fa-search text-stone-200 text-5xl mb-4"></i>
+                    <p class="text-stone-400">No birds found in your database.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- MODALS -->
+    <div id="modal-add" class="fixed inset-0 bg-stone-900/60 backdrop-blur-sm z-[100] hidden items-center justify-center p-4">
+        <div class="bg-white w-full max-w-md rounded-3xl p-8 shadow-2xl scale-in-center">
+            <div class="flex justify-between items-center mb-6">
+                <h3 class="text-xl font-black" id="modal-title">Add New Bird</h3>
+                <button onclick="toggleModal('modal-add')" class="text-stone-400 hover:text-stone-600"><i class="fas fa-times text-xl"></i></button>
+            </div>
+            <form onsubmit="saveBird(event)" class="space-y-4">
+                <input type="hidden" id="edit-id">
+                <div>
+                    <label class="block text-xs font-black uppercase text-stone-400 mb-1">Common Name</label>
+                    <input type="text" id="form-name" required class="w-full p-3 bg-stone-50 border border-stone-200 rounded-xl outline-none focus:ring-2 focus:ring-emerald-500" placeholder="e.g. African Fish Eagle">
+                </div>
+                <div>
+                    <label class="block text-xs font-black uppercase text-stone-400 mb-1">Scientific Name</label>
+                    <input type="text" id="form-scientific" required class="w-full p-3 bg-stone-50 border border-stone-200 rounded-xl outline-none focus:ring-2 focus:ring-emerald-500" placeholder="e.g. Haliaeetus vocifer">
+                </div>
+                <div>
+                    <label class="block text-xs font-black uppercase text-stone-400 mb-1">Image URL or Local Path</label>
+                    <input type="text" id="form-image" required class="w-full p-3 bg-stone-50 border border-stone-200 rounded-xl outline-none focus:ring-2 focus:ring-emerald-500" placeholder="images/fish-eagle.jpg">
+                </div>
+                <div>
+                    <label class="block text-xs font-black uppercase text-stone-400 mb-1">Audio URL or Local Path</label>
+                    <input type="text" id="form-audio" class="w-full p-3 bg-stone-50 border border-stone-200 rounded-xl outline-none focus:ring-2 focus:ring-emerald-500" placeholder="audio/fish-eagle.mp3">
+                </div>
+                <button type="submit" class="w-full py-4 bg-emerald-600 text-white font-black rounded-2xl hover:bg-emerald-700 transition mt-4">Save Bird Entry</button>
+            </form>
+        </div>
+    </div>
+
+    <div id="modal-bulk" class="fixed inset-0 bg-stone-900/60 backdrop-blur-sm z-[100] hidden items-center justify-center p-4">
+        <div class="bg-white w-full max-w-2xl rounded-3xl p-8 shadow-2xl">
+            <div class="flex justify-between items-center mb-6">
+                <h3 class="text-xl font-black">Bulk Data Tools</h3>
+                <button onclick="toggleModal('modal-bulk')" class="text-stone-400 hover:text-stone-600"><i class="fas fa-times text-xl"></i></button>
+            </div>
+            <textarea id="bulk-json" class="w-full h-64 p-4 font-mono text-xs bg-stone-50 border border-stone-200 rounded-xl outline-none focus:ring-2 focus:ring-emerald-500 mb-4" placeholder="[{ 'name': 'Bird Name', ... }]"></textarea>
+            <div class="flex gap-3">
+                <button onclick="exportData()" class="flex-1 py-3 bg-stone-100 text-stone-700 font-bold rounded-xl hover:bg-stone-200">Export Current JSON</button>
+                <button onclick="importData()" class="flex-1 py-3 bg-emerald-600 text-white font-bold rounded-xl hover:bg-emerald-700">Import / Overwrite</button>
+            </div>
+        </div>
+    </div>
+
+    <audio id="audio-player"></audio>
+
+    <script>
+        const initialData = [
+            {
+                id: "896",
+                name: "Golden-breasted Bunting",
+                scientific: "Emberiza flaviventris",
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Emberiza_flaviventris_-Hluhluwe-Umfolozi_Game_Reserve%2C_South_Africa-8.jpg/330px-Emberiza_flaviventris_-Hluhluwe-Umfolozi_Game_Reserve%2C_South_Africa-8.jpg",
+                audio: "https://xeno-canto.org/sounds/uploaded/IIJAXHKSCC/XC854359-golden-breasted-bunting-%28song%29-mutinondowilderness%2CZAMBIA_20231130_063352_01.mp3"
+            },
+            {
+                id: "1",
+                name: "Hadeda Ibis",
+                scientific: "Bostrychia hagedash",
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hadada_Ibis_%28Bostrychia_hagedash%29_%286013693457%29.jpg/640px-Hadada_Ibis_%28Bostrychia_hagedash%29_%286013693457%29.jpg",
+                audio: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hadada_Ibis_%28Bostrychia_hagedash%29_%28022A-WA03044X0019-0013M0%29.ogg" 
+            },
+            {
+                id: "2",
+                name: "African Fish Eagle",
+                scientific: "Haliaeetus vocifer",
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/African_Fish_Eagle_at_Lake_Naivasha%2C_Kenya.jpg/640px-African_Fish_Eagle_at_Lake_Naivasha%2C_Kenya.jpg",
+                audio: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Haliaeetus_vocifer_-_African_Fish_Eagle_call.ogg" 
+            }
+        ];
+
+        let birdDatabase = [...initialData];
+        let currentMode = 'audio';
+        let currentIndex = -1;
+        let isFlipped = false;
+        let stats = { correct: 0, total: 0, streak: 0 };
+        let appStarted = false;
+
+        const player = document.getElementById('audio-player');
+        const card = document.getElementById('flashcard');
+        const progress = document.getElementById('audio-progress');
+        const playIcon = document.getElementById('icon-play-pause');
+
+        window.onload = () => { renderDatabase(); };
+
+        function startApp() {
+            appStarted = true;
+            document.getElementById('start-overlay').classList.add('hidden');
+            nextCard();
+        }
+
+        function switchView(view) {
+            document.getElementById('view-quiz').classList.add('hidden');
+            document.getElementById('view-database').classList.add('hidden');
+            document.getElementById('nav-quiz').classList.remove('bg-white', 'text-emerald-900');
+            document.getElementById('nav-database').classList.remove('bg-white', 'text-emerald-900');
+            document.getElementById(`view-${view}`).classList.remove('hidden');
+            document.getElementById(`nav-${view}`).classList.add('bg-white', 'text-emerald-900');
+            if(view === 'database') renderDatabase();
+            pauseAudio();
+        }
+
+        function setMode(mode) {
+            currentMode = mode;
+            document.getElementById('mode-audio').classList.toggle('bg-emerald-600', mode === 'audio');
+            document.getElementById('mode-audio').classList.toggle('text-white', mode === 'audio');
+            document.getElementById('mode-visual').classList.toggle('bg-emerald-600', mode === 'visual');
+            document.getElementById('mode-visual').classList.toggle('text-white', mode === 'visual');
+            document.getElementById('quiz-front-audio').classList.toggle('hidden', mode === 'visual');
+            document.getElementById('quiz-front-visual').classList.toggle('hidden', mode === 'audio');
+            if (appStarted) nextCard();
+        }
+
+        function nextCard() {
+            if (birdDatabase.length === 0) return;
+            isFlipped = false;
+            card.classList.remove('card-flipped');
+            document.getElementById('quiz-controls').classList.add('opacity-0', 'pointer-events-none', 'translate-y-4');
+            document.getElementById('btn-next-simple').classList.remove('hidden');
+            pauseAudio();
+
+            let newIndex;
+            do { newIndex = Math.floor(Math.random() * birdDatabase.length); } while (newIndex === currentIndex && birdDatabase.length > 1);
+            
+            currentIndex = newIndex;
+            const bird = birdDatabase[currentIndex];
+            document.getElementById('img-quiz').src = bird.image;
+            document.getElementById('img-answer').src = bird.image;
+            document.getElementById('txt-name').innerText = bird.name;
+            document.getElementById('txt-scientific').innerText = bird.scientific;
+            player.src = bird.audio || '';
+            
+            if (currentMode === 'audio' && bird.audio) {
+                setTimeout(playAudio, 800);
+            }
+        }
+
+        function flipCard() {
+            if (isFlipped) return;
+            isFlipped = true;
+            card.classList.add('card-flipped');
+            document.getElementById('quiz-controls').classList.remove('opacity-0', 'pointer-events-none', 'translate-y-4');
+            document.getElementById('btn-next-simple').classList.add('hidden');
+        }
+
+        function logResult(correct) {
+            stats.total++;
+            if (correct) { stats.correct++; stats.streak++; } else { stats.streak = 0; }
+            updateStats();
+            nextCard();
+        }
+
+        function updateStats() {
+            document.getElementById('stat-streak').innerText = stats.streak;
+            const acc = stats.total === 0 ? 0 : Math.round((stats.correct / stats.total) * 100);
+            document.getElementById('stat-accuracy').innerText = `${acc}%`;
+        }
+
+        function toggleAudio() {
+            if (player.paused) {
+                playAudio();
+            } else {
+                pauseAudio(false); // Pause but don't reset to 0
+            }
+        }
+
+        function playAudio() {
+            if (!player.src || !appStarted) return;
+            const p = player.play();
+            if (p !== undefined) {
+                p.then(_ => {
+                    playIcon.className = "fas fa-pause";
+                    updateProgress();
+                }).catch(e => {
+                    playIcon.className = "fas fa-play";
+                });
+            }
+        }
+
+        function pauseAudio(reset = true) {
+            player.pause();
+            if (reset) {
+                player.currentTime = 0;
+                progress.style.width = '0%';
+            }
+            playIcon.className = "fas fa-play";
+        }
+
+        function updateProgress() {
+            if (!player.paused) {
+                progress.style.width = `${(player.currentTime / player.duration) * 100}%`;
+                requestAnimationFrame(updateProgress);
+            } else {
+                playIcon.className = "fas fa-play";
+            }
+        }
+
+        // Handle audio end
+        player.onended = () => {
+            playIcon.className = "fas fa-play";
+            progress.style.width = '0%';
+        };
+
+        function renderDatabase() {
+            const list = document.getElementById('db-list');
+            const search = document.getElementById('db-search').value.toLowerCase();
+            const filtered = birdDatabase.filter(b => b.name.toLowerCase().includes(search) || b.scientific.toLowerCase().includes(search));
+            list.innerHTML = '';
+            document.getElementById('db-empty').classList.toggle('hidden', filtered.length > 0);
+            filtered.forEach(bird => {
+                const row = document.createElement('tr');
+                row.className = "hover:bg-stone-50 transition";
+                row.innerHTML = `<td class="px-6 py-4"><div class="flex items-center gap-3"><img src="${bird.image}" class="w-10 h-10 rounded-lg object-cover bg-stone-100"><span class="font-bold text-stone-700">${bird.name}</span></div></td><td class="px-6 py-4 text-sm italic text-stone-500">${bird.scientific}</td><td class="px-6 py-4 text-right"><button onclick="editBird('${bird.id}')" class="p-2 text-stone-400 hover:text-emerald-600 transition"><i class="fas fa-edit"></i></button><button onclick="deleteBird('${bird.id}')" class="p-2 text-stone-400 hover:text-rose-600 transition"><i class="fas fa-trash"></i></button></td>`;
+                list.appendChild(row);
+            });
+        }
+
+        function saveBird(e) {
+            e.preventDefault();
+            const id = document.getElementById('edit-id').value || Date.now().toString();
+            const b = { id, name: document.getElementById('form-name').value, scientific: document.getElementById('form-scientific').value, image: document.getElementById('form-image').value, audio: document.getElementById('form-audio').value };
+            const idx = birdDatabase.findIndex(x => x.id === id);
+            if (idx > -1) birdDatabase[idx] = b; else birdDatabase.push(b);
+            toggleModal('modal-add');
+            renderDatabase();
+        }
+
+        function editBird(id) {
+            const b = birdDatabase.find(x => x.id === id);
+            if (!b) return;
+            document.getElementById('edit-id').value = b.id;
+            document.getElementById('form-name').value = b.name;
+            document.getElementById('form-scientific').value = b.scientific;
+            document.getElementById('form-image').value = b.image;
+            document.getElementById('form-audio').value = b.audio;
+            document.getElementById('modal-title').innerText = "Edit Bird";
+            toggleModal('modal-add');
+        }
+
+        function deleteBird(id) { birdDatabase = birdDatabase.filter(x => x.id !== id); renderDatabase(); }
+        function exportData() { document.getElementById('bulk-json').value = JSON.stringify(birdDatabase, null, 2); }
+        function importData() { try { const d = JSON.parse(document.getElementById('bulk-json').value); if(Array.isArray(d)) { birdDatabase = d; renderDatabase(); toggleModal('modal-bulk'); } } catch(e){} }
+        function toggleModal(id) { const m = document.getElementById(id); m.classList.toggle('hidden'); m.classList.toggle('flex'); }
+
+        document.addEventListener('keydown', (e) => {
+            if (!appStarted || !document.getElementById('view-database').classList.contains('hidden')) return;
+            if (e.code === 'Space') { e.preventDefault(); flipCard(); }
+            if (e.code === 'Enter') nextCard();
+        });
+    </script>
+</body>
+</html>

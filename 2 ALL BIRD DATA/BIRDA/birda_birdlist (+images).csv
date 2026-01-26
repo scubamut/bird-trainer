@@ -1,0 +1,994 @@
+name,scientific,image
+Acacia Pied Barbet,Tricholaema leucomelas,https://birda.twic.pics/species/9a2db496-7033-439a-8333-4ef05d269a46/reference_images/Acacia_Pied_Barbet.jpg
+Black-collared Barbet,Lybius torquatus,https://birda.twic.pics/species/ecd51f7d-78f8-4246-b1e4-7359b13ab704/reference_images/Black-collared_Barbet_-_Adult.jpg
+Crested Barbet,Trachyphonus vaillantii,https://birda.twic.pics/species/40bffa5c-f735-4d85-add0-6cee03396e6f/reference_images/Crested_Barbet_-_Adult.jpg
+Green Barbet,Stactolaema olivacea,N/A
+Green Tinkerbird,Pogoniulus simplex,N/A
+Red-fronted Tinkerbird,Pogoniulus pusillus,https://birda.twic.pics/species/ac2b94a5-7c51-4b34-9562-a01fa91b2859/reference_images/Red-fronted_Tinkerbird.jpg
+White-eared Barbet,Stactolaema leucotis,https://birda.twic.pics/species/bf82b33d-babe-4117-8697-f9f4d0b10a7f/reference_images/White-eared_Barbet.jpg
+Whyte's Barbet,Stactolaema whytii,N/A
+Yellow-fronted Tinkerbird,Pogoniulus chrysoconus,https://birda.twic.pics/species/28f9ac00-80c9-4174-818e-e1f31966fc97/reference_images/Yellow-fronted_Tinkerbird.jpg
+Yellow-rumped Tinkerbird,Pogoniulus bilineatus,https://birda.twic.pics/species/6a38b1fe-f6d7-48db-bce4-48bac005a92f/reference_images/Yellow-rumped_Tinkerbird_-_Adult.jpg
+African Broadbill,Smithornis capensis,N/A
+Brown-headed Parrot,Poicephalus cryptoxanthus,https://birda.twic.pics/species/72f3f357-6f21-4270-992b-35596c31a87d/reference_images/Brown-headed_Parrot.jpg
+Brown-necked Parrot,Poicephalus fuscicollis,https://birda.twic.pics/species/617456a5-97d3-4f67-bea7-8615b76cd92b/reference_images/Brown-necked_Parrot-_Male.jpg
+Cape Parrot,Poicephalus robustus,https://birda.twic.pics/species/de238770-cc7e-406c-8db3-bf07370e5d08/reference_images/Cape_Parrot-_Male.jpg
+Meyer's Parrot,Poicephalus meyeri,https://birda.twic.pics/species/53ef0d59-ca1e-4103-9edd-a99239d108d4/reference_images/Meyers_Parrot.jpg
+Rüppell's Parrot,Poicephalus rueppellii,https://birda.twic.pics/species/4a486550-c645-431b-b17d-f5c171e70650/reference_images/Ruppells_Parrot-_Male_1.jpg
+Amsterdam Albatross,Diomedea amsterdamensis,https://birda.twic.pics/species/d1ea3464-991a-4c42-82d3-c5d8e00164e8/reference_images/Amsterdam_Albatross-_Flying.jpg
+Atlantic Yellow-nosed Albatross,Thalassarche chlororhynchos,https://birda.twic.pics/species/9658895e-2d4e-4f08-92a3-26b7cb169ebf/reference_images/Atlantic_Yellow-nosed_Albatross-_F.jpg
+Black-browed Albatross,Thalassarche melanophris,https://birda.twic.pics/species/5c010079-c4b9-4f03-b25f-d62fc3721b84/reference_images/Black-browed_Albatross-_Flying.jpg
+Buller's Albatross,Thalassarche bulleri,https://birda.twic.pics/species/830a1f72-779e-4ec7-a071-db550ade3fb0/reference_images/Bullers_Albatross-_Flying.jpg
+Chatham Albatross,Thalassarche eremita,https://birda.twic.pics/species/651e9535-a77b-4935-9928-abee3c99938f/reference_images/Chatham_Albatross-_Flying.jpg
+Grey-headed Albatross,Thalassarche chrysostoma,https://birda.twic.pics/species/a2f7f856-047a-48fd-ad86-8c80d5c46fb3/reference_images/Grey-headed_Albatross-_Flying.jpg
+Indian Yellow-nosed Albatross,Thalassarche carteri,https://birda.twic.pics/species/101f574f-5bd5-428f-b2e4-2e7a404ed694/reference_images/Indian_Yellow-nosed_Albatross-_Fly.jpg
+Laysan Albatross,Phoebastria immutabilis,https://birda.twic.pics/species/daf9ce02-ba95-45b8-8448-aaa00e529381/reference_images/Laysan_Albatross-_Flying.jpg
+Light-mantled Albatross,Phoebetria palpebrata,https://birda.twic.pics/species/afa274d2-110e-4e14-877e-61cc7e156eba/reference_images/Light-mantled_Albatross-_Flying.jpg
+Northern Royal Albatross,Diomedea sanfordi,https://birda.twic.pics/species/ddac2342-8503-4445-96d7-c15e70776b7c/reference_images/Northern_Royal_Albatross-_Flying.jpg
+Salvin's Albatross,Thalassarche salvini,https://birda.twic.pics/species/653870bd-1fb9-4df8-8d1a-9074cb7254e6/reference_images/Salvins_Albatross-_Flying.jpg
+Shy Albatross,Thalassarche cauta,https://birda.twic.pics/species/f01a8aa2-647e-4a0e-b3fc-11370267f397/reference_images/Shy_Albatross-_Flying.jpg
+Sooty Albatross,Phoebetria fusca,https://birda.twic.pics/species/66aa5196-c4e4-4f6b-b39e-3bb90119372f/reference_images/Sooty_Albatross-_Flying.jpg
+Southern Royal Albatross,Diomedea epomophora,https://birda.twic.pics/species/e48066a1-5884-4d96-98c5-cd5cdbf1ad26/reference_images/Southern_Royal_Albatross-_Flying.jpg
+Tristan Albatross,Diomedea dabbenena,https://birda.twic.pics/species/4b3ed544-c152-4329-8e5d-4c9f598d371d/reference_images/Tristan_Albatross-_Male-_Flying.jpg
+Wandering Albatross,Diomedea exulans,https://birda.twic.pics/species/5ba92fd8-49e5-4b6e-a0e5-848bef70c600/reference_images/Wandering_Albatross-_Flying.jpg
+African Darter,Anhinga rufa,https://birda.twic.pics/species/c7eb3a72-a1e2-4ab3-8758-a120e6b600c5/reference_images/African_Darter.jpg
+Black-bellied Storm Petrel,Fregetta tropica,https://birda.twic.pics/species/9e0040c2-e2fa-48f6-9d23-829ee9544634/reference_images/Black-bellied_Storm_Petrel-_Flying.jpg
+Grey-backed Storm Petrel,Garrodia nereis,https://birda.twic.pics/species/2f4f4c54-d300-4f2e-b420-e12289df12f4/reference_images/Grey-backed_Storm_Petrel-_Flying.jpg
+White-bellied Storm Petrel,Fregetta grallaria,https://birda.twic.pics/species/2599edfb-fda2-4ae2-ac8b-8828d4971f7f/reference_images/White-bellied_Storm_Petrel-_Flying.jpg
+White-faced Storm Petrel,Pelagodroma marina,https://birda.twic.pics/species/65bd12a1-bc89-47ec-ab77-89abaa01f705/reference_images/White-faced_Strom-petrel-_Flying.jpg
+Wilson's Petrel,Oceanites oceanicus,https://birda.twic.pics/species/acf9fca8-af42-4be5-9514-d590e290de5f/reference_images/Wilsons_Storm_Petrel-_Flying.jpg
+African Grass Owl,Tyto capensis,N/A
+Barn Owl,Tyto alba,https://birda.twic.pics/species/f32f5a0b-0fc4-49dc-a107-9ab226ead556/reference_images/Western_Barn_Owl.jpg
+Bee-eater,Merops apiaster,https://birda.twic.pics/species/6e4bbd2f-276e-4108-81d8-c174e7da9907/reference_images/European_Bee-eater-_New.jpg
+Blue-cheeked Bee-eater,Merops persicus,https://birda.twic.pics/species/5ed22609-a1f8-4e78-8520-943681f125db/reference_images/Blue-cheeked_Bee-eater.jpg
+Böhm's Bee-eater,Merops boehmi,N/A
+Little Bee-eater,Merops pusillus,https://birda.twic.pics/species/be43697b-8003-45cb-86f0-1ca3e76de6c8/reference_images/Little_Bee-eater.jpg
+Northern Carmine Bee-eater,Merops nubicus,https://birda.twic.pics/species/f2654333-0592-4a78-91b8-1c1df8b7e37e/reference_images/Northern_Carmine_Bee-eater.jpg
+Olive Bee-eater,Merops superciliosus,https://birda.twic.pics/species/277dc013-c712-46e4-8c17-fb6157bf3233/reference_images/Olive_Bee-eater.jpg
+Southern Carmine Bee-eater,Merops nubicoides,https://birda.twic.pics/species/76420bb5-9b59-4088-8d8d-2af12f7bea07/reference_images/Southern_Carmine_Bee-eater.jpg
+Swallow-tailed Bee-eater,Merops hirundineus,https://birda.twic.pics/species/9ee7119a-4106-431c-a0ea-1b6c840bf6b0/reference_images/Swallow-tailed_Bee-eater.jpg
+White-fronted Bee-eater,Merops bullockoides,https://birda.twic.pics/species/4c097131-9342-44cb-a840-7bad3ca9076a/reference_images/White-fronted_Bee-eater.jpg
+White-throated Bee-eater,Merops albicollis,https://birda.twic.pics/species/8fa1c9f5-0f20-405e-af83-7c69524e8b27/reference_images/White-throated_Bee-eater.jpg
+African Red-eyed Bulbul,Pycnonotus nigricans,https://birda.twic.pics/species/d4d9e9df-5f1e-409b-acad-17eedbbd03b4/reference_images/African_Red-eyed_Bulbul.jpg
+Cape Bulbul,Pycnonotus capensis,https://birda.twic.pics/species/7788f633-6329-407a-9c29-edfb0f0b63dc/reference_images/Cape_Bulbul.jpg
+Dark-capped Bulbul,Pycnonotus tricolor,https://birda.twic.pics/species/96ddcd54-f2d0-4b3b-9010-e54c7b639b70/reference_images/Dark-capped_Bulbul_-_Adult.jpg
+Lowland Tiny Greenbul,Phyllastrephus debilis,N/A
+Sombre Greenbul,Andropadus importunus,https://birda.twic.pics/species/3508bdc0-4f89-448e-a958-359348c4e6cb/reference_images/Sombre_Greenbul_-_Adult.jpg
+Stripe-cheeked Greenbul,Arizelocichla milanjensis,N/A
+Terrestrial Brownbul,Phyllastrephus terrestris,https://birda.twic.pics/species/9b017f9e-1781-4abe-9bec-8d529c0d8528/reference_images/Terrestrial_Brownbul.jpg
+Yellow-bellied Greenbul,Chlorocichla flaviventris,https://birda.twic.pics/species/0e1645e8-7a51-4b46-ac45-9a66f576c58b/reference_images/Yellow-bellied_Greenbul.jpg
+Yellow-streaked Greenbul,Phyllastrephus flavostriatus,N/A
+Yellow-throated Leaflove,Atimastillas flavicollis,N/A
+Cabanis's Bunting,Emberiza cabanisi,N/A
+Cape Bunting,Emberiza capensis,https://birda.twic.pics/species/c17c5221-5168-41b2-81aa-ab250258f9c5/reference_images/Cape_Bunting.jpg
+Cinnamon-breasted Bunting,Emberiza tahapisi,https://birda.twic.pics/species/3e9fb780-95d8-4d96-ac30-bd51ddcf9930/reference_images/Cinnamon-breasted_Bunting-_Male.jpg
+Golden-breasted Bunting,Emberiza flaviventris,https://birda.twic.pics/species/8c881ab9-7e2f-4901-8042-6fcc0f35d6a9/reference_images/Golden-breasted_Bunting-_Male.jpg
+Lark-like Bunting,Emberiza impetuani,https://birda.twic.pics/species/407f14c4-60fe-48d5-940f-9c3a60baacf6/reference_images/Lark-like_Bunting.jpg
+Ortolan Bunting,Emberiza hortulana,https://birda.twic.pics/species/67578d1c-d805-4d0c-b2ee-489d5da069ea/reference_images/Ortolan_Bunting.jpg
+Black-backed Puffback,Dryoscopus cubla,https://birda.twic.pics/species/9effc54b-da00-49c7-98c4-950eb913e4ec/reference_images/Black-backed_Puffback-_Male.jpg
+Black-crowned Tchagra,Tchagra senegalus,https://birda.twic.pics/species/b8a37a85-3448-4e1d-b0ed-ca5bc70422f2/reference_images/Black-crowned_Tchagra.jpg
+Black-fronted Bushshrike,Chlorophoneus nigrifrons,N/A
+Bokmakierie,Telophorus zeylonus,https://birda.twic.pics/species/235ce9a9-a02f-4c2d-8613-c615ce76274f/reference_images/Bokmakierie.jpg
+Brown-crowned Tchagra,Tchagra australis,https://birda.twic.pics/species/bdc13101-16d2-41cd-9483-a31c565bbe2f/reference_images/Brown-crowned_Tchagra.jpg
+Brubru,Nilaus afer,https://birda.twic.pics/species/c3aa196f-0270-47c3-8340-0eda123192f4/reference_images/Brubru-_Male.jpg
+Crimson-breasted Shrike,Laniarius atrococcineus,https://birda.twic.pics/species/0120948f-2302-4d43-bb6c-f3b88dd34868/reference_images/Crimson-breasted_Shrike.jpg
+Gorgeous Bushshrike,Telophorus viridis,N/A
+Grey-headed Bushshrike,Malaconotus blanchoti,https://birda.twic.pics/species/c4b6b608-8300-494b-b4a5-1d44728eeef1/reference_images/Grey-headed_Bushshrike.jpg
+Marsh Tchagra,Bocagia minuta,N/A
+Olive Bushshrike,Chlorophoneus olivaceus,N/A
+Orange-breasted Bushshrike,Chlorophoneus sulfureopectus,N/A
+Southern Boubou,Laniarius ferrugineus,https://birda.twic.pics/species/08fd4467-755d-434e-9529-ce321ed9c707/reference_images/Southern_Boubou_-_Adult.jpg
+Southern Tchagra,Tchagra tchagra,https://birda.twic.pics/species/a71a6303-b68a-47df-ac95-c37e9cebed17/reference_images/Southern_Tchargra.jpg
+Swamp Boubou,Laniarius bicolor,https://birda.twic.pics/species/f42b1e30-c60a-43d4-9055-e77c4321a508/reference_images/Swamp_Boubou.jpg
+Tropical Boubou,Laniarius major,N/A
+Black-bellied Bustard,Lissotis melanogaster,https://birda.twic.pics/species/2008d859-53be-46a6-9605-b294d9cf2e39/reference_images/Black-bellied_Bustard-_Male.jpg
+Blue Korhaan,Eupodotis caerulescens,N/A
+Denham's Bustard,Neotis denhami,https://birda.twic.pics/species/8a6fd42c-4036-4555-845f-adcdfc076d96/reference_images/Denhams_Bustard-_Male.jpg
+Karoo Korhaan,Eupodotis vigorsii,https://birda.twic.pics/species/8841b833-a5f3-4acf-b3a4-b09082b04c81/reference_images/Karoo_Korhaan.jpg
+Kori Bustard,Ardeotis kori,https://birda.twic.pics/species/56835cd0-b5ec-4191-afca-fff0259d65be/reference_images/Koi_Bustard.jpg
+Ludwig's Bustard,Neotis ludwigii,https://birda.twic.pics/species/52fab9c8-9155-44d4-876e-8c5107ac27f8/reference_images/Ludwigs_Bustard-_Male.jpg
+Northern Black Korhaan,Afrotis afraoides,https://birda.twic.pics/species/7b89a181-fc57-45ae-b752-015bb3079473/reference_images/Northern_Black_Korhaan-_Male.jpg
+Red-crested Korhaan,Lophotis ruficrista,https://birda.twic.pics/species/b12d7c3f-a6c1-4f9c-ac27-09fd5100e562/reference_images/Red-crested_Korhaan-_Male.jpg
+Rüppell's Korhaan,Eupodotis rueppelii,https://birda.twic.pics/species/cf45ef14-d3c6-49a7-92a3-a508daa8aa71/reference_images/Ruppells_Korhaan-_Male.jpg
+Southern Black Korhaan,Afrotis afra,https://birda.twic.pics/species/ec025501-6c81-437d-a760-adc3c0c4d52c/reference_images/Southern_Blck_Korhaan-_Male.jpg
+White-bellied Bustard,Eupodotis senegalensis,https://birda.twic.pics/species/2d80dc75-45c0-4030-a2ce-ebca7b8fdafc/reference_images/White-bellied_Bustard-_Male.jpg
+Black-rumped Buttonquail,Turnix nanus,N/A
+Common Buttonquail,Turnix sylvaticus,N/A
+Fynbos Buttonquail,Turnix hottentottus,N/A
+African Hobby,Falco cuvierii,https://birda.twic.pics/species/120bca99-014f-4fbc-bfea-277e8c981785/reference_images/African_Hobby.jpg
+Amur Falcon,Falco amurensis,https://birda.twic.pics/species/918ba15d-ba4f-4a09-bc42-ba13502a1f67/reference_images/Amur_Falcon-_Male.jpg
+Dickinson's Kestrel,Falco dickinsoni,https://birda.twic.pics/species/80251084-32f3-42e5-baf4-c11593e6d1f6/reference_images/Dickinsons_Kestrel.jpg
+Eleonora's Falcon,Falco eleonorae,https://birda.twic.pics/species/f0c05774-0643-49de-b765-3137fdf2e193/reference_images/Eleonoras_Falcon-_Flying.jpg
+Greater Kestrel,Falco rupicoloides,https://birda.twic.pics/species/5dbccf2f-b88c-4dd5-9fa1-ec97b9cf5319/reference_images/Greater_Kestrel.jpg
+Grey Kestrel,Falco ardosiaceus,https://birda.twic.pics/species/f76fdb2d-b4ba-4943-9ec4-4afe6aab87d3/reference_images/Grey_Kestrel-_Flying.jpg
+Hobby,Falco subbuteo,https://birda.twic.pics/species/a52c7005-b28b-4edf-bfd6-c6a5784be77a/reference_images/Eurasian_Hobby_-_Adult_-_Perched.jpg
+Lanner Falcon,Falco biarmicus,https://birda.twic.pics/species/b7788035-d571-4a49-b894-6db533a662ef/reference_images/Lanner_Falcon-_Flying-_New.jpg
+Lesser Kestrel,Falco naumanni,https://birda.twic.pics/species/f442edf4-7ff2-4d12-8220-1f15d343b01d/reference_images/Lesser_Kestrel_-_Male_-_Flying.jpg
+Peregrine,Falco peregrinus,https://birda.twic.pics/species/968d43a6-b497-4221-b70e-edaabdfc1c4d/reference_images/Peregrine_Falcon_-_Standing.jpg
+Pygmy Falcon,Polihierax semitorquatus,https://birda.twic.pics/species/023efe82-923f-4d60-9ed3-0db88d47ecb1/reference_images/Pygmy_Falcon-_Male.jpg
+Red-footed Falcon,Falco vespertinus,https://birda.twic.pics/species/39078667-aee1-4fa0-88e6-8879b547cae3/reference_images/Red-footed_Falcon_-_Male_-_Flying.jpg
+Red-necked Falcon,Falco chicquera,https://birda.twic.pics/species/948b8280-2a9a-4e82-94bf-f63f36892ffb/reference_images/Red-necked_Falcon-_Flying.jpg
+Red-necked Falcon,Falco chicquera,https://birda.twic.pics/species/948b8280-2a9a-4e82-94bf-f63f36892ffb/reference_images/Red-necked_Falcon-_Flying.jpg
+Red-necked Falcon,Falco chicquera,https://birda.twic.pics/species/948b8280-2a9a-4e82-94bf-f63f36892ffb/reference_images/Red-necked_Falcon-_Flying.jpg
+Rock Kestrel,Falco rupicolus,https://birda.twic.pics/species/d24a9c32-993f-46a6-b83a-9d22327779e7/reference_images/Rock_Kestrel.jpg
+Sooty Falcon,Falco concolor,N/A
+Taita Falcon,Falco fasciinucha,N/A
+African Dusky Flycatcher,Muscicapa adusta,https://birda.twic.pics/species/d659a365-82bf-4e0d-914f-e66299aba855/reference_images/African_Dusky_Flycatcher.jpg
+African Stonechat,Saxicola torquatus,https://birda.twic.pics/species/25c21d97-d390-4fa2-b502-e7f0a4beb3f0/reference_images/African_Stonechat_-_Male.jpg
+Angolan Cave Chat,Xenocopsychus ansorgei,https://birda.twic.pics/species/da62bfa4-122c-4658-88b4-fb5153bca79c/reference_images/Angolan_Cave_Chat.jpg
+Ant-eating Chat,Myrmecocichla formicivora,https://birda.twic.pics/species/04ef3cf7-d91c-4524-92f3-ae7259c14896/reference_images/Ant-eating_Chat-_Male_.jpg
+Arnot's Chat,Myrmecocichla arnotti,https://birda.twic.pics/species/aa03f501-dc23-4862-af19-f7db37ac499c/reference_images/Arnots_Chat-_Male.jpg
+Ashy Flycatcher,Muscicapa caerulescens,https://birda.twic.pics/species/e4d87cca-e426-42e2-a3fc-7025f92d2a57/reference_images/Ashy_Flycatcher.jpg
+Bearded Scrub Robin,Cercotrichas quadrivirgata,https://birda.twic.pics/species/714c24c5-548b-44cb-89fa-3ab2e9f2aec7/reference_images/Bearded_Scrub-robin.jpg
+Brown Scrub Robin,Cercotrichas signata,N/A
+Buff-streaked Chat,Campicoloides bifasciatus,https://birda.twic.pics/species/7d43e891-0322-478d-96a4-dae4a5196cc0/reference_images/Buff-streaked_Chat-_Male.jpg
+Cape Robin-Chat,Cossypha caffra,https://birda.twic.pics/species/329612a0-26b1-4924-80d3-c38e206028cf/reference_images/Cape_Robin-Chat_-_Adult.jpg
+Cape Rock Thrush,Monticola rupestris,https://birda.twic.pics/species/bcf55046-c22d-4c7f-bb81-51954339d76d/reference_images/Cape_Rock_Thrush-_Male.jpg
+Capped Wheatear,Oenanthe pileata,https://birda.twic.pics/species/ede81582-3c65-4359-a2c9-83e00e3aad89/reference_images/Capped_Wheatear.jpg
+Chat Flycatcher,Melaenornis infuscatus,https://birda.twic.pics/species/c2eac793-71fc-4741-acf2-6b122bd12016/reference_images/Chat_Flycatcher.jpg
+Chorister Robin-Chat,Cossypha dichroa,https://birda.twic.pics/species/b33f3474-2956-43b0-8977-15ce93b1affb/reference_images/Chorister_Robin-chat.jpg
+Collared Flycatcher,Ficedula albicollis,https://birda.twic.pics/species/18b74fbd-0a19-49de-8d44-5f10bb4c6b32/reference_images/Collared_Flycatcher-_Male.jpg
+Collared Palm Thrush,Cichladusa arquata,https://birda.twic.pics/species/a3e45703-1c40-48ce-a70d-c4f713192b04/reference_images/Collared_Palm_Thrush.jpg
+East Coast Akalat,Sheppardia gunningi,N/A
+Familiar Chat,Oenanthe familiaris,https://birda.twic.pics/species/04079090-8bfa-41b8-aea1-47ab8372fa78/reference_images/Familiar_Chat.jpg
+Fiscal Flycatcher,Melaenornis silens,https://birda.twic.pics/species/8716aeb9-b230-4e6f-b015-30cb8cec600b/reference_images/Fiscal_Flycatcher-_Male_.jpg
+Grey Tit-Flycatcher,Myioparus plumbeus,N/A
+Herero Chat,Namibornis herero,N/A
+Isabelline Wheatear,Oenanthe isabellina,https://birda.twic.pics/species/025c2099-61d0-400a-bdef-3d3f6e991c9c/reference_images/Isabelline_Wheatear.jpg
+Kalahari Scrub Robin,Cercotrichas paena,https://birda.twic.pics/species/2d5d497b-c174-4825-975f-670f3f70c5da/reference_images/Kalahari_Scrub_Robin.jpg
+Karoo Chat,Emarginata schlegelii,N/A
+Karoo Scrub Robin,Cercotrichas coryphoeus,https://birda.twic.pics/species/1c891bc1-68b7-45a8-a703-564d69102ba7/reference_images/Karoo_Scrub_Robin.jpg
+Marico Flycatcher,Melaenornis mariquensis,https://birda.twic.pics/species/cb404195-d16b-466f-b803-692f8acf0891/reference_images/Marico_Flycatcher.jpg
+Mediterranean Flycatcher,Muscicapa tyrrhenica,https://birda.twic.pics/species/6c4e29e7-8b2d-4a7d-b996-f942507fb37f/reference_images/Mediterranean_Flycatcher-_New.jpg
+Miombo Rock Thrush,Monticola angolensis,N/A
+Mocking Cliff Chat,Thamnolaea cinnamomeiventris,https://birda.twic.pics/species/138530d9-bc2d-4c35-bb3e-a19571a9e3a9/reference_images/Mocking_Cliff_Chat-_Male.jpg
+Mountain Wheatear,Myrmecocichla monticola,https://birda.twic.pics/species/c42ba9b9-630f-4096-9db6-a7c4e4007eba/reference_images/Mountain_Wheatear-_Male.jpg
+Pale Flycatcher,Melaenornis pallidus,N/A
+Pied Flycatcher,Ficedula hypoleuca,https://birda.twic.pics/species/fafe083d-3627-44fb-b7a1-7eb86482536d/reference_images/European_Pied_Flycatcher_-_Male.jpg
+Pied Wheatear,Oenanthe pleschanka,https://birda.twic.pics/species/0fddab01-4a2c-4662-b531-1197bc6e6bd0/reference_images/Pied_Wheatear_-_Male.jpg
+Red-capped Robin-Chat,Cossypha natalensis,https://birda.twic.pics/species/a3140fb1-f438-4884-99a4-4200be25fda4/reference_images/Red-capped_Robin-Chat_-_Adult.jpg
+Redstart,Phoenicurus phoenicurus,https://birda.twic.pics/species/13da3581-cf90-4bed-9ae5-c61cdba9ee92/reference_images/Common_Redstart_-_Male.jpg
+Rufous-tailed Palm Thrush,Cichladusa ruficauda,https://birda.twic.pics/species/5070dfb7-1acf-4d2e-9dc6-0fc2073dc834/reference_images/Rufous-tailed_Palm_Thrush.jpg
+Rufous-tailed Scrub Robin,Cercotrichas galactotes,https://birda.twic.pics/species/0761f204-bcfe-46b0-b2da-738c945e5e9e/reference_images/Rufous-tailed_Scrub_Robin.jpg
+Sentinel Rock Thrush,Monticola explorator,N/A
+Short-toed Rock Thrush,Monticola brevipes,https://birda.twic.pics/species/8218e7be-8b0e-4259-9061-d6e1f0657b7b/reference_images/Short-toed_Rock-thrush-_Male.jpg
+Sickle-winged Chat,Emarginata sinuata,https://birda.twic.pics/species/25caec36-58b7-422f-ab7d-1e5d5521efcc/reference_images/Sickle-winged_Chat.jpg
+Southern Black Flycatcher,Melaenornis pammelaina,https://birda.twic.pics/species/661d5e78-d2b8-4f36-aee9-787e1c9bd9eb/reference_images/Southern_Black_Flycatcher_-_Adult.jpg
+Spotted Flycatcher,Muscicapa striata,https://birda.twic.pics/species/a87cf477-961c-4e96-883e-67f209db926b/reference_images/Spotted_Flycatcher.jpg
+Swynnerton's Robin,Swynnertonia swynnertoni,N/A
+Thrush Nightingale,Luscinia luscinia,https://birda.twic.pics/species/90416342-1a7e-44e4-b4cd-b5897a1a5777/reference_images/Thrush_Nightingale.jpg
+Tractrac Chat,Emarginata tractrac,https://birda.twic.pics/species/9e957dc0-760c-473c-bdb7-0514f2a6403c/reference_images/Tractrac_Chat.jpg
+Wheatear,Oenanthe oenanthe,https://birda.twic.pics/species/3fc55784-91e9-42f6-a1b9-6ebc24c86783/reference_images/Northern_Wheatear_-_Male.jpg
+Whinchat,Saxicola rubetra,https://birda.twic.pics/species/d2e1b56c-ddd8-4fcb-bac0-3e454d3b8545/reference_images/Whinchat_-_Male.jpg
+White-browed Robin-Chat,Cossypha heuglini,https://birda.twic.pics/species/d44d27de-b891-45fb-86c0-3e22f648cca6/reference_images/White-browed_Robin-chat.jpg
+White-browed Scrub Robin,Cercotrichas leucophrys,https://birda.twic.pics/species/736a518a-9b5f-4dae-b57f-e008e8a81ebf/reference_images/White-browed_Scrub_Robin.jpg
+White-chested Alethe,Chamaetylas fuelleborni,N/A
+White-starred Robin,Pogonocichla stellata,https://birda.twic.pics/species/767675cc-b237-490f-90f8-b378ff2780b6/reference_images/White-starred_Robin.jpg
+White-throated Robin,Irania gutturalis,https://birda.twic.pics/species/f0a1e78e-0f34-4e88-8805-8dd00ac02fdc/reference_images/White-throated_Robin-_Male.jpg
+White-throated Robin-Chat,Cossypha humeralis,https://birda.twic.pics/species/2f0b8842-d98e-49e1-8fad-c61d2ae68574/reference_images/White-throated_Robin-chat.jpg
+Barred Wren-Warbler,Calamonastes fasciolatus,N/A
+Bar-throated Apalis,Apalis thoracica,https://birda.twic.pics/species/358be887-b4ec-458c-98b6-0d93b20ab3fb/reference_images/Bar-throated_Apalis.jpg
+Black-chested Prinia,Prinia flavicans,https://birda.twic.pics/species/c82d55db-77be-45cb-a988-6a233f860471/reference_images/Black-chested_Prinia-_Breeding.jpg
+Black-headed Apalis,Apalis melanocephala,N/A
+Burnt-necked Eremomela,Eremomela usticollis,N/A
+Chirinda Apalis,Apalis chirindensis,N/A
+Chirping Cisticola,Cisticola pipiens,N/A
+Cinnamon-breasted Warbler,Euryptila subcinnamomea,https://birda.twic.pics/species/6f85f502-bac2-4d14-80d8-29db5cf388f5/reference_images/Cinnamon-breasted_Warbler.jpg
+Cloud Cisticola,Cisticola textrix,N/A
+Croaking Cisticola,Cisticola natalensis,https://birda.twic.pics/species/ea17bd48-b004-41e2-9ab0-234343d44bc2/reference_images/Croaking_Cisticola.jpg
+Desert Cisticola,Cisticola aridulus,N/A
+Drakensberg Prinia,Prinia hypoxantha,N/A
+Fan-tailed Warbler,Cisticola juncidis,https://birda.twic.pics/species/8d609c8f-3c4c-40d0-a092-e31ee2861f83/reference_images/Zitting_Cisticola.jpg
+Green-backed Camaroptera,Camaroptera brachyura,https://birda.twic.pics/species/04375aed-079b-4f8a-8d55-f6f468f04370/reference_images/Green-backed_Camaroptera.jpg
+Green-capped Eremomela,Eremomela scotops,N/A
+Grey-backed Camaroptera,Camaroptera brevicaudata,https://birda.twic.pics/species/7e491100-5fd3-4349-b8c6-90c3cbcdc0b1/reference_images/Grey-backed_Camaroptera.jpg
+Grey-backed Cisticola,Cisticola subruficapilla,N/A
+Karoo Eremomela,Eremomela gregalis,N/A
+Karoo Prinia,Prinia maculosa,https://birda.twic.pics/species/43e5eb9e-0499-4ba0-b454-2f67e3632814/reference_images/Karoo_Prinia.jpg
+Lazy Cisticola,Cisticola aberrans,N/A
+Levaillant's Cisticola,Cisticola tinniens,https://birda.twic.pics/species/608d051c-9e24-4f59-b8b5-9b8e05be0e55/reference_images/Levaillants_Cisticola_-_Adult.jpg
+Luapula Cisticola,Cisticola luapula,N/A
+Namaqua Warbler,Phragmacia substriata,N/A
+Neddicky,Cisticola fulvicapilla,https://birda.twic.pics/species/1be5591c-855a-4b70-9547-f6ddd0450735/reference_images/Neddicky_-_Adult.jpg
+Pale-crowned Cisticola,Cisticola cinnamomeus,N/A
+Rattling Cisticola,Cisticola chiniana,https://birda.twic.pics/species/6c096b8f-5c1a-46db-bd7b-5e24bae659a1/reference_images/Rattling_Cisticola.jpg
+Red-faced Cisticola,Cisticola erythrops,https://birda.twic.pics/species/319a8fcb-e02a-45f3-a6d8-dc7432efc3c3/reference_images/Red-faced_Cisticola.jpg
+Red-winged Prinia,Prinia erythroptera,N/A
+Roberts's Warbler,Oreophilais robertsi,N/A
+Rudd's Apalis,Apalis ruddi,N/A
+Rufous-eared Warbler,Malcorus pectoralis,https://birda.twic.pics/species/9a17d785-2475-47bb-981d-2c56cd5724ea/reference_images/Rufous-eared_Warbler.jpg
+Rufous-winged Cisticola,Cisticola galactotes,N/A
+Short-winged Cisticola,Cisticola brachypterus,N/A
+Singing Cisticola,Cisticola cantans,N/A
+Stierling's Wren-Warbler,Calamonastes stierlingi,N/A
+Tawny-flanked Prinia,Prinia subflava,https://birda.twic.pics/species/91985f14-4a3d-4ea1-a4a1-a940014b0ce9/reference_images/Tawny-flanked_Prinia_-_Adult.jpg
+Tinkling Cisticola,Cisticola rufilatus,N/A
+Wailing Cisticola,Cisticola lais,https://birda.twic.pics/species/ff746f3e-837e-40ff-9a59-d25e572a90cc/reference_images/Wailing_Cisticola_.jpg
+Wing-snapping Cisticola,Cisticola ayresii,N/A
+Yellow-bellied Eremomela,Eremomela icteropygialis,N/A
+Yellow-breasted Apalis,Apalis flavida,https://birda.twic.pics/species/9be536fb-3ad3-47f9-a801-2686d7d6a392/reference_images/Yellow-breasted_Apalis-_Male.jpg
+Bank Cormorant,Phalacrocorax neglectus,https://birda.twic.pics/species/9c74b474-96a6-4e9d-a94f-515cd3af8189/reference_images/Bank_Cormorant.jpg
+Cape Cormorant,Phalacrocorax capensis,https://birda.twic.pics/species/512682f5-27c8-4b3e-a767-0a64007528bf/reference_images/Crowned_Cormorant.jpg
+Crowned Cormorant,Microcarbo coronatus,https://birda.twic.pics/species/9d2df5fc-d5c0-4b67-b46c-60360d19abcd/reference_images/Reed_Cormorant_-_Adult.jpg
+Reed Cormorant,Microcarbo africanus,https://birda.twic.pics/species/e90dfffe-527b-412a-b329-4db5ec87b52d/reference_images/White-breasted_Cormorant.jpg
+White-breasted Cormorant,Phalacrocorax lucidus,https://birda.twic.pics/species/e98de4d4-fad1-4701-8bc8-a4a9b8991b93/reference_images/Black-winged_Pratincole.jpg
+Black-winged Pratincole,Glareola nordmanni,https://birda.twic.pics/species/93adb679-203a-481e-a0b1-60a770b9aa71/reference_images/Bronze-winged_Courser.jpg
+Bronze-winged Courser,Rhinoptilus chalcopterus,https://birda.twic.pics/species/f2840c46-af93-4ebe-a0a3-bf0a6c3e3253/reference_images/Burchells_Courser.jpg
+Burchell's Courser,Cursorius rufus,https://birda.twic.pics/species/025a3eca-83b5-44d1-89be-2c94f7007809/reference_images/Collared_Pratincole.jpg
+Collared Pratincole,Glareola pratincola,https://birda.twic.pics/species/3f258bc5-2507-4248-8e37-7ea2ff9cc973/reference_images/Double-banded_Courser.jpg
+Double-banded Courser,Rhinoptilus africanus,https://birda.twic.pics/species/2e3e5503-278b-4b3e-a1c6-c3402a4eb7ad/reference_images/Madagascar_Pratincole.jpg
+Madagascar Pratincole,Glareola ocularis,https://birda.twic.pics/species/da33fa20-4dec-4b42-9013-ce33e9233b4b/reference_images/Rock_Pratincole.jpg
+Rock Pratincole,Glareola nuchalis,https://birda.twic.pics/species/b7a9ac29-9aa2-496a-b74f-7419df6e5123/reference_images/Temmincks_Courser.jpg
+Temminck's Courser,Cursorius temminckii,https://birda.twic.pics/species/e73d0bd3-15fe-4742-a824-46b99f834969/reference_images/Three-banded_Courser.jpg
+Three-banded Courser,Rhinoptilus cinctus,https://birda.twic.pics/species/8846fa04-6743-4b8e-a196-3667640efd28/reference_images/Crab-plover.jpg
+Crab-plover,Dromas ardeola,https://birda.twic.pics/species/09da07d6-f7cd-478f-a2f8-1ee29c0b0864/reference_images/Blue_Crane.jpg
+Blue Crane,Grus paradisea,https://birda.twic.pics/species/65bcd4df-a06d-4425-8d58-c23eb3640e6e/reference_images/Grey_Crowned_Crane.jpg
+Grey Crowned Crane,Balearica regulorum,https://birda.twic.pics/species/1338d489-13b8-4aa9-a590-c60ca453b1b2/reference_images/Wattled_Crane.jpg
+Wattled Crane,Grus carunculata,https://birda.twic.pics/species/2e034698-0564-4a4e-b7ec-7e90fb0b4ee2/reference_images/Cape_Grassbird_.jpg
+Cape Grassbird,Sphenoeacus afer,https://birda.twic.pics/species/996bd0c5-fe1d-4079-9108-a22a6709d169/reference_images/Long-billed_Crombec.jpg
+Long-billed Crombec,Sylvietta rufescens,https://birda.twic.pics/species/996bd0c5-fe1d-4079-9108-a22a6709d169/reference_images/Long-billed_Crombec.jpg
+Moustached Grass Warbler,Melocichla mentalis,N/A
+Red-capped Crombec,Sylvietta ruficapilla,N/A
+Red-faced Crombec,Sylvietta whytii,N/A
+Rockrunner,Achaetops pycnopygius,N/A
+Victorin's Warbler,Cryptillas victorini,N/A
+Cape Crow,Corvus capensis,https://birda.twic.pics/species/a09d6a2b-cad7-4f60-98d9-2fff8fa46f90/reference_images/House_Crow.jpg
+House Crow,Corvus splendens,https://birda.twic.pics/species/5ba8526e-8c92-4729-b905-a8c944ced762/reference_images/Pied_Crow_-_Adult.jpg
+Pied Crow,Corvus albus,https://birda.twic.pics/species/95f49b1f-0961-4ebb-ad6a-8decfc1ae218/reference_images/White-necked_Raven.jpg
+White-necked Raven,Corvus albicollis,https://birda.twic.pics/species/2217f4fa-5e41-4d19-9113-39a8dd51eac8/reference_images/African_Cuckoo.jpg
+African Cuckoo,Cuculus gularis,https://birda.twic.pics/species/2217f4fa-5e41-4d19-9113-39a8dd51eac8/reference_images/African_Cuckoo.jpg
+African Emerald Cuckoo,Chrysococcyx cupreus,N/A
+Barred Long-tailed Cuckoo,Cercococcyx montanus,N/A
+Black Coucal,Centropus grillii,N/A
+Black Cuckoo,Cuculus clamosus,N/A
+Burchell's Coucal,Centropus burchellii,https://birda.twic.pics/species/1bb15b67-f303-4c5a-be8e-bf492a7c0f82/reference_images/Burchells_Coucal.jpg
+Coppery-tailed Coucal,Centropus cupreicaudus,N/A
+Cuckoo,Cuculus canorus,https://birda.twic.pics/species/0979e7cb-b638-48fe-b358-3fb234675dcb/reference_images/Common_Cuckoo.jpg
+Diederik Cuckoo,Chrysococcyx caprius,https://birda.twic.pics/species/2d5e15f8-003a-4924-a1f8-549af4588ab6/reference_images/Diederik_Cuckoo_-_Adult.jpg
+Great Spotted Cuckoo,Clamator glandarius,https://birda.twic.pics/species/a230907b-ceef-4c0c-9d32-3e500ec67330/reference_images/Great_Spotted_Cuckoo_2.jpg
+Green Malkoha,Ceuthmochares australis,N/A
+Jacobin Cuckoo,Clamator jacobinus,https://birda.twic.pics/species/e5c6653c-3b0b-4d1d-94ac-50c312027b62/reference_images/Jacobin_Cuckoo.jpg
+Klaas's Cuckoo,Chrysococcyx klaas,https://birda.twic.pics/species/6eb397de-5b98-420b-95d9-f57047f3b2ff/reference_images/Klaass_Cuckoo-_Male.jpg
+Lesser Cuckoo,Cuculus poliocephalus,N/A
+Levaillant's Cuckoo,Clamator levaillantii,https://birda.twic.pics/species/945a8823-51c1-41c0-a381-3b48d890a09c/reference_images/Levaillants_Cuckoo.jpg
+Madagascar Cuckoo,Cuculus rochii,N/A
+Red-chested Cuckoo,Cuculus solitarius,https://birda.twic.pics/species/95aa60ba-90ea-43e0-8f52-62ea5c49a50c/reference_images/Red-chested_Cuckoo.jpg
+Senegal Coucal,Centropus senegalensis,https://birda.twic.pics/species/bdd36066-8cc3-4b6b-82a7-18c0f6571f0b/reference_images/Senegal_Coucal.jpg
+Thick-billed Cuckoo,Pachycoccyx audeberti,N/A
+White-browed Coucal,Centropus superciliosus,https://birda.twic.pics/species/e9fc1264-68c7-4957-984b-dabdf9a20b40/reference_images/White-browed_Coucal.jpg
+Black Cuckooshrike,Campephaga flava,N/A
+Grey Cuckooshrike,Ceblepyris caesius,N/A
+White-breasted Cuckooshrike,Ceblepyris pectoralis,N/A
+Common Square-tailed Drongo,Dicrurus ludwigii,N/A
+Fork-tailed Drongo,Dicrurus adsimilis,https://birda.twic.pics/species/a9b9ca0b-381a-487f-8e2d-c4a24787d4ba/reference_images/Fork-tailed_Drongo_-_Adult.jpg
+African Black Duck,Anas sparsa,https://birda.twic.pics/species/6d568104-708c-43d1-9644-619a3792b0af/reference_images/African_Black_Duck.jpg
+African Pygmy Goose,Nettapus auritus,https://birda.twic.pics/species/a584bfab-b6d8-4d60-ae1c-a788a5a5a88f/reference_images/African_Pygmy_Goose-_Male-_Swimmin.jpg
+Blue-billed Teal,Spatula hottentota,https://birda.twic.pics/species/d5e33328-4320-4bfa-83f8-050b14bd0478/reference_images/Blue-billed_Teal-_Swimming.jpg
+Cape Shoveler,Spatula smithii,https://birda.twic.pics/species/1f427af5-449c-4389-9358-41a21acc1c83/reference_images/Cape_Shoveller-_Male-_Swimming.jpg
+Cape Teal,Anas capensis,https://birda.twic.pics/species/6e21b2fa-40c2-44d9-bcd3-9ca8fc725438/reference_images/Cape_Teal-_Swimming.jpg
+Egyptian Goose,Alopochen aegyptiaca,https://birda.twic.pics/species/f0f37cf4-4fa0-4af0-ada6-e6b59987a5c1/reference_images/Egyptian_Goose.jpg
+Fulvous Whistling Duck,Dendrocygna bicolor,https://birda.twic.pics/species/bb5255d0-c86f-4a23-98d9-5be9a5d3d6ac/reference_images/Fulvous_Whistling_Duck.jpg
+Garganey,Spatula querquedula,https://birda.twic.pics/species/dea5e174-a435-4b1f-a10a-c94fd4318801/reference_images/Garganey_-_Male.jpg
+Knob-billed Duck,Sarkidiornis melanotos,https://birda.twic.pics/species/5ad8b0a8-cb4f-4f67-961c-eadeee449a06/reference_images/Knob-billed_Duck-_Male.jpg
+Maccoa Duck,Oxyura maccoa,N/A
+Mallard,Anas platyrhynchos,https://birda.twic.pics/species/4da1099c-41bf-43b5-a6bc-944dbcf2f8a7/reference_images/Mallard.jpg
+Mute Swan,Cygnus olor,https://birda.twic.pics/species/accf9f1a-65eb-4a49-9457-86eb5779a2e9/reference_images/Mute_Swan.jpg
+Pintail,Anas acuta,https://birda.twic.pics/species/d08f2150-1ece-4c38-b6ab-81eda34ba539/reference_images/Northern_Pintail_-_Male.jpg
+Red-billed Teal,Anas erythrorhyncha,https://birda.twic.pics/species/713171ec-efd6-4985-8a6c-a7e872eb2b55/reference_images/Red-billed_Teal-_Swimming.jpg
+Shoveler,Spatula clypeata,https://birda.twic.pics/species/ec4bfbfb-25ae-455a-bd9f-77c568325ea0/reference_images/Northern_Shoveler_-_Male.jpg
+South African Shelduck,Tadorna cana,https://birda.twic.pics/species/662ebd22-8c72-4f5a-8a18-cdd316af05c2/reference_images/South_African_Shellduck-_Male-_Swi.jpg
+Southern Pochard,Netta erythrophthalma,https://birda.twic.pics/species/2a03ac7f-4f66-49a4-a676-94aee1bdd326/reference_images/Southern_Pochard-_Male-_Swimming_.jpg
+Spur-winged Goose,Plectropterus gambensis,https://birda.twic.pics/species/19755167-f4d7-4725-afd1-ae802c13ca98/reference_images/Spur-winged_Goose.jpg
+White-backed Duck,Thalassornis leuconotus,https://birda.twic.pics/species/8b0dae41-69b6-4d50-8f25-de8f60083618/reference_images/White-backed_Duck.jpg
+White-faced Whistling Duck,Dendrocygna viduata,https://birda.twic.pics/species/379a6f35-9336-4dd2-8878-64b08383548b/reference_images/White-faced_Whistling_Duck.jpg
+Yellow-billed Duck,Anas undulata,https://birda.twic.pics/species/3af53791-c4f0-4808-b9fa-37c8472fa44b/reference_images/Yellow-billed_Duck_-_Adult.jpg
+Fairy Flycatcher,Stenostira scita,https://birda.twic.pics/species/d8a15c20-6258-4a47-b393-4fee3fd05eac/reference_images/Fairy_Flycatcher.jpg
+White-tailed Crested Flycatcher,Elminia albonotata,N/A
+African Golden Oriole,Oriolus auratus,N/A
+Black-headed Oriole,Oriolus larvatus,https://birda.twic.pics/species/16031a70-0e1e-4899-91b0-6abf50e6008b/reference_images/Black-headed_Oriole.jpg
+Golden Oriole,Oriolus oriolus,https://birda.twic.pics/species/4ebb3b65-3fec-4d95-828c-c992a61969d1/reference_images/Eurasian_Golden_Oriole.jpg
+Green-headed Oriole,Oriolus chlorocephalus,N/A
+Black-eared Seedeater,Crithagra mennelli,N/A
+Black-headed Canary,Serinus alario,https://birda.twic.pics/species/878f4e4f-1308-4031-a530-4901a67185b5/reference_images/Black-headed_Canary.jpg
+Black-throated Canary,Crithagra atrogularis,https://birda.twic.pics/species/b5d0970b-fa18-4db5-b390-9afa140b8d97/reference_images/Black-throated_Canary.jpg
+Brimstone Canary,Crithagra sulphurata,https://birda.twic.pics/species/16f673eb-cfe0-44fc-a830-80b8558d5180/reference_images/Brimstone_Canary-_Male.jpg
+Cape Canary,Serinus canicollis,https://birda.twic.pics/species/de384c01-eada-4a81-a802-9503afc5e427/reference_images/Cape_Canary-_Male.jpg
+Cape Siskin,Crithagra totta,N/A
+Chaffinch,Fringilla coelebs,https://birda.twic.pics/species/b2f4f013-38af-42ab-b769-cefe48705007/reference_images/Common_Chaffinch.jpg
+Drakensberg Siskin,Crithagra symonsi,N/A
+Forest Canary,Crithagra scotops,https://birda.twic.pics/species/7b4810ce-f1ca-45e5-8c08-dab33830b0ed/reference_images/Forest_Canary-_Male.jpg
+Lemon-breasted Canary,Crithagra citrinipectus,N/A
+Protea Canary,Crithagra leucoptera,https://birda.twic.pics/species/d5b16b70-fe31-44f7-8100-0a61b871f767/reference_images/Protea_Canary.jpg
+Streaky-headed Seedeater,Crithagra gularis,https://birda.twic.pics/species/6f441557-d623-42ef-a4d3-a21367b20401/reference_images/Streaky-headed_Seedeater.jpg
+White-throated Canary,Crithagra albogularis,https://birda.twic.pics/species/ff5b5cc5-b460-49a1-bdd5-3bc14a6536b9/reference_images/White-throated_Canary.jpg
+Yellow Canary,Crithagra flaviventris,https://birda.twic.pics/species/2d33f020-1e71-4044-abf8-89ff30ef5c35/reference_images/Yellow_Canary-_Male_.jpg
+Yellow-fronted Canary,Crithagra mozambica,https://birda.twic.pics/species/6cd5eca5-3048-4973-8b83-f74c67c11ed4/reference_images/Yellow-fronted_Canary.jpg
+African Finfoot,Podica senegalensis,https://birda.twic.pics/species/b421c983-006f-4dd8-bf9b-7b9e9c6cdbe8/reference_images/African_Finfoot-_Male.jpg
+Greater Flamingo,Phoenicopterus roseus,https://birda.twic.pics/species/973b102a-8a61-4921-8bbb-6542c6e63d4f/reference_images/Greater_Flamingo.jpg
+Lesser Flamingo,Phoeniconaias minor,https://birda.twic.pics/species/3aa797a5-9021-4f8e-88b5-4429e2104d19/reference_images/Lesser_Flamingo.jpg
+Buff-spotted Flufftail,Sarothrura elegans,N/A
+Red-chested Flufftail,Sarothrura rufa,N/A
+Streaky-breasted Flufftail,Sarothrura boehmi,N/A
+Striped Flufftail,Sarothrura affinis,N/A
+White-winged Flufftail,Sarothrura ayresi,N/A
+Great Frigatebird,Fregata minor,https://birda.twic.pics/species/97ef149c-342a-42e3-9ca1-60d2f233e02d/reference_images/Great_Frigatebird-_Flying-_Male.jpg
+Lesser Frigatebird,Fregata ariel,N/A
+Australasian Gannet,Morus serrator,https://birda.twic.pics/species/f94f3a85-58dd-448b-8b06-5e1ee576f6ff/reference_images/Australasian_Gannet.jpg
+Brown Booby,Sula leucogaster,https://birda.twic.pics/species/0be2d077-d49f-4e94-b792-8ab720037f2e/reference_images/Brown_Booby-_Male.jpg
+Cape Gannet,Morus capensis,https://birda.twic.pics/species/63c1102f-9adb-42a4-ad6f-3ba01760ae3c/reference_images/Cape_Gannet-_Flying.jpg
+Masked Booby,Sula dactylatra,https://birda.twic.pics/species/978c4ebf-2637-447a-bba7-946bf9c956d6/reference_images/Masked_Booby.jpg
+Red-footed Booby,Sula sula,https://birda.twic.pics/species/164e15ed-a2a4-4e65-89bb-3c86b9b0d583/reference_images/Red-footed_Booby.jpg
+Barratt's Warbler,Bradypterus barratti,N/A
+Fan-tailed Grassbird,Catriscus brevirostris,N/A
+Knysna Warbler,Bradypterus sylvaticus,N/A
+Little Rush Warbler,Bradypterus baboecala,N/A
+River Warbler,Locustella fluviatilis,https://birda.twic.pics/species/397d8207-f4bf-4105-8e62-4b1db0a28cda/reference_images/Black-necked_Grebe.jpg
+Black-necked Grebe,Podiceps nigricollis,https://birda.twic.pics/species/d27815d3-7385-4be8-8c2f-327d4f072b89/reference_images/Great_Crested_Grebe.jpg
+Great Crested Grebe,Podiceps cristatus,https://birda.twic.pics/species/821dd9f1-3259-475e-a516-0898d85c2518/reference_images/Little_Grebe.jpg
+Little Grebe,Tachybaptus ruficollis,https://birda.twic.pics/species/88ae48d6-7502-4272-a4d3-dbe31650a093/reference_images/Southern_Ground_Hornbill-_Male.jpg
+Southern Ground Hornbill,Bucorvus leadbeateri,https://birda.twic.pics/species/891eaffa-b3d2-444c-89ec-07e2a55c985f/reference_images/Eastern_Crested_Guineafowl.jpg
+Crested Guineafowl,Guttera pucherani,https://birda.twic.pics/species/acf58332-32d3-414f-b111-a073fb7cad45/reference_images/Helmeted_Guineafowl.jpg
+Helmeted Guineafowl,Numida meleagris,https://birda.twic.pics/species/affdd817-d5e0-49d9-9f80-28e40331997f/reference_images/African_Skimmer.jpg
+African Skimmer,Rynchops flavirostris,https://birda.twic.pics/species/95db973e-7744-4212-a19c-1fe4ea03ac43/reference_images/Antarctic_Tern-_Breeding.jpg
+Antarctic Tern,Sterna vittata,https://birda.twic.pics/species/459a35dd-3aaf-4236-ab6e-ae6112133662/reference_images/Arctic_Tern.jpg
+Arctic Tern,Sterna paradisaea,https://birda.twic.pics/species/18d32904-263e-4f6b-ac7d-cc72739b807e/reference_images/Black-headed_Gull.jpg
+Black-headed Gull,Chroicocephalus ridibundus,https://birda.twic.pics/species/ef1385ae-fcba-49a5-bfb9-90b92851d927/reference_images/Black-naped_Tern.jpg
+Black-naped Tern,Sterna sumatrana,https://birda.twic.pics/species/0b99f4f9-2794-48b0-b6ce-dcbf0f1dbe1c/reference_images/Black_Skimmer.jpg
+Black Skimmer,Rynchops niger,https://birda.twic.pics/species/0b99f4f9-2794-48b0-b6ce-dcbf0f1dbe1c/reference_images/Black_Skimmer.jpg
+Black Tern,Chlidonias niger,https://birda.twic.pics/species/b6042d30-e6b3-4ebb-b68a-1b82efd4cce3/reference_images/Black_Tern-_Summer-_Flying.jpg
+Bridled Tern,Onychoprion anaethetus,https://birda.twic.pics/species/2616cc64-27b9-4252-9d49-d74578fea0ec/reference_images/Bridled_Tern_-_Flying_-_Bottom.jpg
+Brown Noddy,Anous stolidus,https://birda.twic.pics/species/876deec3-b4fe-4296-859b-9ee5e4bc45c6/reference_images/Brown_Noddy.jpg
+Caspian Tern,Hydroprogne caspia,https://birda.twic.pics/species/4f5428c7-6d06-4993-84e2-8a3b3a8b3415/reference_images/Caspian_Tern.jpg
+Common Tern,Sterna hirundo,https://birda.twic.pics/species/f1404067-675b-408c-8726-7ab45a8e9c96/reference_images/Common_Tern.jpg
+Damara Tern,Sternula balaenarum,https://birda.twic.pics/species/ee33abb7-15c8-423d-844c-3288f497a327/reference_images/Damara_Tern-_Breeding.jpg
+Elegant Tern,Thalasseus elegans,https://birda.twic.pics/species/5d0b0380-70a7-4514-930b-c6c406891569/reference_images/Elegant_Turn-_Breeding.jpg
+Franklin's Gull,Leucophaeus pipixcan,https://birda.twic.pics/species/849f974f-ae6a-414b-9179-caf1527aa746/reference_images/Franklins_Gull_-_Adult_Breeding.jpg
+Greater Crested Tern,Thalasseus bergii,https://birda.twic.pics/species/068038ed-ac06-4b89-81e2-c36edc5d665d/reference_images/Greater_Crested_Tern.jpg
+Grey-headed Gull,Chroicocephalus cirrocephalus,https://birda.twic.pics/species/a717001d-b2e1-425e-a544-f62f71a294f3/reference_images/Grey-hooded_Gull.jpg
+Gull-billed Tern,Gelochelidon nilotica,https://birda.twic.pics/species/dbdff180-1160-45e5-bacf-cf5f58797bf5/reference_images/Gull-billed_Tern_-_Adult_-_Summer.jpg
+Hartlaub's Gull,Chroicocephalus hartlaubii,https://birda.twic.pics/species/82c2cc7e-da3f-4062-acea-983c25332952/reference_images/Hartlaubs_Gull.jpg
+Kelp Gull,Larus dominicanus,https://birda.twic.pics/species/f5173677-357e-40e5-9ce0-9f46f51a031b/reference_images/Kelp_Gull.jpg
+Kittiwake,Rissa tridactyla,https://birda.twic.pics/species/6bc54601-df53-4722-98ab-9f5cb15c3a18/reference_images/Black-legged_Kittiwake.jpg
+Lesser Black-backed Gull,Larus fuscus,https://birda.twic.pics/species/5e506f49-f932-41a5-9dfa-9ebf8a093694/reference_images/Lesser_Black-backed_Gull.jpg
+Lesser Crested Tern,Thalasseus bengalensis,https://birda.twic.pics/species/8d0bf81f-faa9-41ef-8da3-e3fecd08c646/reference_images/Lesser_Crested_Tern.jpg
+Lesser Noddy,Anous tenuirostris,N/A
+Little Tern,Sternula albifrons,https://birda.twic.pics/species/ab05aab3-a6f0-4316-bbbd-c42d64e8ab8c/reference_images/Little_Tern_-_Summer.jpg
+Roseate Tern,Sterna dougallii,https://birda.twic.pics/species/4e91e57d-5bcc-4c51-86b8-ba04da7a4a43/reference_images/Roseate_Tern.jpg
+Royal Tern,Thalasseus maximus,https://birda.twic.pics/species/4dc056a1-ae1d-446f-87f7-e74b4087a17a/reference_images/Royal_Tern_-_Flying.jpg
+Sabine's Gull,Xema sabini,https://birda.twic.pics/species/b26c0adf-46c7-4691-9d26-46fa0bf22f32/reference_images/Sabines_Gull.jpg
+Sandwich Tern,Thalasseus sandvicensis,https://birda.twic.pics/species/4240d659-fe25-454d-a351-803635b82271/reference_images/Sandwich_Tern_-_Summer.jpg
+Saunders's Tern,Sternula saundersi,https://birda.twic.pics/species/6c8f9d70-ae39-41db-9869-4e77c1dad854/reference_images/Saunderss_Tern-_Breeding.jpg
+Slender-billed Gull,Chroicocephalus genei,https://birda.twic.pics/species/7b5d3e7b-c2e8-4ece-a8e0-641fc5699081/reference_images/Slender-billed_Gull.jpg
+Sooty Gull,Ichthyaetus hemprichii,https://birda.twic.pics/species/54d8378c-c657-4aca-83fe-b8a122950fa5/reference_images/Sooty_Gull.jpg
+Sooty Tern,Onychoprion fuscatus,https://birda.twic.pics/species/869b9f36-c13c-4813-a94f-d679d60f8e64/reference_images/Sooty_Tern-_Flying.jpg
+West African Crested Tern,Thalasseus albididorsalis,https://birda.twic.pics/species/5f57d7b2-73d8-4fb7-9df1-44975239551d/reference_images/West_African_Crested_Tern-_Breedin.jpg
+Whiskered Tern,Chlidonias hybrida,https://birda.twic.pics/species/2bb5eb52-1c6d-45e5-8ca6-b2b19a582190/reference_images/Whiskered_Tern.jpg
+White-cheeked Tern,Sterna repressa,https://birda.twic.pics/species/e049778a-83a1-4aa6-b846-207430b0adb3/reference_images/White-cheeked_Tern-_Breeding.jpg
+White Tern,Gygis alba,https://birda.twic.pics/species/4e4e4738-fa93-4c8c-991f-d0a7b5d9e232/reference_images/White_Tern.jpg
+White-winged Black Tern,Chlidonias leucopterus,https://birda.twic.pics/species/6cdbab4e-5dcb-4dc0-974c-ae91cf359e6d/reference_images/White-winged_Tern_-_Summer_-_Flyin.jpg
+Hamerkop,Scopus umbretta,https://birda.twic.pics/species/7799d319-b171-4b91-befe-32f8c556f2f1/reference_images/Hamerkop.jpg
+Bittern,Botaurus stellaris,https://birda.twic.pics/species/5572c8b0-98f6-4af8-be4a-248e4cc8e41e/reference_images/Eurasian_Bittern.jpg
+Black-headed Heron,Ardea melanocephala,https://birda.twic.pics/species/0bea2034-8e79-4e04-bcfa-3ea5286ec274/reference_images/Black-headed_Heron_-_Adult.jpg
+Black Heron,Egretta ardesiaca,https://birda.twic.pics/species/5d3515d0-5a42-46f4-87d2-23c552f68b15/reference_images/Black_Heron.jpg
+Cattle Egret,Bubulcus ibis,https://birda.twic.pics/species/c725be7d-193f-4fe8-8f45-d5f2b42c3b7c/reference_images/Western_Cattle_Egret_-_Adult_-_Per.jpg
+Dwarf Bittern,Ixobrychus sturmii,https://birda.twic.pics/species/22070302-59f2-45c3-81d7-f826ad92faee/reference_images/Dwarf_Bittern.jpg
+Goliath Heron,Ardea goliath,https://birda.twic.pics/species/b7434462-48ec-44f3-a128-45cff9713044/reference_images/Goliath_Heron.jpg
+Great White Egret,Ardea alba,https://birda.twic.pics/species/7954252b-67fb-46af-a9f2-4f307e7943d3/reference_images/Great_Egret.jpg
+Grey Heron,Ardea cinerea,https://birda.twic.pics/species/ae169df6-e9f6-447b-aa43-4104423bcbb9/reference_images/Grey_Heron.jpg
+Intermediate Egret,Ardea intermedia,https://birda.twic.pics/species/058d42e9-71f8-4d27-8e0f-a9970344ad71/reference_images/Intermediate_Egret.jpg
+Little Bittern,Ixobrychus minutus,https://birda.twic.pics/species/b98beb72-46a1-474d-8b8f-7114d59bfdbc/reference_images/Little_Bittern_-_Male.jpg
+Little Blue Heron,Egretta caerulea,https://birda.twic.pics/species/158d8586-4cae-4d98-8850-c184aec60752/reference_images/Little_Blue_Heron_-_Adult.jpg
+Little Egret,Egretta garzetta,https://birda.twic.pics/species/0b59c426-0d1a-44e5-b409-1abe1e7ec172/reference_images/Little_Egret.jpg
+Malagasy Pond Heron,Ardeola idae,https://birda.twic.pics/species/0e58e11a-e1d0-4877-8a6d-f9b494746a9a/reference_images/Malagasy_Pond_Heron-_Breeding.jpg
+Night-heron,Nycticorax nycticorax,https://birda.twic.pics/species/1414be07-e88a-4051-9855-3c25c1f9e835/reference_images/Black-crowned_Night_Heron-_New.jpg
+Purple Heron,Ardea purpurea,https://birda.twic.pics/species/43025c3d-22e7-4625-a265-d4cc30012ee6/reference_images/Purple_Heron_-_Perched.jpg
+Rufous-bellied Heron,Ardeola rufiventris,N/A
+Slaty Egret,Egretta vinaceigula,https://birda.twic.pics/species/6e568fc6-5d01-480e-9643-96899c6af6de/reference_images/Slaty_Egret.jpg
+Snowy Egret,Egretta thula,https://birda.twic.pics/species/562eee5a-dfaa-42ff-adb3-726ec2da4e2c/reference_images/Snowy_Egret.jpg
+Squacco Heron,Ardeola ralloides,https://birda.twic.pics/species/00f59e2a-464d-4745-a1de-610d7cf590e5/reference_images/Squacco_Heron.jpg
+Striated Heron,Butorides striata,https://birda.twic.pics/species/e12c57a1-2f02-46dd-a4ce-6a687183b62f/reference_images/Striated_Heron.jpg
+Western Reef Heron,Egretta gularis,https://birda.twic.pics/species/72733967-4073-4e97-b632-5e4caafada60/reference_images/Western_Reef_Heron.jpg
+White-backed Night Heron,Gorsachius leuconotus,https://birda.twic.pics/species/c4960a9f-f33f-4233-bd84-f0bda4e55012/reference_images/White-backed_Night_Heron.jpg
+Brown-backed Honeybird,Prodotiscus regulus,N/A
+Greater Honeyguide,Indicator indicator,N/A
+Green-backed Honeybird,Prodotiscus zambesiae,N/A
+Lesser Honeyguide,Indicator minor,N/A
+Pallid Honeyguide,Indicator meliphilus,N/A
+Scaly-throated Honeyguide,Indicator variegatus,N/A
+African Hoopoe,Upupa africana,https://birda.twic.pics/species/d476e29f-c220-437d-879f-9dcec3dbea07/reference_images/African_Hoopoe.jpg
+African Grey Hornbill,Lophoceros nasutus,https://birda.twic.pics/species/2f8ee81f-a0fb-4e2d-aa61-62e468d4f962/reference_images/African_Grey_Hornbill-_Male.jpg
+Bradfield's Hornbill,Lophoceros bradfieldi,https://birda.twic.pics/species/efb11515-3f0b-42d3-88e3-f9bab84b25cf/reference_images/Bradfields_Hornbill.jpg
+Crowned Hornbill,Lophoceros alboterminatus,https://birda.twic.pics/species/004d3af5-2c87-413b-9837-3cca2d441d57/reference_images/Crowned_Hornbill-_Male.jpg
+Damara Red-billed Hornbill,Tockus damarensis,https://birda.twic.pics/species/17a9b942-37d4-4b83-9227-d45efe67c403/reference_images/Damara_Red-biled_Hornbill.jpg
+Monteiro's Hornbill,Tockus monteiri,https://birda.twic.pics/species/eedc351a-ea5c-4a41-9459-7c17d7b580bd/reference_images/Monteiros_Hornbill.jpg
+Silvery-cheeked Hornbill,Bycanistes brevis,https://birda.twic.pics/species/7b5feac3-4897-457d-8d63-bc842a8c7fdc/reference_images/Silvery-cheeked_Hornbill-_Male.jpg
+Southern Red-billed Hornbill,Tockus rufirostris,https://birda.twic.pics/species/c11e4cf7-f914-4f71-8a9f-0258c6a67ba6/reference_images/Southern_Red-billed_Hornbill.jpg
+Southern Yellow-billed Hornbill,Tockus leucomelas,https://birda.twic.pics/species/aab9ad6b-2902-4741-a26c-1e459a152cd1/reference_images/Southern_Yellow-billed_Hornbill.jpg
+Trumpeter Hornbill,Bycanistes bucinator,https://birda.twic.pics/species/a0d02ba4-932a-4498-a051-fc667dcee7c2/reference_images/Trumpeter_Hornbill-_Male.jpg
+Southern Hyliota,Hyliota australis,N/A
+Yellow-bellied Hyliota,Hyliota flavigaster,N/A
+African Sacred Ibis,Threskiornis aethiopicus,https://birda.twic.pics/species/99605d45-0bbe-400a-88d6-4ee725603108/reference_images/African_Sacred_Ibis_-_Adult.jpg
+African Spoonbill,Platalea alba,https://birda.twic.pics/species/a4aa1698-1383-4293-9273-441b8a206684/reference_images/African_Spoonbill.jpg
+Glossy Ibis,Plegadis falcinellus,https://birda.twic.pics/species/6489bb0f-be5c-483c-8908-de89a525eaa4/reference_images/Glossy_Ibis-_Breeding-_New.jpg
+Hadada Ibis,Bostrychia hagedash,https://birda.twic.pics/species/3e1aaf49-e40f-4aef-a22d-afc2bf84c2c9/reference_images/Hadada_Ibis_-_Adult.jpg
+Southern Bald Ibis,Geronticus calvus,https://birda.twic.pics/species/0c2cca85-a301-41f1-96e6-856863d7c480/reference_images/Southern_Bald_Ibis.jpg
+Broad-tailed Paradise Whydah,Vidua obtusa,N/A
+Cuckoo-finch,Anomalospiza imberbis,N/A
+Dusky Indigobird,Vidua funerea,N/A
+Long-tailed Paradise Whydah,Vidua paradisaea,https://birda.twic.pics/species/90af5cf0-9c1a-4447-bef6-0a882a6aff1f/reference_images/Long-tailed_Paradise_Whydah-_Male-.jpg
+Pin-tailed Whydah,Vidua macroura,https://birda.twic.pics/species/6a74e9b3-46b0-4bac-99a9-583532614185/reference_images/Pin-tailed_Whydah_-_Adult_Male.jpg
+Purple Indigobird,Vidua purpurascens,N/A
+Shaft-tailed Whydah,Vidua regia,https://birda.twic.pics/species/c48a0f3f-78aa-4ea3-bce2-24ac511a21a7/reference_images/Shaft-tailed_Whydah-_Male.jpg
+Village Indigobird,Vidua chalybeata,https://birda.twic.pics/species/55809b25-cd30-4a16-97a6-49064f2dddd5/reference_images/Village_Indigobird-_Male.jpg
+Zambezi Indigobird,Vidua codringtoni,N/A
+African Jacana,Actophilornis africanus,https://birda.twic.pics/species/0fef9c21-f231-4c6a-9cec-b3930a0b6fdc/reference_images/African_Jacana.jpg
+Lesser Jacana,Microparra capensis,https://birda.twic.pics/species/57e26fcc-9e45-411a-990b-242d51ac3538/reference_images/Lesser_Jacana.jpg
+African Pygmy Kingfisher,Ispidina picta,https://birda.twic.pics/species/650e6e65-4749-4b4e-8c10-cb28599a0939/reference_images/African_Pygmy_Kingfisher.jpg
+Brown-hooded Kingfisher,Halcyon albiventris,https://birda.twic.pics/species/0bd9e0fc-e74e-4646-8f12-996145d462dc/reference_images/Brown-hooded_Kingfisher_-_Adult.jpg
+Giant Kingfisher,Megaceryle maxima,https://birda.twic.pics/species/b3278702-91e9-4c57-8a76-f242dcdc7100/reference_images/Giant_Kingfisher-_Male.jpg
+Grey-headed Kingfisher,Halcyon leucocephala,https://birda.twic.pics/species/18c8409f-ff2e-486b-88b9-faa66ad14991/reference_images/Grey-headed_Kingfisher.jpg
+Half-collared Kingfisher,Alcedo semitorquata,https://birda.twic.pics/species/622f2dfc-2f10-4e83-87cc-dc743b5cc5ed/reference_images/Half-collared_Kingfisher.jpg
+Malachite Kingfisher,Corythornis cristatus,https://birda.twic.pics/species/04e3c651-4d1a-4cbd-9291-24d035a9297f/reference_images/Malachite_Kingfisher.jpg
+Mangrove Kingfisher,Halcyon senegaloides,https://birda.twic.pics/species/59c68212-ca10-45b3-8a37-fc74ef0d55c1/reference_images/Mangrove_Kingfisher.jpg
+Pied Kingfisher,Ceryle rudis,https://birda.twic.pics/species/6f0bab06-93ce-443b-b43c-623ce6aaf3c3/reference_images/Pied_Kingfisher-_Male.jpg
+Striped Kingfisher,Halcyon chelicuti,https://birda.twic.pics/species/5997a78e-dc14-435c-8215-ddba3d89c80e/reference_images/Striped_Kingfisher.jpg
+Woodland Kingfisher,Halcyon senegalensis,https://birda.twic.pics/species/175129b7-9b9c-4d0f-9eab-afc1966b20e3/reference_images/Woodland_Kingfisher.jpg
+African Cuckoo-Hawk,Aviceda cuculoides,N/A
+African Fish Eagle,Haliaeetus vocifer,https://birda.twic.pics/species/75c4c094-a867-4a1a-b05d-4fd1e5031f84/reference_images/African_Fish_Eagle.jpg
+African Goshawk,Accipiter tachiro,N/A
+African Harrier-Hawk,Polyboroides typus,https://birda.twic.pics/species/98a4befd-0b05-41df-821d-257159323c0c/reference_images/African_Harrier-hawk.jpg
+African Hawk-Eagle,Aquila spilogaster,https://birda.twic.pics/species/8cac9893-a4c1-4f0e-984e-d3616b26c89f/reference_images/African_Hawk-eagle-_Flying.jpg
+African Marsh Harrier,Circus ranivorus,N/A
+Augur Buzzard,Buteo augur,https://birda.twic.pics/species/e80ed286-986f-430b-96d3-41740aa84433/reference_images/Augur_Buzzard_.jpg
+Ayres's Hawk-Eagle,Hieraaetus ayresii,https://birda.twic.pics/species/8dcc5e45-fd04-4584-97b7-a8ce5eb11391/reference_images/Ayress_Hawk_Eagle-_Flying.jpg
+Bateleur,Terathopius ecaudatus,https://birda.twic.pics/species/70867c41-3289-408f-a856-4a2c3f0edc78/reference_images/Bateleur-_Female.jpg
+Bat Hawk,Macheiramphus alcinus,N/A
+Bearded Vulture,Gypaetus barbatus,https://birda.twic.pics/species/7f445feb-787d-4f2b-9ab3-1d5c323ec37f/reference_images/Bearded_Vulture_-_Flying.jpg
+Black-chested Snake Eagle,Circaetus pectoralis,https://birda.twic.pics/species/88ae6a01-8a09-4e55-919b-24079b9e8a47/reference_images/Black-chested_Snake_Eagle-_Flying.jpg
+Black Harrier,Circus maurus,https://birda.twic.pics/species/2d0cb1b1-2598-48dc-8bca-fd6f92466f17/reference_images/Black_Harrier.jpg
+Black Kite,Milvus migrans,https://birda.twic.pics/species/63b8e5a0-1846-4039-b483-f12948246c1d/reference_images/Black_Kite_-_Adult_-_Flying.jpg
+Black Sparrowhawk,Accipiter melanoleucus,https://birda.twic.pics/species/a0b7d155-520d-4acb-8aa9-c256bc28ffab/reference_images/Black_Sparrowhawk.jpg
+Black-winged Kite,Elanus caeruleus,https://birda.twic.pics/species/f4c732af-27cd-4c4f-9db5-20ad491d6c8f/reference_images/Black-winged_Kite_-_Adult.jpg
+Booted Eagle,Hieraaetus pennatus,https://birda.twic.pics/species/3a6aa4ec-ab82-4107-9e0c-e2a82ef9f9e1/reference_images/Booted_Eagle-_Flying.jpg
+Brown Snake Eagle,Circaetus cinereus,https://birda.twic.pics/species/c3297d4c-0079-49fa-b539-5a18295edd53/reference_images/Brown_Snake_Eagle.jpg
+Buzzard,Buteo buteo,https://birda.twic.pics/species/a9278d34-3568-424f-9bba-0bd3f8fe3387/reference_images/Common_Buzzard_-_Adult_-_Flying.jpg
+Cape Vulture,Gyps coprotheres,https://birda.twic.pics/species/2815c636-c56e-42d2-99b0-52ed30558db2/reference_images/Cape_Vulture.jpg
+Crowned Eagle,Stephanoaetus coronatus,https://birda.twic.pics/species/605ebd40-8991-4fb1-8cbe-ad91d699808f/reference_images/Crowned_Eagle.jpg
+Dark Chanting Goshawk,Melierax metabates,https://birda.twic.pics/species/42d7e90e-c54e-4e01-9f82-0f247b3ba6ce/reference_images/Dark_Chanting_Goshawk.jpg
+Egyptian Vulture,Neophron percnopterus,https://birda.twic.pics/species/507c66cc-b15d-4348-9150-2d606ae05556/reference_images/Egyptian_Vulture-_Flying.jpg
+Forest Buzzard,Buteo trizonatus,N/A
+Gabar Goshawk,Micronisus gabar,https://birda.twic.pics/species/cbefec39-4f5f-4b53-a358-8b02799f13e5/reference_images/Gabar_Goshawk.jpg
+Grasshopper Buzzard,Butastur rufipennis,https://birda.twic.pics/species/310c3eca-e52a-4f07-b9de-e3ae5ab50a1d/reference_images/Grasshopper_Buzzard.jpg
+Honey-buzzard,Pernis apivorus,https://birda.twic.pics/species/e5e733fa-1146-4d6d-a8b2-6e05da7c3a74/reference_images/European_Honey_Buzzard-_Male-_Flyi.jpg
+Hooded Vulture,Necrosyrtes monachus,https://birda.twic.pics/species/20f56e77-f228-43a4-b600-330ac8200bba/reference_images/Hooded_Vulture.jpg
+Jackal Buzzard,Buteo rufofuscus,https://birda.twic.pics/species/caa84d9a-dfb3-40be-b254-ff3cd817d196/reference_images/Jackal_Buzzard-_Flying.jpg
+Lappet-faced Vulture,Torgos tracheliotos,https://birda.twic.pics/species/1defd38b-ac7e-442f-893e-855b20d9ed8e/reference_images/Lappet-faced_Vulture.jpg
+Lesser Spotted Eagle,Clanga pomarina,https://birda.twic.pics/species/d4569798-a95a-4d59-9048-4a5fcd43797e/reference_images/Lesser_Spotted_Eagle-_Flying_.jpg
+Little Sparrowhawk,Accipiter minullus,https://birda.twic.pics/species/0248fecb-66a8-4485-84ae-8680f72374cc/reference_images/Little_Sparrowhawk.jpg
+Lizard Buzzard,Kaupifalco monogrammicus,https://birda.twic.pics/species/23669c86-998e-425d-8231-6fce87a5653a/reference_images/Lizard_Buzzard.jpg
+Long-crested Eagle,Lophaetus occipitalis,https://birda.twic.pics/species/b74c4f7c-1078-42ac-afc8-85556a1584a7/reference_images/Long-crested_Eagle-_Female.jpg
+Long-legged Buzzard,Buteo rufinus,https://birda.twic.pics/species/3b5a0357-8f2b-405c-9461-716da3b52e33/reference_images/Long-legged_Buzzard-_New.jpg
+Marsh Harrier,Circus aeruginosus,https://birda.twic.pics/species/3a5125d9-136f-471d-bff7-c390156f7239/reference_images/Western_Marsh_Harrier_-_Male.jpg
+Martial Eagle,Polemaetus bellicosus,https://birda.twic.pics/species/81b68769-7d78-4531-afdc-4f0ba55a14d6/reference_images/Martial_Eagle.jpg
+Montagu's Harrier,Circus pygargus,https://birda.twic.pics/species/e7fefbd3-9784-4e7d-a8f1-f8b6670eb5de/reference_images/Montagus_Harrier_-_Male.jpg
+Ovambo Sparrowhawk,Accipiter ovampensis,N/A
+Pale Chanting Goshawk,Melierax canorus,https://birda.twic.pics/species/dcb00878-ab65-43f1-97b2-616467d31b08/reference_images/Pale_Chanting_Goshawk.jpg
+Pallid Harrier,Circus macrourus,https://birda.twic.pics/species/8968afc5-44f0-4f20-926b-fa3d6ea63961/reference_images/Pallid_Harrier_-_Male_-_Flying.jpg
+Palm-nut Vulture,Gypohierax angolensis,https://birda.twic.pics/species/11a455ba-3662-4c16-a2d6-7fb121456310/reference_images/Palm-nut_Vulture.jpg
+Red-necked Buzzard,Buteo auguralis,N/A
+Rufous-breasted Sparrowhawk,Accipiter rufiventris,N/A
+Rüppell's Vulture,Gyps rueppelli,https://birda.twic.pics/species/579106ae-8427-463c-84b0-47d4ca09885d/reference_images/Ruppells_Vulture.jpg
+Shikra,Accipiter badius,https://birda.twic.pics/species/d67f5098-ac71-4ef0-ad8f-d02968e79615/reference_images/Shikra.jpg
+Southern Banded Snake Eagle,Circaetus fasciolatus,https://birda.twic.pics/species/e2d9ff21-acf5-42fb-8d45-4a95df993076/reference_images/Southern-banded_Snake-eagle.jpg
+Steppe Eagle,Aquila nipalensis,https://birda.twic.pics/species/50a0bc78-a7ba-4607-a5a7-53b15e1bb828/reference_images/Steppe_Eagle-_Flying.jpg
+Tawny Eagle,Aquila rapax,https://birda.twic.pics/species/80d5354b-aad1-4967-84b4-fe7d253ba6c4/reference_images/Tawny_Eagle.jpg
+Verreaux's Eagle,Aquila verreauxii,https://birda.twic.pics/species/0009df21-9e8d-4429-ad57-81878dfdbc1d/reference_images/Verreauxs_Eagle-_Flying.jpg
+Wahlberg's Eagle,Hieraaetus wahlbergi,https://birda.twic.pics/species/65bd2eea-327d-467f-8509-b7ff9a1e5bcc/reference_images/Wahlbergs_Eagle.jpg
+Western Banded Snake Eagle,Circaetus cinerascens,N/A
+White-backed Vulture,Gyps africanus,https://birda.twic.pics/species/8e72a125-9719-4554-940c-cabc11f4125c/reference_images/White-backed_Vulture-_New.jpg
+White-headed Vulture,Trigonoceps occipitalis,https://birda.twic.pics/species/42488600-beec-4664-9485-624e78239e24/reference_images/White-headed_Vulture-_Male.jpg
+Yellow-billed Kite,Milvus aegyptius,https://birda.twic.pics/species/f397c953-cc8b-4a32-8652-ee05bf38a704/reference_images/Yellow-billed_Kite-_Flying.jpg
+Agulhas Long-billed Lark,Certhilauda brevirostris,N/A
+Barlow's Lark,Calendulauda barlowi,N/A
+Benguela Long-billed Lark,Certhilauda benguelensis,N/A
+Black-eared Sparrow-Lark,Eremopterix australis,N/A
+Botha's Lark,Spizocorys fringillaris,N/A
+Cape Clapper Lark,Mirafra apiata,https://birda.twic.pics/species/2d28705e-6fd3-4429-8ba6-c2d6ee36bbd8/reference_images/Cape_Clapper_Lark.jpg
+Cape Long-billed Lark,Certhilauda curvirostris,N/A
+Chestnut-backed Sparrow-Lark,Eremopterix leucotis,https://birda.twic.pics/species/2742b55b-9782-4c0d-8bb2-3cd196bdef36/reference_images/Chestnut-backed_Sparrow-lark-_Male.jpg
+Dune Lark,Calendulauda erythrochlamys,N/A
+Dusky Lark,Pinarocorys nigricans,https://birda.twic.pics/species/5041290f-6a97-4b3c-884f-6eeaefd92db5/reference_images/Dusky_Lark.jpg
+Eastern Clapper Lark,Mirafra fasciolata,N/A
+Eastern Long-billed Lark,Certhilauda semitorquata,N/A
+Fawn-colored Lark,Calendulauda africanoides,https://birda.twic.pics/species/79716075-7b26-4582-be16-73bc2e6e8888/reference_images/Fawn-coloured_Lark.jpg
+Flappet Lark,Mirafra rufocinnamomea,N/A
+Gray's Lark,Ammomanopsis grayi,N/A
+Grey-backed Sparrow-Lark,Eremopterix verticalis,https://birda.twic.pics/species/50a709e5-f2d7-4d25-a071-d09f9f2fdf07/reference_images/Grey-backed_Sparrow-lark-_Female.jpg
+Karoo Lark,Calendulauda albescens,N/A
+Karoo Long-billed Lark,Certhilauda subcoronata,https://birda.twic.pics/species/b0a491ad-7f97-4f2c-acaa-1de1e69e521d/reference_images/Karoo_Long-billed_Lark.jpg
+Large-billed Lark,Galerida magnirostris,https://birda.twic.pics/species/14b201a6-5ca3-46aa-afe9-231ebcb6156f/reference_images/Large-billed_Lark.jpg
+Melodious Lark,Mirafra cheniana,N/A
+Monotonous Lark,Mirafra passerina,https://birda.twic.pics/species/6059375e-43eb-4b41-a425-056f7c6758de/reference_images/Monotonous_Lark.jpg
+Pink-billed Lark,Spizocorys conirostris,https://birda.twic.pics/species/e8afc014-4ab5-428c-8d9d-0a2c5b86dcdc/reference_images/Pink-billed_Lark.jpg
+Red-capped Lark,Calandrella cinerea,https://birda.twic.pics/species/618a7a05-d8ce-49b1-aff2-88411eefee55/reference_images/Red-capped_Lark.jpg
+Red Lark,Calendulauda burra,N/A
+Rudd's Lark,Heteromirafra ruddi,N/A
+Rufous-naped Lark,Mirafra africana,https://birda.twic.pics/species/dd3619b4-de04-4b5a-ba31-ba016f4f4632/reference_images/Sabota_Lark.jpg
+Sabota Lark,Calendulauda sabota,https://birda.twic.pics/species/dd3619b4-de04-4b5a-ba31-ba016f4f4632/reference_images/Sabota_Lark.jpg
+Sclater's Lark,Spizocorys sclateri,N/A
+Short-clawed Lark,Certhilauda chuana,N/A
+Spike-heeled Lark,Chersomanes albofasciata,https://birda.twic.pics/species/c2a35eaa-54e0-40e5-a185-ebed082d18c0/reference_images/Starks_Lark.jpg
+Stark's Lark,Spizocorys starki,https://birda.twic.pics/species/856b1845-66dc-434d-b285-2383e9d542d3/reference_images/Arrow-marked_Babbler.jpg
+Arrow-marked Babbler,Turdoides jardineii,https://birda.twic.pics/species/856b1845-66dc-434d-b285-2383e9d542d3/reference_images/Arrow-marked_Babbler.jpg
+Bare-cheeked Babbler,Turdoides gymnogenys,N/A
+Black-faced Babbler,Turdoides melanops,https://birda.twic.pics/species/e171e938-0828-480a-a8e6-1666c362e47c/reference_images/Hartlaubs_Babbler.jpg
+Hartlaub's Babbler,Turdoides hartlaubii,https://birda.twic.pics/species/2d0448a8-5a71-4b35-99dc-6f59a69fc95a/reference_images/Southern_Pied_Babbler.jpg
+Southern Pied Babbler,Turdoides bicolor,https://birda.twic.pics/species/56cd3261-32f9-4a2a-a0f2-2c2d49c3f747/reference_images/Willow_Warbler.jpg
+Willow Warbler,Phylloscopus trochilus,https://birda.twic.pics/species/56cd3261-32f9-4a2a-a0f2-2c2d49c3f747/reference_images/Willow_Warbler.jpg
+Yellow-throated Woodland Warbler,Phylloscopus ruficapilla,N/A
+African Paradise Flycatcher,Terpsiphone viridis,https://birda.twic.pics/species/83326698-c898-4a01-bf47-d01cc8df2599/reference_images/African_Paradise_Flycatcher-_Male.jpg
+Blue-mantled Crested Flycatcher,Trochocercus cyanomelas,N/A
+Blue-mantled Crested Flycatcher,Trochocercus cyanomelas,N/A
+Blue-mantled Crested Flycatcher,Trochocercus cyanomelas,N/A
+Red-faced Mousebird,Urocolius indicus,https://birda.twic.pics/species/430d401c-5cca-43c1-a284-9fe3255df949/reference_images/Red-faced_Mousebird_-_Adult.jpg
+Speckled Mousebird,Colius striatus,https://birda.twic.pics/species/f21ba4b8-03de-44c1-9183-cc2b0b042b53/reference_images/Speckled_Mousebird_-_Adult.jpg
+White-backed Mousebird,Colius colius,https://birda.twic.pics/species/d5885f1d-1e88-4da3-a8ec-965d0f3d860c/reference_images/White-backed_Mousebird_-_Adult_2.jpg
+Eastern Nicator,Nicator gularis,https://birda.twic.pics/species/c9245604-a98a-4ca7-831d-34949a221bc0/reference_images/Eastern_Nicator.jpg
+Fiery-necked Nightjar,Caprimulgus pectoralis,https://birda.twic.pics/species/d2db3cc9-c699-4c58-a4fc-8db63dba9f03/reference_images/Fiery-necked_Nightjar.jpg
+Freckled Nightjar,Caprimulgus tristigma,N/A
+Nightjar,Caprimulgus europaeus,https://birda.twic.pics/species/25a5af7c-cf4f-417d-b1e9-2bc5c64425f7/reference_images/European_Nightjar.jpg
+Pennant-winged Nightjar,Caprimulgus vexillarius,https://birda.twic.pics/species/7d7e92da-fe5a-41d1-9d1f-bad994b0f84e/reference_images/Pennant-winged_Nightjar-_Male.jpg
+Rufous-cheeked Nightjar,Caprimulgus rufigena,N/A
+Square-tailed Nightjar,Caprimulgus fossii,N/A
+Swamp Nightjar,Caprimulgus natalensis,N/A
+Band-rumped Storm Petrel,Hydrobates castro,https://birda.twic.pics/species/cf8f39c9-fa13-4351-ba8f-164506da3dc2/reference_images/Band-rumped_Storm_Petrel-_Flying.jpg
+Leach's Petrel,Hydrobates leucorhous,https://birda.twic.pics/species/d3cd1207-294c-47f2-83c2-967da0f9645b/reference_images/Leachs_Storm_Petrel_-_Flying_2.jpg
+Matsudaira's Storm Petrel,Hydrobates matsudairae,N/A
+Storm Petrel,Hydrobates pelagicus,https://birda.twic.pics/species/e0ced6d7-9909-4a70-a869-0606db6c55f5/reference_images/European_Storm_Petrel.jpg
+Swinhoe's Petrel,Hydrobates monorhis,N/A
+Black-cheeked Lovebird,Agapornis nigrigenis,https://birda.twic.pics/species/10329cb9-5b05-4ea4-9d57-9356d4dbc96f/reference_images/Black-cheeked_Lovebird.jpg
+Lilian's Lovebird,Agapornis lilianae,https://birda.twic.pics/species/4b121ecc-5ae7-419a-a1fa-67711472d099/reference_images/Lilians_Lovebird.jpg
+Ring-necked Parakeet,Psittacula krameri,https://birda.twic.pics/species/69280bbb-0ed7-4175-a077-a2ddd0545454/reference_images/Rose-ringed_Parakeet-_Male.jpg
+Rosy-faced Lovebird,Agapornis roseicollis,https://birda.twic.pics/species/84fe136f-9839-4578-994e-5b608117d117/reference_images/Rosy-faced_Lovebird.jpg
+Cape Sparrow,Passer melanurus,https://birda.twic.pics/species/8da52fff-4fe4-4c73-8ca3-9c616922153b/reference_images/Cape_Sparrow_-_Adult_Male.jpg
+Great Sparrow,Passer motitensis,N/A
+House Sparrow,Passer domesticus,https://birda.twic.pics/species/8c17a676-19d3-4833-b0ec-a87df5cd68e4/reference_images/House_Sparrow_-_Male.jpg
+Northern Grey-headed Sparrow,Passer griseus,N/A
+Southern Grey-headed Sparrow,Passer diffusus,https://birda.twic.pics/species/2f51c6a7-29f6-4477-87df-4e3a3e0fe244/reference_images/Southern_Grey-headed_Sparrow_-_Adu.jpg
+Yellow-throated Bush Sparrow,Gymnoris superciliaris,https://birda.twic.pics/species/7d8eb3a5-c549-4183-848e-e461f6b4ca15/reference_images/Yellow-throated_Bush_Sparrow.jpg
+Osprey,Pandion haliaetus,https://birda.twic.pics/species/40589fc8-e073-401a-a527-cd7d13681e11/reference_images/Western_Osprey_-_Adult_-_Flying.jpg
+Common Ostrich,Struthio camelus,https://birda.twic.pics/species/03e13528-857f-45b4-808b-c7295efd55a7/reference_images/Common_Ostrich-_Breeding-Male.jpg
+African Barred Owlet,Glaucidium capense,https://birda.twic.pics/species/b307f049-63fa-4431-88e5-cae3fe4327c6/reference_images/African_Barred_Owlet.jpg
+African Scops Owl,Otus senegalensis,https://birda.twic.pics/species/7e758045-5b0e-486a-8461-88a2cda2fcaf/reference_images/African_Scops_Owl.jpg
+African Wood Owl,Strix woodfordii,https://birda.twic.pics/species/8f11a40f-1630-4eae-bced-5392863ee57d/reference_images/African_Wood_Owl-_New.jpg
+Cape Eagle-Owl,Bubo capensis,https://birda.twic.pics/species/46313916-679d-444a-93bb-f1f5896366e0/reference_images/Cape_Eagle_Owl.jpg
+Marsh Owl,Asio capensis,https://birda.twic.pics/species/9c479782-8d84-42e7-bb53-0d69aee1a90e/reference_images/Marsh_Owl.jpg
+Pearl-spotted Owlet,Glaucidium perlatum,https://birda.twic.pics/species/d3f510d1-a57b-4491-9750-fca139ef2b09/reference_images/Pearl_Spotted_Owlet.jpg
+Pel's Fishing Owl,Scotopelia peli,N/A
+Southern White-faced Owl,Ptilopsis granti,https://birda.twic.pics/species/4fea4a62-4fef-431a-a8ef-1b71f3090567/reference_images/Southern_White-faced_Owl.jpg
+Spotted Eagle-Owl,Bubo africanus,https://birda.twic.pics/species/dda9a455-0499-4427-b113-35fc1b3a2d8b/reference_images/Spotted_Eagle-owl.jpg
+Verreaux's Eagle-Owl,Bubo lacteus,https://birda.twic.pics/species/989a2e4a-7dd6-49a5-98aa-56abc3171c22/reference_images/Verreauxs_Eagle-Owl.jpg
+Red-billed Oxpecker,Buphagus erythrorynchus,https://birda.twic.pics/species/15499ac4-7fed-4a38-8686-adc3760e38ed/reference_images/Red-billed_Oxpecker.jpg
+Yellow-billed Oxpecker,Buphagus africanus,https://birda.twic.pics/species/12007d0c-48d0-43e8-8a2c-e5d84605c304/reference_images/Yellow-billed_Oxpecker.jpg
+African Oystercatcher,Haematopus moquini,https://birda.twic.pics/species/9ac86bc3-c89c-4d72-aee2-650720b2490c/reference_images/African_Oystercatcher.jpg
+Oystercatcher,Haematopus ostralegus,https://birda.twic.pics/species/9b269c30-6e0d-4648-ba77-373016649e1e/reference_images/Eurasian_Oystercatcher.jpg
+Greater Painted-snipe,Rostratula benghalensis,https://birda.twic.pics/species/0228d26e-f0cd-4d88-8930-327812d51baa/reference_images/Greater_Painted-snipe-_Male.jpg
+Great White Pelican,Pelecanus onocrotalus,https://birda.twic.pics/species/93d177b3-deb7-4745-bc8d-dddc6c3c3937/reference_images/Great_White_Pelican_-_Swimming.jpg
+Pink-backed Pelican,Pelecanus rufescens,https://birda.twic.pics/species/7c496af2-4750-43da-9401-5fbd56e8d3f0/reference_images/Pink-backed_Pelican_-_Breeding_Adu.jpg
+Cape Penduline Tit,Anthoscopus minutus,https://birda.twic.pics/species/1fccd57a-956b-4297-a962-c4fc4febbb57/reference_images/Cape_Penduline_Tit.jpg
+Grey Penduline Tit,Anthoscopus caroli,N/A
+African Penguin,Spheniscus demersus,https://birda.twic.pics/species/2260f1f1-9dd9-43b0-bc46-a5721ab7171f/reference_images/Arican_Penguin.jpg
+Gentoo Penguin,Pygoscelis papua,https://birda.twic.pics/species/04e507ec-cd89-477d-8063-701a8d31e5f1/reference_images/Gentoo_Penguin.jpg
+King Penguin,Aptenodytes patagonicus,https://birda.twic.pics/species/a0eb1b9c-6391-4731-808f-d339f5d34e64/reference_images/King_Penguin.jpg
+Little Penguin,Eudyptula minor,https://birda.twic.pics/species/cd93b8b6-bf70-4aba-b6ad-dcc8ca305b59/reference_images/Little_Penguin.jpg
+Macaroni Penguin,Eudyptes chrysolophus,https://birda.twic.pics/species/96b10eec-6bb4-486b-b40b-8a79e9761f45/reference_images/Macaroni_Penguin.jpg
+Magellanic Penguin,Spheniscus magellanicus,https://birda.twic.pics/species/535d9d9d-8394-42b9-b36e-3cb009b51ef8/reference_images/Magellanic_Penguin.jpg
+Northern Rockhopper Penguin,Eudyptes moseleyi,https://birda.twic.pics/species/d6c6206d-bd39-4c5d-ac38-028403dff4e5/reference_images/Northern_Rockhopper_Penguin.jpg
+Southern Rockhopper Penguin,Eudyptes chrysocome,https://birda.twic.pics/species/03860f43-bdd6-4490-bacb-a05868320c2d/reference_images/Southern_Rockhopper_Penguin.jpg
+Antarctic Petrel,Thalassoica antarctica,https://birda.twic.pics/species/d67d11da-fc4a-44f5-8927-974c49eb558b/reference_images/Antarctic_Petrel-_Flying_2.jpg
+Antarctic Prion,Pachyptila desolata,https://birda.twic.pics/species/060398d3-e8cb-4e0d-b271-9452d3f625d9/reference_images/Antarctic_Prion-_Flying.jpg
+Atlantic Petrel,Pterodroma incerta,https://birda.twic.pics/species/b467f425-323e-488a-b2bb-ee86ea2cd6a2/reference_images/Atlantic_Petrel-_Flying.jpg
+Balearic Shearwater,Puffinus mauretanicus,https://birda.twic.pics/species/29c64d4b-b8b9-4562-abed-4739cbfbdd7a/reference_images/Balearic_Shearwater.jpg
+Barau's Petrel,Pterodroma baraui,N/A
+Blue Petrel,Halobaena caerulea,N/A
+Broad-billed Prion,Pachyptila vittata,N/A
+Bulwer's Petrel,Bulweria bulwerii,https://birda.twic.pics/species/b4ec6e44-d227-4ada-8ad4-34bfea033a4c/reference_images/Bulwers_Petrel-_Flying.jpg
+Cape Petrel,Daption capense,https://birda.twic.pics/species/f7b5f6f9-3744-4232-9e2e-7c763868d205/reference_images/Antarctic_Petrel-_Flying.jpg
+Cory's Shearwater,Calonectris borealis,https://birda.twic.pics/species/5f09bb9d-9521-403b-801c-102efd8a0402/reference_images/Corys_Shearwater_-_Flying_2.jpg
+Fairy Prion,Pachyptila turtur,https://birda.twic.pics/species/c64f2f06-09eb-45f2-ab8d-891920505d49/reference_images/Fairy_Prion-_Flying.jpg
+Flesh-footed Shearwater,Ardenna carneipes,https://birda.twic.pics/species/38607027-b402-46ff-978b-451c3d149422/reference_images/Flesh-footed_Shearwater-_Flying.jpg
+Great Shearwater,Ardenna gravis,https://birda.twic.pics/species/0b444eb3-ff6d-4a81-a5be-4286bed988c6/reference_images/Great_Shearwater_-_Flying_2.jpg
+Great-winged Petrel,Pterodroma macroptera,https://birda.twic.pics/species/fbe1816c-d05b-44e0-b863-519508121c19/reference_images/Great-winged_Petrel-_Flying.jpg
+Grey Petrel,Procellaria cinerea,https://birda.twic.pics/species/61e51573-7d72-4ad5-b246-80e4c9e6ac41/reference_images/Grey_Petrel-_Flying.jpg
+Jouanin's Petrel,Bulweria fallax,https://birda.twic.pics/species/811e84bd-40ec-4fc2-85f2-0c67354c6823/reference_images/Jouanins_Petrel-_Flying.jpg
+Kerguelen Petrel,Aphrodroma brevirostris,N/A
+Little Shearwater,Puffinus assimilis,N/A
+Manx Shearwater,Puffinus puffinus,https://birda.twic.pics/species/746cc52b-cbf3-4fc2-b368-a3aa6b0a65f8/reference_images/Manx_Shearwater.jpg
+Northern Giant Petrel,Macronectes halli,https://birda.twic.pics/species/1019b29e-d1f2-4550-8381-220640b7de33/reference_images/Northern_Giant_Petrel-_Flying.jpg
+Salvin's Prion,Pachyptila salvini,N/A
+Scopoli's Shearwater,Calonectris diomedea,https://birda.twic.pics/species/e22e9030-a390-45cb-8316-01c44b700a5a/reference_images/Scopolis_Shearwater_-_Flying.jpg
+Slender-billed Prion,Pachyptila belcheri,N/A
+Soft-plumaged Petrel,Pterodroma mollis,https://birda.twic.pics/species/ef0c2271-14f7-4a80-a0d7-43f1d77f20f2/reference_images/Soft-plumaged_Petrel-_Flying.jpg
+Sooty Shearwater,Ardenna grisea,https://birda.twic.pics/species/36c6f178-694a-428f-b04a-75863acef68c/reference_images/Sooty_Shearwater_-_Flying.jpg
+Southern Fulmar,Fulmarus glacialoides,https://birda.twic.pics/species/7524227c-ceaa-465b-bce0-c17159ad2e04/reference_images/Southern_Fulmar-_Flying.jpg
+Southern Giant Petrel,Macronectes giganteus,https://birda.twic.pics/species/657be089-a285-442c-8ba8-3658135f3f98/reference_images/Southern_Giant_Petrel-_Flying.jpg
+Spectacled Petrel,Procellaria conspicillata,https://birda.twic.pics/species/bc01dc4e-5e9e-4fb9-8f7c-51910a08c38d/reference_images/Spectacled_Petrel-_Flying.jpg
+Streaked Shearwater,Calonectris leucomelas,https://birda.twic.pics/species/7549d1ea-300f-42f3-95df-183795798914/reference_images/Streaked_Shearwater-_Flying.jpg
+Subantarctic Shearwater,Puffinus elegans,N/A
+Tahiti Petrel,Pseudobulweria rostrata,N/A
+Trindade Petrel,Pterodroma arminjoniana,N/A
+Tropical Shearwater,Puffinus bailloni,N/A
+Wedge-tailed Shearwater,Ardenna pacifica,https://birda.twic.pics/species/fb2c54ed-c290-4600-aa63-19380d6c24f1/reference_images/Wedge-tailed_Shearwater-_Flying.jpg
+White-chinned Petrel,Procellaria aequinoctialis,https://birda.twic.pics/species/3958e717-78b6-44ab-964a-7173e07b4341/reference_images/White-chinned_Petrel-_Flying.jpg
+White-headed Petrel,Pterodroma lessonii,https://birda.twic.pics/species/0ecc0310-c3ee-4a64-ba03-476c6497caca/reference_images/White-headed_Petrel-_Flying.jpg
+Blue Quail,Synoicus adansonii,N/A
+Cape Spurfowl,Pternistis capensis,https://birda.twic.pics/species/5998015a-14dd-40fa-a4ee-2572bb2a6c17/reference_images/Cape_Spurfowl.jpg
+Chukar Partridge,Alectoris chukar,https://birda.twic.pics/species/f5af6062-3b32-4e0e-80b2-2135271a8174/reference_images/Chukar_Partridge.jpg
+Coqui Francolin,Campocolinus coqui,https://birda.twic.pics/species/0a787f09-e8c5-4bfc-8e13-3b8f247a624a/reference_images/Coqui_Francolin-_Male.jpg
+Crested Francolin,Ortygornis sephaena,https://birda.twic.pics/species/81520399-b8a8-4e3c-b81f-3a43a6b97fe8/reference_images/Creasted_Francolin.jpg
+Grey-winged Francolin,Scleroptila afra,https://birda.twic.pics/species/d4678a0c-2049-4293-b0cb-0921709e97a9/reference_images/Grey-winged_Francolin.jpg
+Harlequin Quail,Coturnix delegorguei,N/A
+Hartlaub's Spurfowl,Pternistis hartlaubi,https://birda.twic.pics/species/2f531b7e-f692-4480-b657-32dc71261ec9/reference_images/Hartlaubs_Spurfowl-_Male.jpg
+Indian Peafowl,Pavo cristatus,https://birda.twic.pics/species/5c02b50e-d5d5-438c-9d3e-dee53d938391/reference_images/Indian_Peafowl-_Male.jpg
+Natal Spurfowl,Pternistis natalensis,https://birda.twic.pics/species/84a93e76-048d-41f5-900f-78506fc4d8c6/reference_images/Natal_Spurfowl.jpg
+Orange River Francolin,Scleroptila gutturalis,https://birda.twic.pics/species/0cedf353-65b2-41de-98ee-1d415e98bbea/reference_images/Orange_River_Francolin.jpg
+Quail,Coturnix coturnix,https://birda.twic.pics/species/7f63339d-7a50-47a7-bd56-a64763598823/reference_images/Common_Quail-_Male-_New.jpg
+Red-billed Spurfowl,Pternistis adspersus,https://birda.twic.pics/species/b446957b-90d5-4dcf-b7ff-26cb178805b2/reference_images/Red-billed_Spurfowl.jpg
+Red-necked Spurfowl,Pternistis afer,https://birda.twic.pics/species/8f2bbf52-5d1c-4e79-abe0-095564eddc52/reference_images/Red-necked_Spurfowl.jpg
+Red-winged Francolin,Scleroptila levaillantii,N/A
+Shelley's Francolin,Scleroptila shelleyi,https://birda.twic.pics/species/a93f8a7b-233d-48a2-b2fb-5ee67d48e274/reference_images/Shelleys_Francolin.jpg
+Swainson's Spurfowl,Pternistis swainsonii,https://birda.twic.pics/species/2f53b01a-014e-4466-aa35-2aaacc71b8af/reference_images/Swainsons_Spurfowl_-_Adult.jpg
+African Green Pigeon,Treron calvus,https://birda.twic.pics/species/775775e9-1cc7-4e8d-b9ae-516fba1d8133/reference_images/African_Green_Pigeon.jpg
+African Green Pigeon,Treron calvus,https://birda.twic.pics/species/775775e9-1cc7-4e8d-b9ae-516fba1d8133/reference_images/African_Green_Pigeon.jpg
+African Olive Pigeon,Columba arquatrix,https://birda.twic.pics/species/88cc3a37-7f55-443d-9ecd-0fbaa8be8a86/reference_images/African_Olive_Pigeon_-_Adult.jpg
+Blue-spotted Wood Dove,Turtur afer,https://birda.twic.pics/species/2be33b03-bf77-4c12-8add-468d7de54c2b/reference_images/Blue-spotted_Wood_Dove.jpg
+Eastern Bronze-naped Pigeon,Columba delegorguei,N/A
+Emerald-spotted Wood Dove,Turtur chalcospilos,https://birda.twic.pics/species/8c480c41-66d1-434f-9e6f-2e0d02214573/reference_images/Emerald-spotted_Wood_Dove.jpg
+Laughing Dove,Spilopelia senegalensis,https://birda.twic.pics/species/2163623c-004f-4dae-b1d5-c41e631e7b9c/reference_images/Laughing_Dove_-_Adult.jpg
+Lemon Dove,Columba larvata,https://birda.twic.pics/species/29821163-8ede-4353-9c3c-08d0dc54c98c/reference_images/Lemon_Dove.jpg
+Mourning Collared Dove,Streptopelia decipiens,https://birda.twic.pics/species/984aa0b0-86b4-4533-88c3-823e575a93e9/reference_images/Mourning_Collared_Dove.jpg
+Namaqua Dove,Oena capensis,https://birda.twic.pics/species/112474c7-a639-4a55-8f15-209de912fe65/reference_images/Namaqua_Dove-_Male.jpg
+Red-eyed Dove,Streptopelia semitorquata,https://birda.twic.pics/species/210a7885-923c-44eb-bfcf-9fb9588f994e/reference_images/Red-eyed_Dove_-_Adult.jpg
+Ring-necked Dove,Streptopelia capicola,https://birda.twic.pics/species/72af3284-d5d7-4419-94c2-a813d8d244ce/reference_images/Ring-necked_Dove_-_Adult.jpg
+Rock Dove,Columba livia,https://birda.twic.pics/species/7b080f1c-5883-474e-b2ef-7c1130c09b90/reference_images/Rock_Dove.jpg
+Speckled Pigeon,Columba guinea,https://birda.twic.pics/species/7ad45541-4a18-496e-a286-396c9441287e/reference_images/Speckled_Pigeon_-_Adult.jpg
+Tambourine Dove,Turtur tympanistria,https://birda.twic.pics/species/ab7db31b-a49e-45e9-bc03-297d593a811f/reference_images/Tambourine_Dove-_Male.jpg
+Turtle Dove,Streptopelia turtur,https://birda.twic.pics/species/3eb1d8cc-9c19-4d60-86f3-c75f63b7a55f/reference_images/European_Turtle_Dove.jpg
+African Pitta,Pitta angolensis,N/A
+African Wattled Lapwing,Vanellus senegallus,https://birda.twic.pics/species/dcc7f350-0567-4cf3-a72d-ef65350e35d8/reference_images/African_Wattled_Lapwing_-_Adult_2.jpg
+American Golden Plover,Pluvialis dominica,https://birda.twic.pics/species/97909087-60ab-475d-af50-d5fc6822eadb/reference_images/American_Golden_Plover_-_Summer.jpg
+Blacksmith Lapwing,Vanellus armatus,https://birda.twic.pics/species/e15a9593-d16b-449d-abd4-84d493061aa1/reference_images/Blacksmith_Lapwing_-_Adult.jpg
+Black-winged Lapwing,Vanellus melanopterus,https://birda.twic.pics/species/f5501f26-d2e5-48e9-b435-bc70e7675489/reference_images/Black-winged_Lapwing.jpg
+Caspian Plover,Charadrius asiaticus,https://birda.twic.pics/species/3aadc323-cd67-44c8-8998-347bd3328876/reference_images/Caspian_Plover-_Male-_Breeding.jpg
+Chestnut-banded Plover,Charadrius pallidus,https://birda.twic.pics/species/fdc07b9a-d9e3-4ca8-9906-a0fb7704a3d7/reference_images/Chestnut-banded_Plover-_Male.jpg
+Crowned Lapwing,Vanellus coronatus,https://birda.twic.pics/species/e83e4eb2-33f2-4fd3-b688-6cefd3edbfe7/reference_images/Crowned_Lapwing_-_Adult.jpg
+Greater Sand Plover,Charadrius leschenaultii,https://birda.twic.pics/species/a046a839-2a0b-4ceb-b3ef-675f5dcbc405/reference_images/Greater_Sand_Plover-_Male-_Breedin.jpg
+Grey Plover,Pluvialis squatarola,https://birda.twic.pics/species/bdf67768-dd70-4c77-8adc-aa5e0492fd92/reference_images/Grey_Plover_-_Winter.jpg
+Kittlitz's Plover,Charadrius pecuarius,https://birda.twic.pics/species/ba992b6e-a652-472e-931c-0360393cfac3/reference_images/Kittlitzs_Plover-_Breeding.jpg
+Lesser Sand Plover,Charadrius mongolus,https://birda.twic.pics/species/2db6e0a8-3a60-4b89-871e-1389d6044c4e/reference_images/Lesser_Sand_Plover_-_Male-_Breedin.jpg
+Little Ringed Plover,Charadrius dubius,https://birda.twic.pics/species/71bc1310-d583-42a0-bf90-37262bd85708/reference_images/Little_Ringed_Plover.jpg
+Long-toed Lapwing,Vanellus crassirostris,https://birda.twic.pics/species/8834985b-7ce6-4179-bbd1-0ddfab5eb86d/reference_images/Long-toed_Lapwing.jpg
+Pacific Golden Plover,Pluvialis fulva,https://birda.twic.pics/species/b3a21b33-98a8-4908-a00c-9de973b649ee/reference_images/Pacific_Golden_Plover_-_Adult_-Sum.jpg
+Ringed Plover,Charadrius hiaticula,https://birda.twic.pics/species/59fd93a4-7a23-40b8-a12b-ddfb3ebd5d16/reference_images/Common_Ringed_Plover_-_Summer.jpg
+Senegal Lapwing,Vanellus lugubris,https://birda.twic.pics/species/3189d292-1576-4631-99e9-a01455b7d662/reference_images/Black-winged_Lapwing.jpg
+Spur-winged Lapwing,Vanellus spinosus,https://birda.twic.pics/species/e9affc43-1438-4d9d-a64b-d32541041b72/reference_images/Spur-winged_Lapwing.jpg
+Three-banded Plover,Charadrius tricollaris,https://birda.twic.pics/species/7f46b2c1-9217-4f1f-84f0-88d047a595a0/reference_images/Three-banded_Plover.jpg
+White-crowned Lapwing,Vanellus albiceps,https://birda.twic.pics/species/5adcc359-c87a-4778-aa41-6cb81eae44d9/reference_images/White-crowned_Lapwing.jpg
+White-fronted Plover,Charadrius marginatus,https://birda.twic.pics/species/29277326-3769-4730-9eaa-68f191c9ff36/reference_images/White-fronted_Plover-_Male.jpg
+African Crake,Crecopsis egregia,https://birda.twic.pics/species/31235788-4d15-4d36-8d9c-fe0d07ffd4c7/reference_images/African_Crake.jpg
+African Rail,Rallus caerulescens,https://birda.twic.pics/species/2b93be66-a1de-4d19-8146-40531112fc5f/reference_images/African_Rail.jpg
+African Swamphen,Porphyrio madagascariensis,https://birda.twic.pics/species/31b57c40-540e-4b25-8e3b-59cd32b338f3/reference_images/African_Swamphen.jpg
+Allen's Gallinule,Porphyrio alleni,https://birda.twic.pics/species/b4cfc09b-8257-4aa3-a3f3-6781e3c08ef1/reference_images/Allens_Gallinule-_Non-breeding.jpg
+American Purple Gallinule,Porphyrio martinica,https://birda.twic.pics/species/9aa72663-4358-4930-aa0c-b7802ec0c8c5/reference_images/Purple_Gallinule.jpg
+Baillon's Crake,Zapornia pusilla,https://birda.twic.pics/species/39c61418-1c2e-4193-a2a5-91d5598757f6/reference_images/Baillons_Crake.jpg
+Black Crake,Zapornia flavirostra,https://birda.twic.pics/species/8259ed38-dc72-403f-89b5-e4de85a32ba5/reference_images/Black_Crake.jpg
+Corncrake,Crex crex,https://birda.twic.pics/species/e4fa9d59-8ff4-4cf0-88da-d408f0401539/reference_images/Corn_Crake.jpg
+Lesser Moorhen,Paragallinula angulata,https://birda.twic.pics/species/da2bb7ce-4113-4fff-98c9-6650631cf795/reference_images/Lesser_Moorhen.jpg
+Little Crake,Zapornia parva,https://birda.twic.pics/species/61939972-74fa-40ea-a6e9-dca8edae6cf3/reference_images/Little_Crake_-_Male.jpg
+Moorhen,Gallinula chloropus,https://birda.twic.pics/species/333353f2-86b0-4e3e-8347-87b9712b9c2d/reference_images/Common_Moorhen.jpg
+Red-knobbed Coot,Fulica cristata,https://birda.twic.pics/species/6eae129f-9c3d-449d-a4fb-c4ba131b97fe/reference_images/Red-knobbed_Coot_-_Adult.jpg
+Spotted Crake,Porzana porzana,https://birda.twic.pics/species/699e8419-bc80-48f3-a52f-c91690f6b667/reference_images/Spotted_Crake.jpg
+Striped Crake,Aenigmatolimnas marginalis,N/A
+African Reed Warbler,Acrocephalus baeticatus,https://birda.twic.pics/species/90039e73-b134-44ca-8175-2129275a1336/reference_images/African_Reed_Warbler.jpg
+African Yellow Warbler,Iduna natalensis,https://birda.twic.pics/species/106adfe7-5012-44c0-b48b-e637134073c9/reference_images/African_Yellow_Warbler.jpg
+Basra Reed Warbler,Acrocephalus griseldis,N/A
+Greater Swamp Warbler,Acrocephalus rufescens,N/A
+Great Reed Warbler,Acrocephalus arundinaceus,https://birda.twic.pics/species/5831524a-7cb5-4787-9209-b4cd83da2277/reference_images/Great_Reed_Warbler.jpg
+Icterine Warbler,Hippolais icterina,https://birda.twic.pics/species/ed3b49e2-a406-48dd-9c37-4346bc4bfb5b/reference_images/Icterine_Warbler.jpg
+Lesser Swamp Warbler,Acrocephalus gracilirostris,https://birda.twic.pics/species/9e115dd7-e4cf-4384-82b4-e12cfe197a45/reference_images/Lesser_Swamp_Warbler.jpg
+Marsh Warbler,Acrocephalus palustris,https://birda.twic.pics/species/5bb6d423-bc22-4231-86c3-72096f62dbc8/reference_images/Marsh_Warbler.jpg
+Olive-tree Warbler,Hippolais olivetorum,https://birda.twic.pics/species/4494d9c2-04be-4567-85be-0b2bf0f15ffb/reference_images/Olive-tree_Warbler.jpg
+Reed Warbler,Acrocephalus scirpaceus,https://birda.twic.pics/species/50c74cf6-994d-40c3-9a52-9de77b140efd/reference_images/Eurasian_Reed_Warbler.jpg
+Sedge Warbler,Acrocephalus schoenobaenus,https://birda.twic.pics/species/faaebb30-3541-4d67-9928-a7061353f8f7/reference_images/Sedge_Warbler.jpg
+Upcher's Warbler,Hippolais languida,https://birda.twic.pics/species/3ad9342a-8524-4e6e-87b7-ae194660dab9/reference_images/Upchers_Warbler.jpg
+Cape Rockjumper,Chaetops frenatus,https://birda.twic.pics/species/3362e940-da3d-4796-b78c-4058af5b1dc5/reference_images/Cape_Rockjumper-_Male.jpg
+Drakensberg Rockjumper,Chaetops aurantius,https://birda.twic.pics/species/a794631b-af21-42b5-8ffd-dc2f4ba9df0d/reference_images/Drakensburg_Rockjumper-_Male.jpg
+Broad-billed Roller,Eurystomus glaucurus,https://birda.twic.pics/species/61a02332-a7c2-4117-9270-8903bfcf21e9/reference_images/Broad-billed_Roller.jpg
+Lilac-breasted Roller,Coracias caudatus,https://birda.twic.pics/species/a91059d3-df99-452d-9eef-8c15689c3dd0/reference_images/Lilac-breasted_Roller.jpg
+Purple Roller,Coracias naevius,https://birda.twic.pics/species/e09429f7-10c7-4bdb-886c-5c98f2a65d66/reference_images/Purple_Roller.jpg
+Racket-tailed Roller,Coracias spatulatus,https://birda.twic.pics/species/aa169058-f433-4056-af2d-6bac4877c04f/reference_images/Racket-tailed_Roller.jpg
+Roller,Coracias garrulus,https://birda.twic.pics/species/492393c3-c232-438c-9fe3-c6ee05941e00/reference_images/European_Roller.jpg
+Burchell's Sandgrouse,Pterocles burchelli,https://birda.twic.pics/species/f320263c-4417-4382-876d-f8798c67f679/reference_images/Burchells_Sandgrouse-_Male.jpg
+Double-banded Sandgrouse,Pterocles bicinctus,https://birda.twic.pics/species/5c10b6de-7a9e-4826-82a0-748fc3a339c4/reference_images/Double-banded_Sandgrouse-_Male_.jpg
+Namaqua Sandgrouse,Pterocles namaqua,https://birda.twic.pics/species/8c821956-1786-452e-8edf-1c78443abe28/reference_images/Namaqua_Sandgrouse-_Male.jpg
+Yellow-throated Sandgrouse,Pterocles gutturalis,https://birda.twic.pics/species/d7e7e55b-1c5c-4a6d-bd44-179bd65e3d92/reference_images/Yellow-throated_Sandgrouse-_Male.jpg
+African Snipe,Gallinago nigripennis,N/A
+Asian Dowitcher,Limnodromus semipalmatus,https://birda.twic.pics/species/16d8bf3d-75fb-498e-9482-f91794a28962/reference_images/Asian_Dowitcher.jpg
+Baird's Sandpiper,Calidris bairdii,https://birda.twic.pics/species/4d189e7d-8676-411b-b887-d300c02b255d/reference_images/Bairds_Sandpiper-_New.jpg
+Bar-tailed Godwit,Limosa lapponica,https://birda.twic.pics/species/78ad54c1-dea8-45dd-a92d-1277a4fa9327/reference_images/Bar-tailed_Godwit_-_Male.jpg
+Black-tailed Godwit,Limosa limosa,https://birda.twic.pics/species/5a4bda0e-9330-4a64-b512-10d78259b7ba/reference_images/Black-tailed_Godwit.jpg
+Broad-billed Sandpiper,Calidris falcinellus,https://birda.twic.pics/species/34b7c51e-72bb-4257-8ed1-30216fcb83f4/reference_images/Broad-billed_Sandpiper_-_Summer.jpg
+Buff-breasted Sandpiper,Calidris subruficollis,https://birda.twic.pics/species/6bae7ead-8047-4b67-a7d5-60880f5a352c/reference_images/Buff-breasted_Sandpiper_-_Standing.jpg
+Common Sandpiper,Actitis hypoleucos,https://birda.twic.pics/species/093d4f20-3548-479d-8f97-ef02aa09a30c/reference_images/Common_Sandpiper.jpg
+Curlew,Numenius arquata,https://birda.twic.pics/species/4da9e648-51d9-426a-b6c1-0b15d6ba1045/reference_images/Eurasian_Curlew-_Male.jpg
+Curlew Sandpiper,Calidris ferruginea,https://birda.twic.pics/species/3576d543-820e-44c3-91dc-c62447aa312e/reference_images/Curlew_Sandpiper_-_Winter.jpg
+Dunlin,Calidris alpina,https://birda.twic.pics/species/90292a50-a36c-4979-b84a-786c49ab5c44/reference_images/Dunlin.jpg
+Greater Yellowlegs,Tringa melanoleuca,https://birda.twic.pics/species/93e5bdee-16d9-4d3c-92a4-464b0fafe144/reference_images/Greater_Yellowlegs.jpg
+Great Knot,Calidris tenuirostris,https://birda.twic.pics/species/07730ae9-3b53-47f7-a08a-258049a082d2/reference_images/Great_Knot.jpg
+Great Snipe,Gallinago media,https://birda.twic.pics/species/971c8b26-0634-43fe-8f7f-2844e29c6f4a/reference_images/Great_Snipe.jpg
+Green Sandpiper,Tringa ochropus,https://birda.twic.pics/species/8f85ded0-1c1f-4c2e-9aee-66d7e0d23dac/reference_images/Green_Sandpiper.jpg
+Greenshank,Tringa nebularia,https://birda.twic.pics/species/fc3bd02c-eec2-42cf-8b75-a1282461cb79/reference_images/Common_Greenshank.jpg
+Grey Phalarope,Phalaropus fulicarius,https://birda.twic.pics/species/2d316fa9-ba53-42a9-a0b7-d9aa99e8fb36/reference_images/Red_Phalarope_-_Winter.jpg
+Hudsonian Godwit,Limosa haemastica,https://birda.twic.pics/species/4064deda-4a10-45eb-b968-f81f79c3f0dd/reference_images/Hudsonian_Godwit-_Breeding.jpg
+Knot,Calidris canutus,https://birda.twic.pics/species/addd94ff-8b8f-4931-b3a8-1b2b7d79c14f/reference_images/Red_Knot_-_Winter.jpg
+Lesser Yellowlegs,Tringa flavipes,https://birda.twic.pics/species/446d9b93-f9b7-449a-a272-a954ca3a4947/reference_images/Lesser_Yellowlegs.jpg
+Little Stint,Calidris minuta,https://birda.twic.pics/species/ea7f6253-c9ed-40d4-9023-b105eecf6f58/reference_images/Little_Stint_-_Summer.jpg
+Long-toed Stint,Calidris subminuta,https://birda.twic.pics/species/abb9007e-480b-4e8b-92bc-24c74186c620/reference_images/Long-toed_Stint-_Breeding.jpg
+Marsh Sandpiper,Tringa stagnatilis,https://birda.twic.pics/species/75086304-8a0a-476d-acae-76900a4e2583/reference_images/Marsh_Sandpiper.jpg
+Pectoral Sandpiper,Calidris melanotos,https://birda.twic.pics/species/d488db71-03ae-4ad2-b555-0ae515b74630/reference_images/Pectoral_Sandpiper.jpg
+Red-necked Phalarope,Phalaropus lobatus,https://birda.twic.pics/species/a944a1d0-a7de-42ae-afc7-e723b996dd85/reference_images/Red-necked_Phalarope_-_Adult_-_Win.jpg
+Red-necked Stint,Calidris ruficollis,https://birda.twic.pics/species/cef24bda-6a7f-4efa-ae57-042768894fb3/reference_images/Red-necked_Stint.jpg
+Redshank,Tringa totanus,https://birda.twic.pics/species/beccf91e-e510-4c3d-879b-4db81c969f68/reference_images/Common_Redshank.jpg
+Ruff,Calidris pugnax,https://birda.twic.pics/species/0e0d8c2c-684e-4d0a-9c7d-6fe7a0b5fafe/reference_images/Ruff_-_Male.jpg
+Sanderling,Calidris alba,https://birda.twic.pics/species/330d81ce-ca55-4ee4-822b-4c66a5252df8/reference_images/Sanderling.jpg
+Sharp-tailed Sandpiper,Calidris acuminata,https://birda.twic.pics/species/63c33ff6-4f75-4638-bd8c-90d52dd2c987/reference_images/Sharp-tailed_Sandpiper.jpg
+Spotted Redshank,Tringa erythropus,https://birda.twic.pics/species/7bc6ef23-5a51-43ce-802b-73f0bf03888c/reference_images/Spotted_Redshank_-_Winter.jpg
+Temminck's Stint,Calidris temminckii,https://birda.twic.pics/species/708def46-ce5a-4116-982f-ef8304f2499e/reference_images/Temmincks_Stint_-_Winter.jpg
+Terek Sandpiper,Xenus cinereus,https://birda.twic.pics/species/54e5481e-981a-43b3-a774-8a061896201f/reference_images/Terek_Sandpiper.jpg
+Turnstone,Arenaria interpres,https://birda.twic.pics/species/1dd10b80-d476-4f88-aadc-9e23d8fc1103/reference_images/Ruddy_Turnstone_-_Summer.jpg
+Whimbrel,Numenius phaeopus,https://birda.twic.pics/species/95db3133-0e29-4b51-b4a1-7f9058bf1cbc/reference_images/Eurasian_Whimbrel.jpg
+White-rumped Sandpiper,Calidris fuscicollis,https://birda.twic.pics/species/f2cdf58a-5ec6-484b-9482-2701dfc6c710/reference_images/White-rumped_Sandpiper_-_Adult.jpg
+Wilson's Phalarope,Phalaropus tricolor,https://birda.twic.pics/species/0ccc6e00-72d4-4075-8d06-78b42cfae1ba/reference_images/Wilsons_Phalarope_-_Winter_-_Swimm.jpg
+Wood Sandpiper,Tringa glareola,https://birda.twic.pics/species/750ad06d-ae8c-4080-a8e7-fcb7a742d86b/reference_images/Wood_Sandpiper.jpg
+Secretarybird,Sagittarius serpentarius,https://birda.twic.pics/species/2488bc62-f91d-429b-8afa-f70c47c6dc54/reference_images/Secretarybird.jpg
+Snowy Sheathbill,Chionis albus,https://birda.twic.pics/species/b9e32a29-a1e6-4ed3-b27e-707b51dd1705/reference_images/Snowy_Sheathbill.jpg
+Lesser Grey Shrike,Lanius minor,https://birda.twic.pics/species/4b54af56-5c3a-4f9c-8e0e-26abf736d4d5/reference_images/Lesser_Grey_Shrike.jpg
+Magpie Shrike,Urolestes melanoleucus,https://birda.twic.pics/species/77519da8-d1ab-435d-9aa7-a79b224c5e45/reference_images/Magpie_Shrike.jpg
+Red-backed Shrike,Lanius collurio,https://birda.twic.pics/species/8b8ce100-f868-4fc7-b107-e9958b43e159/reference_images/Red-backed_Shrike_-_Male.jpg
+Southern Fiscal,Lanius collaris,https://birda.twic.pics/species/2bb919ef-7c93-41eb-8006-91153d3fc519/reference_images/Southern_Fiscal_-_Adult.jpg
+Southern White-crowned Shrike,Eurocephalus anguitimens,https://birda.twic.pics/species/9e65ccd8-1be5-468b-8ba7-65cba79e7011/reference_images/Southern_White-crowned_Shrike.jpg
+Souza's Shrike,Lanius souzae,https://birda.twic.pics/species/741a0f8c-0697-4f90-a24b-11816cb9949b/reference_images/Souzas_Shrike.jpg
+Turkestan Shrike,Lanius phoenicuroides,https://birda.twic.pics/species/d6248c7b-9815-4d5a-86b7-cfc1b534e54e/reference_images/Red-tailed_Shrike-_Male.jpg
+Arctic Skua,Stercorarius parasiticus,https://birda.twic.pics/species/6aa4109c-e2e3-4240-aa65-69f4c384695e/reference_images/Parasitic_Jaeger.jpg
+Brown Skua,Stercorarius antarcticus,https://birda.twic.pics/species/851f0eec-d62f-410b-9af5-daabe78be383/reference_images/Brown_Skua-_Flying.jpg
+Long-tailed Skua,Stercorarius longicaudus,https://birda.twic.pics/species/94c0a4af-1d02-4dae-bd94-a3bb17c5e8f0/reference_images/Long-tailed_Jaeger_-_Flying_2.jpg
+Pomarine Skua,Stercorarius pomarinus,https://birda.twic.pics/species/7ea08dd9-0cce-4266-977e-9d867de7a779/reference_images/Pomarine_Jaeger-_Flying.jpg
+South Polar Skua,Stercorarius maccormicki,https://birda.twic.pics/species/ec3719c8-47bc-4dbf-84a8-7b6a9f270658/reference_images/South_Polar_Skua.jpg
+Black-bellied Starling,Notopholia corusca,https://birda.twic.pics/species/38e5fd78-5769-46e1-b316-6cbb03da8fc7/reference_images/Black-bellied_Starling.jpg
+Burchell's Starling,Lamprotornis australis,https://birda.twic.pics/species/054137c4-38cf-4376-861b-63f2262343fd/reference_images/Burchells_Starling.jpg
+Cape Starling,Lamprotornis nitens,https://birda.twic.pics/species/36bb348d-455d-483e-b2e7-98d27d37c83a/reference_images/Cape_Starling_-_Adult.jpg
+Common Myna,Acridotheres tristis,https://birda.twic.pics/species/4822488c-7e06-44db-8221-9f12e22e1e25/reference_images/Common_Myna_-_Adult.jpg
+Greater Blue-eared Starling,Lamprotornis chalybaeus,https://birda.twic.pics/species/dbab8531-7af6-46a4-99e6-c95a8d085c2c/reference_images/Greater_Blue-eared_Starling.jpg
+Meves's Starling,Lamprotornis mevesii,https://birda.twic.pics/species/53b81a3c-7d72-4f41-863d-f2527965bdef/reference_images/Meves_Starling.jpg
+Miombo Blue-eared Starling,Lamprotornis elisabeth,N/A
+Pale-winged Starling,Onychognathus nabouroup,https://birda.twic.pics/species/16c876d6-7045-4598-ba89-3da0b078b554/reference_images/Pale-winged_Starling.jpg
+Pied Starling,Lamprotornis bicolor,https://birda.twic.pics/species/3e0f096d-01ee-4c8a-9c72-17a95a65f7d0/reference_images/Pied_Starling.jpg
+Red-winged Starling,Onychognathus morio,https://birda.twic.pics/species/7027f7b9-89ba-4d67-b7a4-e290727c0a8c/reference_images/Red-winged_Starling_-_Adult.jpg
+Rose-coloured Starling,Pastor roseus,https://birda.twic.pics/species/27bc9f90-a0a3-40cb-8b59-1ab4991d5e4d/reference_images/Rosy_Starling.jpg
+Sharp-tailed Starling,Lamprotornis acuticaudus,N/A
+Starling,Sturnus vulgaris,https://birda.twic.pics/species/9d635376-66b6-4716-895b-27da3e8cf17c/reference_images/Common_Starling.jpg
+Violet-backed Starling,Cinnyricinclus leucogaster,https://birda.twic.pics/species/0bb66256-6f80-46b2-bbc7-aaca39087d47/reference_images/Violet-backed_Starling-_Male.jpg
+Wattled Starling,Creatophora cinerea,https://birda.twic.pics/species/8ea713da-6599-4e58-bee9-062196ab1b62/reference_images/Wattled_Starling.jpg
+Avocet,Recurvirostra avosetta,https://birda.twic.pics/species/d646432a-83da-46c6-b2ab-a1694cf661d7/reference_images/Pied_Avocet.jpg
+Black-winged Stilt,Himantopus himantopus,https://birda.twic.pics/species/76a202c5-00f3-4367-ba7b-cf5e442cb9bf/reference_images/Black-winged_Stilt_-_Male.jpg
+Spotted Thick-knee,Burhinus capensis,https://birda.twic.pics/species/914f3f0d-ecd1-4e23-85e1-760b1d145093/reference_images/Spotted_Thick-knee_-_Adult.jpg
+Water Thick-knee,Burhinus vermiculatus,https://birda.twic.pics/species/5dd4527c-67a7-4d83-b25b-0fa8eed756b4/reference_images/Water_Thick-knee_-_Adult.jpg
+Abdim's Stork,Ciconia abdimii,https://birda.twic.pics/species/9790cd4c-48df-4a56-8e83-0e7819dd0d81/reference_images/Abdims_Stork.jpg
+African Openbill,Anastomus lamelligerus,https://birda.twic.pics/species/cc3849a1-56bd-483e-bcdd-8da80ed9a8c9/reference_images/African_Openbill.jpg
+Black Stork,Ciconia nigra,https://birda.twic.pics/species/ba4433b0-e63c-4887-90ad-1d1b8d3e94fb/reference_images/Black_stork.jpg
+Marabou Stork,Leptoptilos crumenifer,https://birda.twic.pics/species/c1a212d7-fbd6-409b-8e0e-d7a94d870fa3/reference_images/Marabou_Stork.jpg
+Saddle-billed Stork,Ephippiorhynchus senegalensis,https://birda.twic.pics/species/70e714b8-847f-4481-b9b5-4679e31618dc/reference_images/Saddle-billed_Stalk-_Male.jpg
+White Stork,Ciconia ciconia,https://birda.twic.pics/species/9b346b78-4a99-4084-abd7-60ecea7cf579/reference_images/White_stork.jpg
+Woolly-necked Stork,Ciconia episcopus,https://birda.twic.pics/species/4135f8fc-e3c8-4551-aa9d-9c75b59cf687/reference_images/Woolly-necked_Stork.jpg
+Yellow-billed Stork,Mycteria ibis,https://birda.twic.pics/species/b3cd80de-fadc-4f00-9287-098bec4f3831/reference_images/Yellow-billed_Stork.jpg
+Cape Sugarbird,Promerops cafer,https://birda.twic.pics/species/208767bc-73e1-4448-acfa-58a01bafc089/reference_images/Cape_Sugarbird-_Male.jpg
+Gurney's Sugarbird,Promerops gurneyi,https://birda.twic.pics/species/3b0c09a3-86ed-4d5c-93b9-284cd181b15d/reference_images/Gurneys_Sugarbird.jpg
+Amethyst Sunbird,Chalcomitra amethystina,https://birda.twic.pics/species/34d875c9-6cab-4b4d-a627-1347eb78db1f/reference_images/Amethyst_Sunbird-_Male.jpg
+Bronzy Sunbird,Nectarinia kilimensis,N/A
+Collared Sunbird,Hedydipna collaris,https://birda.twic.pics/species/af6223f9-487c-48bd-bc93-a50267890129/reference_images/Collared_Sunbird-_Male.jpg
+Copper Sunbird,Cinnyris cupreus,N/A
+Dusky Sunbird,Cinnyris fuscus,https://birda.twic.pics/species/999eafd7-07dd-4812-91d3-37551aee1e2d/reference_images/Dusky_Sunbird-_Male.jpg
+Eastern Miombo Sunbird,Cinnyris manoensis,N/A
+Greater Double-collared Sunbird,Cinnyris afer,https://birda.twic.pics/species/2f090471-3330-41df-ae6d-61122d685191/reference_images/Greater_Double-collared_Sunbird-_M.jpg
+Grey Sunbird,Cyanomitra veroxii,https://birda.twic.pics/species/e2635037-c4bd-47bf-8eb5-df553240755b/reference_images/Grey_Sunbird.jpg
+Malachite Sunbird,Nectarinia famosa,https://birda.twic.pics/species/c74caa0c-ae6c-45bb-aeaa-6033e138a782/reference_images/Malachite_Sunbird-_Male.jpg
+Marico Sunbird,Cinnyris mariquensis,https://birda.twic.pics/species/b306ee9b-4682-4a73-999b-5e2c20770580/reference_images/Marico_Sunbird-_Male.jpg
+Neergaard's Sunbird,Cinnyris neergaardi,N/A
+Olive Sunbird,Cyanomitra olivacea,https://birda.twic.pics/species/bbca1ae5-c623-40e0-b362-acb36795c0d8/reference_images/Olive_Sunbird.jpg
+Orange-breasted Sunbird,Anthobaphes violacea,https://birda.twic.pics/species/258af5d5-ff4f-4d7a-b7f4-0a2874625b16/reference_images/Orange-breasted_Sunbird-_Male.jpg
+Plain-backed Sunbird,Anthreptes reichenowi,N/A
+Purple-banded Sunbird,Cinnyris bifasciatus,https://birda.twic.pics/species/06f3b541-9762-48f6-8c8c-e19fb04c9694/reference_images/Purple-banded_Sunbird-_Male.jpg
+Scarlet-chested Sunbird,Chalcomitra senegalensis,https://birda.twic.pics/species/aac2f5dc-19bb-4441-9de8-85c4b7c392a8/reference_images/Scarlet-chested_Sunbird-_Male_.jpg
+Shelley's Sunbird,Cinnyris shelleyi,N/A
+Southern Double-collared Sunbird,Cinnyris chalybeus,https://birda.twic.pics/species/394f30ad-2672-4b91-bd98-80ed09313879/reference_images/Southern_Double-collared_Sunbird-_.jpg
+Variable Sunbird,Cinnyris venustus,https://birda.twic.pics/species/32df2916-ab4e-4ba6-acd3-5d12a8b6d092/reference_images/Variable_Sunbird-_Male.jpg
+Western Violet-backed Sunbird,Anthreptes longuemarei,N/A
+White-bellied Sunbird,Cinnyris talatala,https://birda.twic.pics/species/e48bbf9f-1b9e-445a-b68f-7dd36095a59d/reference_images/White-bellied_Sunbird_-_Adult_Male.jpg
+Angolan Swallow,Hirundo angolensis,N/A
+Banded Martin,Neophedina cincta,https://birda.twic.pics/species/5b3cd399-2daf-4ccc-a5e0-ab12f0e5433e/reference_images/Banded_Martin.jpg
+Black Saw-wing,Psalidoprocne pristoptera,N/A
+Blue Swallow,Hirundo atrocaerulea,N/A
+Brown-throated Martin,Riparia paludicola,https://birda.twic.pics/species/71e021f7-df0e-48ae-8d65-87f154345828/reference_images/Brown-throated_Martin.jpg
+Greater Striped Swallow,Cecropis cucullata,https://birda.twic.pics/species/8efaacc4-a6a2-4e3c-93dc-8501f7efd6f5/reference_images/Greater_Striped_Swallow_-_Adult.jpg
+Grey-rumped Swallow,Pseudhirundo griseopyga,N/A
+House Martin,Delichon urbicum,https://birda.twic.pics/species/e199ddd9-5c6f-429d-b699-13cd6254393f/reference_images/Common_House_Martin_-_Flying.jpg
+Lesser Striped Swallow,Cecropis abyssinica,https://birda.twic.pics/species/db069cd5-dbbc-4146-aa42-1d96dbb024d3/reference_images/Lesser_Striped_Swallow.jpg
+Mascarene Martin,Phedina borbonica,https://birda.twic.pics/species/bdbd6a46-fd07-4f5c-aa2d-3142ea444c58/reference_images/Mascarene_Martin.jpg
+Mosque Swallow,Cecropis senegalensis,N/A
+Pearl-breasted Swallow,Hirundo dimidiata,https://birda.twic.pics/species/87771fe2-69f5-4ca3-bb4d-7f2e9823ac53/reference_images/Pearl-breasted_Swallow.jpg
+Red-breasted Swallow,Cecropis semirufa,https://birda.twic.pics/species/fa37d524-67e2-4f42-9580-9839d13c777c/reference_images/Red-breasted_Swallow.jpg
+Red-rumped Swallow,Cecropis daurica,https://birda.twic.pics/species/c0d3b81e-40ef-4f05-9e2a-4e1a82a2f52c/reference_images/Red-rumped_Swallow.jpg
+Rock Martin,Ptyonoprogne fuligula,https://birda.twic.pics/species/3f2cb8c9-ea52-4847-8aa5-172d4bfb7a3a/reference_images/Rock_Martin.jpg
+Rock Martin,Ptyonoprogne fuligula,https://birda.twic.pics/species/3f2cb8c9-ea52-4847-8aa5-172d4bfb7a3a/reference_images/Rock_Martin.jpg
+Sand Martin,Riparia riparia,https://birda.twic.pics/species/1b246593-13f8-4aa2-950d-3787c5a7892c/reference_images/Sand_Martin.jpg
+South African Cliff Swallow,Petrochelidon spilodera,N/A
+Swallow,Hirundo rustica,https://birda.twic.pics/species/e6b6677c-9e92-4631-a459-e7f997060184/reference_images/Barn_Swallow_-_Flying.jpg
+White-headed Saw-wing,Psalidoprocne albiceps,N/A
+White-throated Swallow,Hirundo albigularis,https://birda.twic.pics/species/baf1b8c5-0e69-47d0-9ff2-357bb52434a9/reference_images/White-throated_Swallow_-_Adult.jpg
+Wire-tailed Swallow,Hirundo smithii,https://birda.twic.pics/species/5c72d13d-e134-41cd-a523-f4eff05c81cf/reference_images/Wire-tailed_Swallow.jpg
+African Black Swift,Apus barbatus,N/A
+African Palm Swift,Cypsiurus parvus,https://birda.twic.pics/species/a03157df-73d7-4231-a7e1-5801a020362a/reference_images/African_Palm_Swift_-_Adult.jpg
+Alpine Swift,Tachymarptis melba,https://birda.twic.pics/species/34b1be56-59f4-4e10-be3b-0390fc7e2731/reference_images/Alpine_Swift.jpg
+Böhm's Spinetail,Neafrapus boehmi,N/A
+Bradfield's Swift,Apus bradfieldi,N/A
+Forbes-Watson's Swift,Apus berliozi,N/A
+Horus Swift,Apus horus,N/A
+Little Swift,Apus affinis,https://birda.twic.pics/species/bdec2307-6c6a-4cdd-b23a-278b3ae2e7b7/reference_images/Little_Swift_-_Adult.jpg
+Mottled Spinetail,Telacanthura ussheri,https://birda.twic.pics/species/812c2c32-8c4d-4855-8538-a97c2e586026/reference_images/Mottled_Spinetail-_Flying_.jpg
+Mottled Swift,Tachymarptis aequatorialis,N/A
+Pallid Swift,Apus pallidus,https://birda.twic.pics/species/5b071414-a4d8-4721-bed1-25b57b45e89e/reference_images/Pallid_Swift.jpg
+Scarce Swift,Schoutedenapus myoptilus,N/A
+Swift,Apus apus,https://birda.twic.pics/species/3a4fc433-734a-445c-9214-800d401216c8/reference_images/Common_Swift.jpg
+White-rumped Swift,Apus caffer,https://birda.twic.pics/species/a6395cd8-e5e3-438e-b990-93af4ec16c35/reference_images/White-rumped_Swift_-_Adult.jpg
+Blackcap,Sylvia atricapilla,https://birda.twic.pics/species/95920657-ca60-4acc-8c38-a53cb35ae9f7/reference_images/Eurasian_Blackcap_-_Male.jpg
+Bush Blackcap,Sylvia nigricapillus,N/A
+Chestnut-vented Warbler,Curruca subcoerulea,https://birda.twic.pics/species/e7c9ff8d-dea5-4b82-91ee-c179f868cb3a/reference_images/Chestnut-vented_Warbler.jpg
+Garden Warbler,Sylvia borin,https://birda.twic.pics/species/ec39787a-81b8-4b80-aabd-c7576f160d79/reference_images/Garden_Warbler.jpg
+Layard's Warbler,Curruca layardi,https://birda.twic.pics/species/b97c39da-bdc4-4b9b-86e1-5715634e2cbf/reference_images/Layards_Warbler.jpg
+Whitethroat,Curruca communis,https://birda.twic.pics/species/bcc81043-9410-4bcf-91b6-de789120ebbb/reference_images/Common_Whitethroat.jpg
+Boulder Chat,Pinarornis plumosus,N/A
+Groundscraper Thrush,Turdus litsitsirupa,https://birda.twic.pics/species/58075406-7c26-4e63-8014-34b9e9871d89/reference_images/Groundscraper_Thrush.jpg
+Karoo Thrush,Turdus smithi,https://birda.twic.pics/species/f49b020c-8b24-4057-b69e-b6ce781ac513/reference_images/Karoo_Thrush_-_Adult.jpg
+Kurrichane Thrush,Turdus libonyana,https://birda.twic.pics/species/4bbf342e-e657-49f5-bab5-f581584449a6/reference_images/Kurrichane_Thrush.jpg
+Olive Thrush,Turdus olivaceus,https://birda.twic.pics/species/ebb58195-2fc5-4c8d-b656-40b9d8d1a8b6/reference_images/Olive_Thrush-_New.jpg
+Orange Ground Thrush,Geokichla gurneyi,N/A
+Spotted Ground Thrush,Geokichla guttata,N/A
+Ashy Tit,Melaniparus cinerascens,https://birda.twic.pics/species/76add0d7-7f55-4993-8b27-009f1c9f02eb/reference_images/Ashy_Tit.jpg
+Carp's Tit,Melaniparus carpi,N/A
+Cinnamon-breasted Tit,Melaniparus pallidiventris,N/A
+Grey Tit,Melaniparus afer,https://birda.twic.pics/species/fbb96259-2f96-4a76-81fe-dc10528ca52d/reference_images/Grey_Tit.jpg
+Miombo Tit,Melaniparus griseiventris,N/A
+Rufous-bellied Tit,Melaniparus rufiventris,https://birda.twic.pics/species/a3bb9e0e-13ee-490d-9f41-2ee95f0209be/reference_images/Rufous-bellied_Tit.jpg
+Rufous-bellied Tit,Melaniparus rufiventris,https://birda.twic.pics/species/a3bb9e0e-13ee-490d-9f41-2ee95f0209be/reference_images/Rufous-bellied_Tit.jpg
+Southern Black Tit,Melaniparus niger,https://birda.twic.pics/species/2afe8d98-f853-4bb1-b15a-dd7e5bf2edf4/reference_images/Southern_Black-tit.jpg
+African Spotted Creeper,Salpornis salvadori,N/A
+Narina Trogon,Apaloderma narina,https://birda.twic.pics/species/801873f5-956e-483b-bd36-34172b2dd28a/reference_images/Narina_Trogon.jpg
+Red-billed Tropicbird,Phaethon aethereus,https://birda.twic.pics/species/25b74bc3-dbe4-473f-b1a8-3dac66c295e0/reference_images/Red-billed_Tropicbird-_Flying.jpg
+Red-tailed Tropicbird,Phaethon rubricauda,https://birda.twic.pics/species/209f6691-ca2f-48dd-9806-475cc1a1196d/reference_images/Red-tailed_Tropicbird.jpg
+White-tailed Tropicbird,Phaethon lepturus,https://birda.twic.pics/species/84febc98-cf86-4940-a900-957c37b9b403/reference_images/White-tailed_Tropicbird-_Flying.jpg
+Grey Go-away-bird,Crinifer concolor,https://birda.twic.pics/species/fab8e659-bbd3-4619-a77d-d2296b0d48af/reference_images/Grey_Go-away-bird_-_Adult.jpg
+Knysna Turaco,Tauraco corythaix,https://birda.twic.pics/species/5243d443-8898-4507-a036-953a8da2f39e/reference_images/Knysna_Turaco.jpg
+Livingstone's Turaco,Tauraco livingstonii,https://birda.twic.pics/species/3445dc44-fe6b-4db4-8e0a-2c4572426d64/reference_images/Livingstones_Turaco.jpg
+Purple-crested Turaco,Gallirex porphyreolophus,https://birda.twic.pics/species/d869ffbb-0af3-4d4a-845f-0b52d1eb7f74/reference_images/Purple-crested_Turaco.jpg
+Ross's Turaco,Tauraco rossae,https://birda.twic.pics/species/08fda607-7bbe-413c-aacf-a7d6b9faabf3/reference_images/Rosss_Turaco-_New.jpg
+Schalow's Turaco,Tauraco schalowi,N/A
+Black-and-white Shrike-flycatcher,Bias musicus,N/A
+Chestnut-fronted Helmetshrike,Prionops scopifrons,N/A
+Retz's Helmetshrike,Prionops retzii,https://birda.twic.pics/species/c94c6d88-6af0-4319-8261-400b8436b6d8/reference_images/Retzs_Helmetshrike.jpg
+White-crested Helmetshrike,Prionops plumatus,https://birda.twic.pics/species/8400b50b-dcfa-457b-9dac-67847d0f7efc/reference_images/White-crested_Helmetshrike.jpg
+African Pied Wagtail,Motacilla aguimp,https://birda.twic.pics/species/6b1c615c-d604-484a-bf82-7da1b8d24a61/reference_images/African_Pied_Wagtail.jpg
+African Pipit,Anthus cinnamomeus,https://birda.twic.pics/species/43d10f29-e145-4ad6-b029-652aaf8ab8f6/reference_images/African_Pipit_-_Adult.jpg
+African Rock Pipit,Anthus crenatus,https://birda.twic.pics/species/b4da93f0-11fd-4780-872f-1799a2efb024/reference_images/African_Rock_Pipit.jpg
+Buffy Pipit,Anthus vaalensis,https://birda.twic.pics/species/5f31246a-8295-4800-9b41-382bc89bd1e4/reference_images/Buffy_Pipit.jpg
+Bushveld Pipit,Anthus caffer,N/A
+Cape Longclaw,Macronyx capensis,https://birda.twic.pics/species/d803e2bd-364b-4402-97b8-513b309dc735/reference_images/Cape_Longclaw.jpg
+Cape Wagtail,Motacilla capensis,https://birda.twic.pics/species/5152f5ff-ac51-47e2-addc-c897c3389a23/reference_images/Cape_Wagtail_-_Adult.jpg
+Citrine Wagtail,Motacilla citreola,https://birda.twic.pics/species/231989ec-68d7-4fa0-b033-ef0f805745cb/reference_images/Citrine_Wagtail_-_Male.jpg
+Golden Pipit,Tmetothylacus tenellus,N/A
+Grey Wagtail,Motacilla cinerea,https://birda.twic.pics/species/bfd2a7a7-00c8-4b94-be80-4f5fec9e483e/reference_images/Grey_Wagtail_-_Male.jpg
+Mountain Pipit,Anthus hoeschi,N/A
+Mountain Wagtail,Motacilla clara,https://birda.twic.pics/species/642395f5-4e29-40bd-9cb0-df3ab69daa38/reference_images/Mountain_Wagtail.jpg
+Nicholson's Pipit,Anthus nicholsoni,https://birda.twic.pics/species/8c7ea098-9520-45ba-bca7-543abdc154d7/reference_images/Nicholsons_Pipit.jpg
+Pied Wagtail,Motacilla alba,https://birda.twic.pics/species/9f4a0470-4d42-4223-9055-eba676805f46/reference_images/Pied_Wagtail.jpg
+Plain-backed Pipit,Anthus leucophrys,N/A
+Red-throated Pipit,Anthus cervinus,https://birda.twic.pics/species/798ee1f2-19d8-4392-87de-eed57eb9a630/reference_images/Red-throated_Pipit.jpg
+Rosy-throated Longclaw,Macronyx ameliae,N/A
+Short-tailed Pipit,Anthus brachyurus,N/A
+Striped Pipit,Anthus lineiventris,N/A
+Tree Pipit,Anthus trivialis,https://birda.twic.pics/species/8cc5cf1e-cf61-4bd4-93fd-2be9fab7696e/reference_images/Tree_Pipit.jpg
+Wood Pipit,Anthus nyassae,N/A
+Yellow-breasted Pipit,Anthus chloris,N/A
+Yellow-throated Longclaw,Macronyx croceus,https://birda.twic.pics/species/00983a2a-cb24-4be2-a210-02f7fc58f7b8/reference_images/Yellow-throated_Longclaw.jpg
+Yellow Wagtail,Motacilla flava,https://birda.twic.pics/species/53532076-35d2-4ace-a137-922c40b2d651/reference_images/Western_Yellow_Wagtail_-_flavissim.jpg
+Black-throated Wattle-eye,Platysteira peltata,N/A
+Cape Batis,Batis capensis,https://birda.twic.pics/species/c655e9bb-528f-4222-ac5e-bb083e826455/reference_images/Cape_Batis-_Male.jpg
+Chinspot Batis,Batis molitor,https://birda.twic.pics/species/fa009358-4506-4560-9c20-b4542f1775a8/reference_images/Chinspot_Batis-_Male.jpg
+Pale Batis,Batis soror,N/A
+Pririt Batis,Batis pririt,https://birda.twic.pics/species/f39a2e08-c0a0-4756-9436-0bca137e99fe/reference_images/Pririt_Batis-_Female.jpg
+White-tailed Shrike,Lanioturdus torquatus,https://birda.twic.pics/species/89345595-1957-45e1-bbb5-810ab62f9c07/reference_images/White-tailed_Shrike.jpg
+Woodward's Batis,Batis fratrum,N/A
+African Firefinch,Lagonosticta rubricata,N/A
+Angolan Waxbill,Coccopygia bocagei,N/A
+Black-faced Waxbill,Brunhilda erythronotos,https://birda.twic.pics/species/14576eaa-50fd-40f8-bebb-a68424646bcd/reference_images/Black-faced_Waxbill.jpg
+Blue Waxbill,Uraeginthus angolensis,https://birda.twic.pics/species/586824b1-764a-4d38-ac21-043cad8977b4/reference_images/Blue_Waxbill.jpg
+Bronze Mannikin,Spermestes cucullata,https://birda.twic.pics/species/49671b6f-cddd-4c3c-93bf-951d0b7163e7/reference_images/Bronze_Mannikin_-_Adult.jpg
+Brown Firefinch,Lagonosticta nitidula,N/A
+Cinderella Waxbill,Glaucestrilda thomensis,N/A
+Common Waxbill,Estrilda astrild,https://birda.twic.pics/species/699b417f-055b-44ac-a8dc-6e9423df3646/reference_images/Common_Waxbill_-_Adult.jpg
+Cut-throat Finch,Amadina fasciata,https://birda.twic.pics/species/fed6bf2b-6c0a-4f93-97a3-0d596512f973/reference_images/Cut-throat_Finch-_Male.jpg
+Green Twinspot,Mandingoa nitidula,N/A
+Green-winged Pytilia,Pytilia melba,https://birda.twic.pics/species/3caccbad-86a4-47f2-8bfe-37136db67d86/reference_images/Green-winged_Pytilia-_Male.jpg
+Grey Waxbill,Glaucestrilda perreini,https://birda.twic.pics/species/1ade53dd-60c6-4587-ac1f-251aa8a57010/reference_images/Grey_Waxbill.jpg
+Jameson's Firefinch,Lagonosticta rhodopareia,https://birda.twic.pics/species/3ffb07cf-f2a9-47c3-9ad1-2a462725bdc2/reference_images/Jamesons_Firefinch-_Male.jpg
+Lesser Seedcracker,Pyrenestes minor,N/A
+Locust Finch,Paludipasser locustella,N/A
+Magpie Mannikin,Spermestes fringilloides,N/A
+Orange-breasted Waxbill,Amandava subflava,https://birda.twic.pics/species/9f4584af-bb67-4cbe-8c3c-6bb58f53db0a/reference_images/Orange-breasted_Waxbill-_Male.jpg
+Orange-winged Pytilia,Pytilia afra,N/A
+Pink-throated Twinspot,Hypargos margaritatus,https://birda.twic.pics/species/df8b9c45-3289-4c6d-bb13-eb55a5ad884d/reference_images/Pink-throated_Twinspot-_Male.jpg
+Quailfinch,Ortygospiza atricollis,https://birda.twic.pics/species/0a476792-0175-4372-b804-de4c4adc0ae8/reference_images/Quailfinch-_Male.jpg
+Red-backed Mannikin,Spermestes nigriceps,N/A
+Red-billed Firefinch,Lagonosticta senegala,https://birda.twic.pics/species/3b25193d-a22b-4857-b3f8-206de74338c7/reference_images/Red-billed_Firefinch-_Male.jpg
+Red-faced Crimsonwing,Cryptospiza reichenovii,N/A
+Red-headed Finch,Amadina erythrocephala,https://birda.twic.pics/species/24d6572c-74cb-4366-a0c0-894ada630c52/reference_images/Red-headed_Finch-_Male.jpg
+Red-throated Twinspot,Hypargos niveoguttatus,N/A
+Swee Waxbill,Coccopygia melanotis,https://birda.twic.pics/species/344f16ce-4191-4294-8fe9-b0ce7271be03/reference_images/Swee_Waxbill-_Male.jpg
+Violet-eared Waxbill,Granatina granatina,https://birda.twic.pics/species/8d41a344-5c8b-4d7b-986d-2a4b97242a77/reference_images/Violet-eared_Waxbill-_Male.jpg
+Yellow-bellied Waxbill,Coccopygia quartinia,N/A
+Black-winged Red Bishop,Euplectes hordeaceus,https://birda.twic.pics/species/02ed1631-702c-4ea9-a558-4e6317d82486/reference_images/Black-winged_Bishop-_Breeding-_Mal.jpg
+Cape Weaver,Ploceus capensis,https://birda.twic.pics/species/ee9c5e72-497e-489f-9117-6526da1dde39/reference_images/Cape_Weaver-_Male.jpg
+Cardinal Quelea,Quelea cardinalis,N/A
+Chestnut Weaver,Ploceus rubiginosus,N/A
+Dark-backed Weaver,Ploceus bicolor,N/A
+Eastern Golden Weaver,Ploceus subaureus,https://birda.twic.pics/species/d742a467-ff1d-4e12-b074-be4e03506e57/reference_images/Eastern_Golden_Weaver-_Male_.jpg
+Fan-tailed Widowbird,Euplectes axillaris,https://birda.twic.pics/species/4c9e8934-9ac6-4bde-810f-3adb8025f592/reference_images/Fan-tailed_Widowbird-_Male.jpg
+Holub's Golden Weaver,Ploceus xanthops,https://birda.twic.pics/species/e02ad697-9672-4bbc-9800-fa4c3712b1dc/reference_images/Holubs_Golden_Warbler-_Male.jpg
+Lesser Masked Weaver,Ploceus intermedius,https://birda.twic.pics/species/e51b715d-0fac-4691-9798-9eb6e3e1f46e/reference_images/Lesser_Masked_Weaver-_Male.jpg
+Long-tailed Widowbird,Euplectes progne,https://birda.twic.pics/species/55306401-2b5e-4648-b6b9-820c1ed8b2df/reference_images/Long-tailed_Widowbird-_Male-_Breed.jpg
+Olive-headed Weaver,Ploceus olivaceiceps,N/A
+Red-billed Buffalo Weaver,Bubalornis niger,https://birda.twic.pics/species/77e14346-986c-4b81-a167-64ac7277fb5f/reference_images/Red-billed_Buffalo_Weaver-_Male.jpg
+Red-billed Quelea,Quelea quelea,https://birda.twic.pics/species/fa7cd4ed-19e5-4f51-85e7-698525037736/reference_images/Red-billed_Quelea_-_Adult_Male_-_R.jpg
+Red-collared Widowbird,Euplectes ardens,https://birda.twic.pics/species/9a0bc0cc-9f3c-4d91-a458-61c46ccb7d1e/reference_images/Red-collared_Widowbird-_Male.jpg
+Red-headed Quelea,Quelea erythrops,N/A
+Red-headed Weaver,Anaplectes rubriceps,https://birda.twic.pics/species/28b4bf42-ab45-47d0-8afb-a8b9730d6907/reference_images/Red-headed_Weaver-_Male.jpg
+Scaly-feathered Weaver,Sporopipes squamifrons,https://birda.twic.pics/species/ad7b2ddf-711b-4999-9c34-a0f8a2e2ef71/reference_images/Scaley-feathered_Weaver.jpg
+Sociable Weaver,Philetairus socius,https://birda.twic.pics/species/b7fe783c-394f-433b-9bd5-4cb1758277ff/reference_images/Sociable_Weaver.jpg
+Southern Brown-throated Weaver,Ploceus xanthopterus,N/A
+Southern Masked Weaver,Ploceus velatus,https://birda.twic.pics/species/e167a5bd-42d4-427a-9487-cd2a3346d302/reference_images/Southern_Masked_Weaver_-_Adult_Mal.jpg
+Southern Red Bishop,Euplectes orix,https://birda.twic.pics/species/b90b93a4-daf0-4896-87ab-5192a6b43df6/reference_images/Southern_Red_Bishop_-_Adult_Male.jpg
+Spectacled Weaver,Ploceus ocularis,https://birda.twic.pics/species/2c857498-b2dc-4c9c-903f-19a134aebbb8/reference_images/Spectacled_Weaver_-_Adult.jpg
+Thick-billed Weaver,Amblyospiza albifrons,https://birda.twic.pics/species/4f315460-fb50-4a2c-bbaf-ecb79e4b5e60/reference_images/Thick-billed_Weaver_-_Adult.jpg
+Village Weaver,Ploceus cucullatus,https://birda.twic.pics/species/f9f4be51-95b2-4471-9dc8-e109ab79837b/reference_images/Village_Weaver-_Male-_New.jpg
+White-browed Sparrow-Weaver,Plocepasser mahali,https://birda.twic.pics/species/b49c9d18-b042-4b00-91a5-4aee6cbc66d7/reference_images/White-browed_Sparrow-weaver-_Femal.jpg
+White-winged Widowbird,Euplectes albonotatus,https://birda.twic.pics/species/bb20bc3c-855a-4e31-8917-661da2dd1bc4/reference_images/White-winged_Widowbird-_Male.jpg
+Yellow Bishop,Euplectes capensis,https://birda.twic.pics/species/b47d78e6-d4cb-483c-a9fc-99393667bdcb/reference_images/Yellow_Bishop-_Male.jpg
+Yellow-crowned Bishop,Euplectes afer,https://birda.twic.pics/species/bf955195-6a5d-471c-a316-92b51d8c2d9f/reference_images/Yellow-crowned_Bishop-_Male.jpg
+Yellow-mantled Widowbird,Euplectes macroura,N/A
+Cape White-eye,Zosterops virens,https://birda.twic.pics/species/48d1fcb6-6f3c-47b5-97d4-5043f5cb0756/reference_images/Cape_White-eye.jpg
+Northern Yellow White-eye,Zosterops senegalensis,N/A
+Orange River White-eye,Zosterops pallidus,https://birda.twic.pics/species/440ca57e-98ec-4f27-9d00-0225655ddc8a/reference_images/Orange_River_White-eye.jpg
+Southern Yellow White-eye,Zosterops anderssoni,https://birda.twic.pics/species/82abc7b9-e582-42e2-ba6c-f005d20fa7e0/reference_images/Southern_Yellow_White-eye_.jpg
+Common Scimitarbill,Rhinopomastus cyanomelas,https://birda.twic.pics/species/2940b9d8-647b-4819-b4d4-b5c990f15d2a/reference_images/Common_Scimitarbill.jpg
+Green Wood Hoopoe,Phoeniculus purpureus,https://birda.twic.pics/species/34b6bdb7-8b38-4459-b3b1-88c63e16b8e5/reference_images/Green_Wood_Hoopoe.jpg
+Violet Wood Hoopoe,Phoeniculus damarensis,N/A
+Bearded Woodpecker,Chloropicus namaquus,https://birda.twic.pics/species/4701d8a7-8ce1-4a97-8805-9f2b21d4ea41/reference_images/Bearded_Woodpecker-_Male.jpg
+Bennett's Woodpecker,Campethera bennettii,https://birda.twic.pics/species/67813663-ae39-4200-ae3f-d3e9b6969cca/reference_images/Bennetts_Woodpecker-_Male.jpg
+Cardinal Woodpecker,Dendropicos fuscescens,https://birda.twic.pics/species/a6c6d27a-d3a8-4543-a784-c943fe3127c4/reference_images/Cardinal_Woodpecker-_Male.jpg
+Golden-tailed Woodpecker,Campethera abingoni,https://birda.twic.pics/species/6536f91e-acc1-426b-bdde-919bb84cf424/reference_images/Golden-tailed_Woodpecker-_Female.jpg
+Ground Woodpecker,Geocolaptes olivaceus,https://birda.twic.pics/species/468217ff-7e8a-4a1f-8f0c-825b96555c26/reference_images/Ground_Woodpecker.jpg
+Knysna Woodpecker,Campethera notata,N/A
+Little Spotted Woodpecker,Campethera cailliautii,N/A
+Olive Woodpecker,Dendropicos griseocephalus,https://birda.twic.pics/species/fe103628-67ff-49e4-94f1-da4fbdf2c829/reference_images/Olive_Woodpecker-_Male.jpg
+Red-throated Wryneck,Jynx ruficollis,https://birda.twic.pics/species/8f928302-b1e6-4205-9a66-5ef43a22b64e/reference_images/Red-throated_Wryneck.jpg
+Speckle-throated Woodpecker,Campethera scriptoricauda,N/A
+Livingstone's Flycatcher,Erythrocercus livingstonei,N/A

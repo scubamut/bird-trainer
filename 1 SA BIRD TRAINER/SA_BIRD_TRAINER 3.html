@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SA Bird Pro Trainer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+        body { font-family: 'Inter', sans-serif; }
+        .perspective-1000 { perspective: 1000px; }
+        .card-container { transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1); transform-style: preserve-3d; }
+        .card-flipped { transform: rotateY(180deg); }
+        .backface-hidden { backface-visibility: hidden; }
+        .rotate-y-180 { transform: rotateY(180deg); }
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #10b981; border-radius: 10px; }
+        
+        .setup-container {
+            min-height: 70vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 min-h-screen flex flex-col text-slate-900">
+
+    <!-- Start Overlay (Database Check) -->
+    <div id="start-overlay" class="fixed inset-0 bg-emerald-950 z-[200] flex items-center justify-center p-6 text-center">
+        <div class="max-w-md w-full bg-white rounded-3xl p-8 shadow-2xl">
+            <div class="bg-emerald-100 w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-6 text-emerald-600">
+                <i class="fas fa-database text-4xl"></i>
+            </div>
+            <h1 class="text-3xl font-black text-slate-800 mb-2">SA Bird Pro</h1>
+            <p class="text-slate-500 mb-8 leading-relaxed">Initialize your database to begin training.</p>
+            <button onclick="startApp()" class="w-full py-4 bg-emerald-600 text-white font-black rounded-2xl hover:bg-emerald-700 shadow-lg transition transform hover:scale-105">
+                Start Application <i class="fas fa-bolt ml-2"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="bg-white border-b border-slate-200 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <div class="bg-emerald-600 p-2 rounded-xl text-white">
+                    <i class="fas fa-feather-pointed text-xl"></i>
+                </div>
+                <div>
+                    <h1 class="font-extrabold text-lg leading-tight text-slate-800">SA Bird Pro</h1>
+                    <p class="text-[10px] uppercase font-bold tracking-widest text-emerald-600">Advanced Trainer</p>
+                </div>
+            </div>
+            <nav class="flex gap-2 p-1 bg-slate-100 rounded-xl">
+                <button onclick="switchView('quiz')" id="nav-quiz" class="px-5 py-2 rounded-lg text-sm font-bold transition bg-white text-emerald-700 shadow-sm">Training</button>
+                <button onclick="switchView('database')" id="nav-database" class="px-5 py-2 rounded-lg text-sm font-bold transition text-slate-500 hover:bg-white/50">Database</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="flex-grow max-w-7xl mx-auto w-full p-4 md:p-8">
+        
+        <!-- SETUP VIEW (First Screen) -->
+        <div id="view-setup" class="setup-container animate-in fade-in duration-700">
+            <div class="bg-white p-10 rounded-3xl border border-slate-200 shadow-xl max-w-2xl w-full text-center">
+                <h2 class="text-2xl font-black text-slate-800 mb-2">Configure Training Session</h2>
+                <p class="text-slate-500 mb-8 font-medium">Select Multiple (or just One) Families, Sizes & Habitats</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-left mb-10">
+                    <div>
+                        <label class="block text-[11px] font-black uppercase text-slate-400 mb-2 tracking-widest">Families</label>
+                        <select id="filter-family" multiple class="w-full h-48 text-xs border border-slate-200 rounded-xl p-3 focus:ring-2 focus:ring-emerald-500 outline-none">
+                            <option value="All" selected>All Families</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="block text-[11px] font-black uppercase text-slate-400 mb-2 tracking-widest">Sizes</label>
+                        <select id="filter-size" multiple class="w-full h-48 text-xs border border-slate-200 rounded-xl p-3 focus:ring-2 focus:ring-emerald-500 outline-none">
+                            <option value="None" selected>None</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="block text-[11px] font-black uppercase text-slate-400 mb-2 tracking-widest">Habitats</label>
+                        <select id="filter-habitat" multiple class="w-full h-48 text-xs border border-slate-200 rounded-xl p-3 focus:ring-2 focus:ring-emerald-500 outline-none">
+                            <option value="None" selected>None</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="flex flex-col md:flex-row gap-4 justify-center items-center">
+                    <div class="flex bg-slate-100 p-1 rounded-2xl w-full md:w-auto">
+                        <button onclick="setQuizMode('visual')" id="btn-mode-visual" class="px-6 py-3 rounded-xl text-xs font-black uppercase transition bg-white text-emerald-700 shadow-sm">Visual ID</button>
+                        <button onclick="setQuizMode('audio')" id="btn-mode-audio" class="px-6 py-3 rounded-xl text-xs font-black uppercase transition text-slate-500">Audio ID</button>
+                    </div>
+                    <button onclick="launchQuiz()" class="w-full md:w-64 py-4 bg-emerald-600 text-white font-black rounded-2xl hover:bg-emerald-700 shadow-lg shadow-emerald-100 transition transform hover:scale-105 uppercase tracking-widest text-sm">
+                        Update Session <i class="fas fa-play ml-2"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- QUIZ VIEW (Hidden until Update Session) -->
+        <div id="view-quiz" class="hidden flex flex-col items-center gap-8 animate-in fade-in duration-500">
+            
+            <!-- Large Display Container -->
+            <div class="w-full max-w-4xl flex flex-col items-center">
+                <div class="w-full perspective-1000 h-[680px] relative">
+                    <div id="flashcard" class="card-container relative w-full h-full">
+                        
+                        <!-- FRONT -->
+                        <div class="absolute w-full h-full backface-hidden bg-white rounded-[2rem] shadow-2xl border border-slate-200 flex flex-col overflow-hidden">
+                            <div class="w-full h-3/5 bg-slate-100 relative flex items-center justify-center p-4">
+                                <!-- Visual Image -->
+                                <img id="img-quiz" src="" class="w-full h-full object-contain" alt="Mystery Bird">
+                                
+                                <!-- Audio Only Visualizer -->
+                                <div id="audio-visualizer" class="hidden flex flex-col items-center gap-6">
+                                    <div class="w-32 h-32 bg-emerald-500 text-white rounded-full flex items-center justify-center shadow-2xl animate-bounce">
+                                        <i class="fas fa-volume-high text-5xl"></i>
+                                    </div>
+                                    <p class="text-sm font-black uppercase tracking-[0.3em] text-emerald-600">Listen Carefully</p>
+                                </div>
+                            </div>
+
+                            <div class="flex-grow p-10 flex flex-col items-center">
+                                <div class="text-center mb-6">
+                                    <h2 id="quiz-question-text" class="text-2xl font-black text-slate-800 mb-2 uppercase tracking-tight">What is this bird?</h2>
+                                    <!-- Play Arrow Toggle -->
+                                    <button onclick="toggleAudio()" class="inline-flex items-center gap-3 px-6 py-2 bg-emerald-50 text-emerald-600 rounded-full hover:bg-emerald-100 transition group">
+                                        <i class="fas fa-play text-sm group-active:scale-90" id="quiz-audio-icon"></i>
+                                        <span class="text-xs font-black uppercase tracking-widest" id="audio-label">Listen to Call</span>
+                                    </button>
+                                </div>
+
+                                <div id="options-grid" class="grid grid-cols-1 md:grid-cols-2 gap-3 w-full max-w-2xl">
+                                    <!-- Options go here -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- BACK -->
+                        <div class="absolute w-full h-full backface-hidden rotate-y-180 bg-white rounded-[2rem] shadow-2xl border border-emerald-100 flex flex-col overflow-hidden">
+                            <div class="w-full h-1/3 bg-slate-50 border-b border-slate-100 flex items-center justify-center p-6">
+                                <img id="img-answer" src="" class="max-w-full max-h-full object-contain" alt="Answer">
+                            </div>
+                            
+                            <div class="flex-grow p-10 flex flex-col">
+                                <div class="text-center mb-8">
+                                    <h2 id="txt-name" class="text-4xl font-black text-slate-900 leading-tight">Bird Name</h2>
+                                    <div class="flex justify-center gap-4 mt-2">
+                                        <p id="txt-afrikaans" class="text-emerald-600 font-extrabold text-lg">Afrikaans</p>
+                                        <span class="text-slate-200">|</span>
+                                        <p id="txt-scientific" class="text-slate-400 italic text-lg font-medium">Scientific</p>
+                                    </div>
+                                </div>
+
+                                <div class="grid grid-cols-3 gap-4 mb-8">
+                                    <div class="bg-slate-50 p-4 rounded-2xl border border-slate-100 text-center">
+                                        <p class="text-[10px] font-black uppercase text-slate-400 mb-1">Family</p>
+                                        <p id="val-family" class="text-sm font-bold text-slate-700">-</p>
+                                    </div>
+                                    <div class="bg-slate-50 p-4 rounded-2xl border border-slate-100 text-center">
+                                        <p class="text-[10px] font-black uppercase text-slate-400 mb-1">Size</p>
+                                        <p id="val-size" class="text-sm font-bold text-slate-700">-</p>
+                                    </div>
+                                    <div class="bg-slate-50 p-4 rounded-2xl border border-slate-100 text-center">
+                                        <p class="text-[10px] font-black uppercase text-slate-400 mb-1">Habitat</p>
+                                        <p id="val-habitat" class="text-sm font-bold text-slate-700 truncate">-</p>
+                                    </div>
+                                </div>
+
+                                <div class="bg-amber-50 rounded-3xl p-6 border border-amber-100 flex-grow">
+                                    <h3 class="text-xs font-black uppercase text-amber-700 mb-3 tracking-widest flex items-center gap-2">
+                                        <i class="fas fa-magnifying-glass"></i> Diagnostic Comparison
+                                    </h3>
+                                    <p id="txt-comparison" class="text-sm text-slate-700 leading-relaxed italic">Comparison notes...</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Footer Controls (Aligned with Stats) -->
+                <div class="w-full mt-10 flex flex-col md:flex-row justify-between items-center gap-6">
+                    <div class="flex items-center gap-10 bg-white px-8 py-4 rounded-3xl shadow-lg border border-slate-100">
+                        <div class="text-center">
+                            <p class="text-[10px] font-black uppercase text-slate-400 mb-1">Streak</p>
+                            <p id="stat-streak" class="text-3xl font-black text-orange-500">0</p>
+                        </div>
+                        <div class="w-px h-10 bg-slate-100"></div>
+                        <div class="text-center">
+                            <p class="text-[10px] font-black uppercase text-slate-400 mb-1">Accuracy</p>
+                            <p id="stat-accuracy" class="text-3xl font-black text-emerald-600">0%</p>
+                        </div>
+                    </div>
+
+                    <div class="flex gap-4">
+                        <button onclick="returnToSetup()" class="px-8 py-5 bg-slate-200 text-slate-700 font-black rounded-3xl hover:bg-slate-300 transition uppercase tracking-widest text-xs">
+                            <i class="fas fa-sliders mr-2"></i> Change Filters
+                        </button>
+                        <button onclick="nextCard()" class="px-10 py-5 bg-slate-800 text-white font-black rounded-3xl hover:bg-slate-700 transition uppercase tracking-widest text-xs shadow-xl flex items-center gap-3">
+                            Next Random Bird <i class="fas fa-arrow-right"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- DATABASE VIEW -->
+        <div id="view-database" class="hidden animate-in slide-in-from-bottom-4 duration-500">
+            <div class="flex justify-between items-center mb-8">
+                <h2 class="text-3xl font-black text-slate-800">Data Management</h2>
+                <button onclick="toggleModal('modal-bulk')" class="px-6 py-3 bg-slate-800 text-white font-bold rounded-2xl text-sm hover:bg-slate-700 transition flex items-center gap-2">
+                    <i class="fas fa-file-csv"></i> Overwrite with CSV/JSON
+                </button>
+            </div>
+            <div class="bg-white rounded-[2rem] shadow-sm border border-slate-200 overflow-hidden overflow-x-auto">
+                <table class="w-full text-left text-sm">
+                    <thead class="bg-slate-50 border-b border-slate-100">
+                        <tr>
+                            <th class="px-8 py-5 font-black text-slate-400 uppercase text-[10px]">Species</th>
+                            <th class="px-8 py-5 font-black text-slate-400 uppercase text-[10px]">Scientific</th>
+                            <th class="px-8 py-5 font-black text-slate-400 uppercase text-[10px]">Family</th>
+                            <th class="px-8 py-5 font-black text-slate-400 uppercase text-[10px] text-right">Delete</th>
+                        </tr>
+                    </thead>
+                    <tbody id="db-list" class="divide-y divide-slate-50"></tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <!-- MODAL -->
+    <div id="modal-bulk" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm z-[100] hidden items-center justify-center p-4">
+        <div class="bg-white w-full max-w-3xl rounded-[2.5rem] p-10 shadow-2xl scale-in">
+            <h3 class="text-2xl font-black mb-4">Bulk Data Import</h3>
+            <p class="text-sm text-slate-500 mb-6">Paste your bird data here. Headers must include: <b>common_name, scientific_name, afrikaans_name, image, audio, family, size, habitat, colors</b></p>
+            <textarea id="bulk-input" class="w-full h-80 p-6 font-mono text-xs bg-slate-50 border border-slate-200 rounded-3xl outline-none focus:ring-4 focus:ring-emerald-500/10 mb-8" placeholder="Paste data..."></textarea>
+            <div class="flex gap-4">
+                <button onclick="importData()" class="flex-1 py-5 bg-emerald-600 text-white font-black rounded-3xl hover:bg-emerald-700 transition">Apply Database Overwrite</button>
+                <button onclick="toggleModal('modal-bulk')" class="px-10 py-5 bg-slate-100 text-slate-500 font-black rounded-3xl hover:bg-slate-200 transition">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <audio id="audio-player" preload="auto"></audio>
+
+    <script>
+        let birdDatabase = [];
+        let currentBird = null;
+        let isFlipped = false;
+        let stats = { correct: 0, total: 0, streak: 0 };
+        let appStarted = false;
+        let quizMode = 'visual';
+
+        const player = document.getElementById('audio-player');
+        const card = document.getElementById('flashcard');
+        const audioIcon = document.getElementById('quiz-audio-icon');
+        const audioLabel = document.getElementById('audio-label');
+
+        window.onload = () => {
+            loadFromStorage();
+            refreshFilterLists();
+            renderDatabase();
+        };
+
+        function startApp() {
+            appStarted = true;
+            document.getElementById('start-overlay').classList.add('hidden');
+        }
+
+        function returnToSetup() {
+            document.getElementById('view-quiz').classList.add('hidden');
+            document.getElementById('view-setup').classList.remove('hidden');
+            pauseAudio();
+        }
+
+        function launchQuiz() {
+            document.getElementById('view-setup').classList.add('hidden');
+            document.getElementById('view-quiz').classList.remove('hidden');
+            nextCard();
+        }
+
+        function setQuizMode(mode) {
+            quizMode = mode;
+            document.getElementById('btn-mode-visual').className = mode === 'visual' ? 'px-6 py-3 rounded-xl text-xs font-black uppercase transition bg-white text-emerald-700 shadow-sm' : 'px-6 py-3 rounded-xl text-xs font-black uppercase transition text-slate-500';
+            document.getElementById('btn-mode-audio').className = mode === 'audio' ? 'px-6 py-3 rounded-xl text-xs font-black uppercase transition bg-white text-emerald-700 shadow-sm' : 'px-6 py-3 rounded-xl text-xs font-black uppercase transition text-slate-500';
+        }
+
+        function refreshFilterLists() {
+            const families = ['All', ...new Set(birdDatabase.map(b => b.family))].filter(f => f).sort();
+            const sizes = ['None', ...new Set(birdDatabase.map(b => b.size))].filter(s => s).sort();
+            const habitats = ['None', ...new Set(birdDatabase.map(b => b.habitat))].filter(h => h).sort();
+
+            populateDropdown('filter-family', families);
+            populateDropdown('filter-size', sizes);
+            populateDropdown('filter-habitat', habitats);
+        }
+
+        function populateDropdown(id, items) {
+            const select = document.getElementById(id);
+            select.innerHTML = '';
+            items.forEach(item => {
+                const opt = document.createElement('option');
+                opt.value = item;
+                opt.textContent = item;
+                select.appendChild(opt);
+            });
+            if(select.options.length > 0) select.options[0].selected = true;
+        }
+
+        function getSimilarBirds(target, pool, count = 4) {
+            return pool
+                .filter(b => b.common_name !== target.common_name)
+                .map(bird => {
+                    let score = 0;
+                    if (bird.family === target.family) score += 10;
+                    if (bird.habitat === target.habitat) score += 5;
+                    if (bird.size === target.size) score += 3;
+                    return { bird, score };
+                })
+                .sort((a, b) => b.score - a.score || Math.random() - 0.5)
+                .slice(0, count)
+                .map(item => item.bird);
+        }
+
+        function generateComparison(correct, distractor) {
+            if (!distractor) return "A unique South African species.";
+            return `Unlike the <strong>${distractor.common_name}</strong>, which is typically found in ${distractor.habitat}, this bird is a ${correct.size} species preferring ${correct.habitat}. Identify it by the ${correct.colors} markings.`;
+        }
+
+        function nextCard() {
+            if (birdDatabase.length === 0) return;
+
+            const selectedFamilies = Array.from(document.getElementById('filter-family').selectedOptions).map(o => o.value);
+            const selectedSizes = Array.from(document.getElementById('filter-size').selectedOptions).map(o => o.value);
+            const selectedHabitats = Array.from(document.getElementById('filter-habitat').selectedOptions).map(o => o.value);
+
+            let pool = birdDatabase;
+            if (!selectedFamilies.includes('All')) pool = pool.filter(b => selectedFamilies.includes(b.family));
+            if (!selectedSizes.includes('None')) pool = pool.filter(b => selectedSizes.includes(b.size));
+            if (!selectedHabitats.includes('None')) pool = pool.filter(b => selectedHabitats.includes(b.habitat));
+
+            if (pool.length === 0) {
+                alert("No birds match current filters.");
+                returnToSetup();
+                return;
+            }
+
+            isFlipped = false;
+            card.classList.remove('card-flipped');
+            pauseAudio();
+
+            currentBird = pool[Math.floor(Math.random() * pool.length)];
+            const similar = getSimilarBirds(currentBird, birdDatabase, 4);
+
+            let options = [currentBird, ...similar].sort(() => 0.5 - Math.random());
+
+            // UI Refresh
+            document.getElementById('img-quiz').src = currentBird.image;
+            document.getElementById('img-answer').src = currentBird.image;
+            document.getElementById('txt-name').innerText = currentBird.common_name;
+            document.getElementById('txt-afrikaans').innerText = currentBird.afrikaans_name;
+            document.getElementById('txt-scientific').innerText = currentBird.scientific_name;
+            document.getElementById('val-family').innerText = currentBird.family;
+            document.getElementById('val-size').innerText = currentBird.size;
+            document.getElementById('val-habitat').innerText = currentBird.habitat;
+            document.getElementById('txt-comparison').innerHTML = generateComparison(currentBird, similar[0]);
+            
+            // Mode visibility
+            document.getElementById('img-quiz').classList.toggle('hidden', quizMode === 'audio');
+            document.getElementById('audio-visualizer').classList.toggle('hidden', quizMode === 'visual');
+            document.getElementById('quiz-question-text').innerText = quizMode === 'visual' ? 'What is this bird?' : 'Identify this Call';
+
+            player.src = currentBird.audio || '';
+            player.load();
+
+            const grid = document.getElementById('options-grid');
+            grid.innerHTML = '';
+            options.forEach(bird => {
+                const btn = document.createElement('button');
+                btn.className = "w-full p-4 bg-slate-50 border-2 border-slate-100 rounded-2xl font-black text-slate-600 hover:border-emerald-500 hover:bg-emerald-50 transition text-center text-sm uppercase tracking-tight";
+                btn.innerHTML = bird.common_name;
+                btn.onclick = () => handleChoice(btn, bird.common_name);
+                grid.appendChild(btn);
+            });
+
+            if (quizMode === 'audio' && currentBird.audio) setTimeout(playAudio, 1000);
+        }
+
+        function handleChoice(btn, selectedName) {
+            if (isFlipped) return;
+            const isCorrect = selectedName === currentBird.common_name;
+            stats.total++;
+            if (isCorrect) {
+                btn.classList.add('border-emerald-500', 'bg-emerald-500', 'text-white');
+                stats.correct++; stats.streak++;
+            } else {
+                btn.classList.add('border-rose-500', 'bg-rose-500', 'text-white');
+                stats.streak = 0;
+                document.querySelectorAll('#options-grid button').forEach(b => {
+                    if (b.innerText === currentBird.common_name) b.classList.add('ring-4', 'ring-emerald-500/20', 'border-emerald-600');
+                });
+            }
+            updateStats();
+            setTimeout(() => {
+                isFlipped = true; card.classList.add('card-flipped');
+                if (currentBird.audio) playAudio();
+            }, 800);
+        }
+
+        function toggleAudio() { 
+            if (!player.src || player.src.includes('undefined')) return;
+            if (player.paused) playAudio(); else pauseAudio(false); 
+        }
+
+        function playAudio() { 
+            player.play().then(() => {
+                audioIcon.className = "fas fa-stop text-sm";
+                audioLabel.innerText = "Stop Audio";
+            }).catch(() => {});
+        }
+
+        function pauseAudio(reset = true) { 
+            player.pause(); 
+            if (reset) player.currentTime = 0;
+            audioIcon.className = "fas fa-play text-sm";
+            audioLabel.innerText = "Listen to Call";
+        }
+
+        player.onended = () => pauseAudio(true);
+
+        function switchView(view) {
+            ['view-setup', 'view-quiz', 'view-database'].forEach(v => document.getElementById(v).classList.add('hidden'));
+            document.getElementById(`view-${view === 'quiz' ? (appStarted && currentBird ? 'quiz' : 'setup') : view}`).classList.remove('hidden');
+            
+            document.getElementById('nav-quiz').className = (view === 'quiz') ? 'px-5 py-2 rounded-lg text-sm font-bold transition bg-white text-emerald-700 shadow-sm' : 'px-5 py-2 rounded-lg text-sm font-bold transition text-slate-500 hover:bg-white/50';
+            document.getElementById('nav-database').className = (view === 'database') ? 'px-5 py-2 rounded-lg text-sm font-bold transition bg-white text-emerald-700 shadow-sm' : 'px-5 py-2 rounded-lg text-sm font-bold transition text-slate-500 hover:bg-white/50';
+            
+            if(view === 'database') renderDatabase();
+            pauseAudio();
+        }
+
+        function parseCSV(text) {
+            const lines = text.trim().split('\n');
+            if (lines.length < 2) return [];
+            const splitLine = (line) => {
+                const res = []; let cur = ''; let q = false;
+                for (let i = 0; i < line.length; i++) {
+                    if (line[i] === '"') q = !q;
+                    else if (line[i] === ',' && !q) { res.push(cur.trim()); cur = ''; }
+                    else cur += line[i];
+                }
+                res.push(cur.trim()); return res;
+            };
+            const headers = splitLine(lines[0]);
+            return lines.slice(1).map(line => {
+                const vals = splitLine(line);
+                let o = {}; headers.forEach((h, i) => o[h] = vals[i] || "");
+                return o;
+            });
+        }
+
+        function importData() {
+            const input = document.getElementById('bulk-input').value.trim();
+            try {
+                birdDatabase = input.startsWith('[') ? JSON.parse(input) : parseCSV(input);
+                saveToStorage(); refreshFilterLists(); renderDatabase();
+                toggleModal('modal-bulk');
+                alert(`Loaded ${birdDatabase.length} birds.`);
+                returnToSetup();
+            } catch (e) { alert("Error: " + e.message); }
+        }
+
+        function exportData() {
+            document.getElementById('bulk-input').value = JSON.stringify(birdDatabase, null, 2);
+        }
+
+        function renderDatabase() {
+            const list = document.getElementById('db-list'); list.innerHTML = '';
+            birdDatabase.forEach(bird => {
+                const row = document.createElement('tr');
+                row.className = "hover:bg-slate-50 transition";
+                row.innerHTML = `<td class="px-8 py-5 font-bold text-slate-800">${bird.common_name}</td><td class="px-8 py-5 text-slate-400 italic">${bird.scientific_name}</td><td class="px-8 py-5 font-bold text-emerald-600">${bird.family}</td><td class="px-8 py-5 text-right"><button onclick="deleteBird('${bird.common_name}')" class="text-slate-300 hover:text-rose-500 transition"><i class="fas fa-trash"></i></button></td>`;
+                list.appendChild(row);
+            });
+        }
+
+        function deleteBird(n) { birdDatabase = birdDatabase.filter(b => b.common_name !== n); saveToStorage(); renderDatabase(); refreshFilterLists(); }
+        function loadFromStorage() { const s = localStorage.getItem('sa_bird_expert_db'); if(s) birdDatabase = JSON.parse(s); }
+        function saveToStorage() { localStorage.setItem('sa_bird_expert_db', JSON.stringify(birdDatabase)); }
+        function toggleModal(id) { const m = document.getElementById(id); m.classList.toggle('hidden'); m.classList.toggle('flex'); }
+        function updateStats() {
+            document.getElementById('stat-streak').innerText = stats.streak;
+            const acc = stats.total === 0 ? 0 : Math.round((stats.correct / stats.total) * 100);
+            document.getElementById('stat-accuracy').innerText = `${acc}%`;
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.code === 'Space' && !document.getElementById('view-quiz').classList.contains('hidden')) {
+                e.preventDefault(); isFlipped ? nextCard() : toggleAudio();
+            }
+        });
+    </script>
+</body>
+</html>
